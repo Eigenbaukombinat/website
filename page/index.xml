@@ -1,104 +1,1004 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on Eigenbau​kombinat</title><link>https://eigenbaukombinat.de/page/</link><description>Recent content in Pages on Eigenbau​kombinat</description><generator>Hugo -- gohugo.io</generator><managingEditor>kontakt@eigenbaukombinat.de (EBK Impressum)</managingEditor><webMaster>kontakt@eigenbaukombinat.de (EBK Impressum)</webMaster><lastBuildDate>Tue, 07 Jan 2025 18:00:00 +0000</lastBuildDate><atom:link href="https://eigenbaukombinat.de/page/index.xml" rel="self" type="application/rss+xml"/><item><title>HaGeWe</title><link>https://eigenbaukombinat.de/hagewe/</link><pubDate>Tue, 07 Jan 2025 18:00:00 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/hagewe/</guid><description>Halle Geekend Weekend Ein Geekend in Halle (Saale) im April 2025!
-Alle relevanten Blogartikel zum Projekt hier im Überblick</description></item><item><title>Keramik Workshops</title><link>https://eigenbaukombinat.de/keramikworkshops/</link><pubDate>Sat, 21 Dec 2024 13:00:00 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/keramikworkshops/</guid><description>Workshopreihe Keramik Wir organisieren eine Workshopreihe zum Thema Keramik.
-Alle relevanten Blogartikel zur Workshopreihe hier im Überblick</description></item><item><title>Jugendworkshops</title><link>https://eigenbaukombinat.de/jugendworkshops/</link><pubDate>Fri, 20 Dec 2024 13:00:00 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/jugendworkshops/</guid><description>Workshopreihe Von Hacker*in zu Hacker*in Wir organisieren eine Workshopreihe zum Thema Umgang mit Technik und Medien speziell für Mädchen, junge Frauen und diverse Personen im Alter von 10 bis 18 Jahren.
-Alle relevanten Blogartikel zur Workshopreihe hier im Überblick</description></item><item><title>Junghacker</title><link>https://eigenbaukombinat.de/junghacker/</link><pubDate>Fri, 20 Dec 2024 13:00:00 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/junghacker/</guid><description>{JUNGHACKER} – Programmieren für Kids Die Veranstaltungsreihe &amp;ldquo;Junghacker&amp;rdquo; oder auch anfangs &amp;ldquo;{JUNGHACKER} – Programmieren für Kids&amp;rdquo; ist ein Projekt im Eigenabukombinat Halle e.V. .
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Eigenbau​kombinat</title>
+    <link>https://eigenbaukombinat.de/page/</link>
+    <description>Recent content in Pages on Eigenbau​kombinat</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>kontakt@eigenbaukombinat.de (EBK Impressum)</managingEditor>
+    <webMaster>kontakt@eigenbaukombinat.de (EBK Impressum)</webMaster>
+    <lastBuildDate>Tue, 07 Jan 2025 18:00:00 +0000</lastBuildDate><atom:link href="https://eigenbaukombinat.de/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HaGeWe</title>
+      <link>https://eigenbaukombinat.de/hagewe/</link>
+      <pubDate>Tue, 07 Jan 2025 18:00:00 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/hagewe/</guid>
+      <description>Halle Geekend Weekend Ein Geekend in Halle (Saale) im April 2025!
+     Alle relevanten Blogartikel zum Projekt hier im Überblick </description>
+    </item>
+    
+    <item>
+      <title>Keramik Workshops</title>
+      <link>https://eigenbaukombinat.de/keramikworkshops/</link>
+      <pubDate>Sat, 21 Dec 2024 13:00:00 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/keramikworkshops/</guid>
+      <description>Workshopreihe Keramik Wir organisieren eine Workshopreihe zum Thema Keramik.
+Alle relevanten Blogartikel zur Workshopreihe hier im Überblick </description>
+    </item>
+    
+    <item>
+      <title>Jugendworkshops</title>
+      <link>https://eigenbaukombinat.de/jugendworkshops/</link>
+      <pubDate>Fri, 20 Dec 2024 13:00:00 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/jugendworkshops/</guid>
+      <description>Workshopreihe Von Hacker*in zu Hacker*in Wir organisieren eine Workshopreihe zum Thema Umgang mit Technik und Medien speziell für Mädchen, junge Frauen und diverse Personen im Alter von 10 bis 18 Jahren.
+     Alle relevanten Blogartikel zur Workshopreihe hier im Überblick </description>
+    </item>
+    
+    <item>
+      <title>Junghacker</title>
+      <link>https://eigenbaukombinat.de/junghacker/</link>
+      <pubDate>Fri, 20 Dec 2024 13:00:00 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/junghacker/</guid>
+      <description>{JUNGHACKER} – Programmieren für Kids Die Veranstaltungsreihe &amp;ldquo;Junghacker&amp;rdquo; oder auch anfangs &amp;ldquo;{JUNGHACKER} – Programmieren für Kids&amp;rdquo; ist ein Projekt im Eigenabukombinat Halle e.V. .
 Das Gemeinsachftlich gegründete Projekt durch Hacker *innen im Umfeld von Terminal.21 und des Hackspaces im Eigenbaukombinat richtet sich an Kids zwischen zehn und achtzehn Jahren, die kreativen Umgang mit Technik suchen und dabei durch Mentoren unsterstützt werden.
-Seit Oktober 2016 gibt es nahezu jeden vierten Samstag im Monat die Möglichkeit sich im Rahmen des Junghackertages in den Räumlichkeiten des Eigenbaukombinat Halle e.</description></item><item><title>Spinntreffen</title><link>https://eigenbaukombinat.de/Spinntreffen/</link><pubDate>Sat, 20 Jan 2024 10:00:00 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/Spinntreffen/</guid><description>Für alle Wollebegeisterten mit oder ohne Spinnrad - wir treffen uns einmal im Monat zum ausprobieren und austauschen:
-Welche Spinnräder gibt es? Welche Wolle? Wie spinnt man und was kommt davor oder danach? Inspirationen aus vergangenem Workshop: https://eigenbaukombinat.de/spinnerei-im-kombinat/
+Seit Oktober 2016 gibt es nahezu jeden vierten Samstag im Monat die Möglichkeit sich im Rahmen des Junghackertages in den Räumlichkeiten des Eigenbaukombinat Halle e.</description>
+    </item>
+    
+    <item>
+      <title>Spinntreffen</title>
+      <link>https://eigenbaukombinat.de/Spinntreffen/</link>
+      <pubDate>Sat, 20 Jan 2024 10:00:00 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/Spinntreffen/</guid>
+      <description>Für alle Wollebegeisterten mit oder ohne Spinnrad - wir treffen uns einmal im Monat zum ausprobieren und austauschen:
+ Welche Spinnräder gibt es? Welche Wolle? Wie spinnt man und was kommt davor oder danach?  Inspirationen aus vergangenem Workshop: https://eigenbaukombinat.de/spinnerei-im-kombinat/
 Termin Jeden dritten Freitag im Monat ab 17:00 Uhr.
 Dauer Etwa 2 Stunden.
-Teilnehmen ohne Anmeldung Anzahl unbeschränkt offen für Gäste Kontakt E-Mail: kleine.</description></item><item><title>Technik-Notaufnahme</title><link>https://eigenbaukombinat.de/technik-notaufnahme/</link><pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/technik-notaufnahme/</guid><description>Defektes Notebook, Probleme mit HiFi komponenten oder sonstige Elektronische Liebhaberstücke? Windows- oder Linuxprobleme? Du hast ein Problem, weißt aber nicht wie du es lösen sollst? Dir fehlt das passende Werkzeug? In der Technik-Notaufnahme gibt es Hilfe zur Selbsthilfe. Bitte meldet euch mit möglichst umfangreicher Fehlerbeschreibung und schildert das Problem. Wir versuchen dann gemeinsam mit Euch eine Lösung zu finden.
-Denke bitte bei PC-Problemen daran, vorher eine Datensicherung zu machen.</description></item><item><title>Siebdruckwerkstatt</title><link>https://eigenbaukombinat.de/siebdruckwerkstatt/</link><pubDate>Mon, 28 Oct 2019 13:35:12 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/siebdruckwerkstatt/</guid><description>Zur Ausstattung gehören, insbesondere dank der Förderung der anstiftung, jetzt folgende Dinge:
-jede Menge Siebe in DIn A2 (ein Teil davon bereits mit schicken Motiven belichtet) * Ein Siebdruck-Karussell für bis zu 4 Farben. * Ein Flash-Dryer für die schnelle Zwischentrocknung von Farben und die Endfixierung. * Eine Vorrichtung zur Siebbelichtung (bis DIN A2) sowie alle dafür benötigten Werkzeuge und Verbrauchsmittel . * Ein A3+-Tintenstrahldrucker zum Drucken von transparenten Filmen, die dann zur Belichtung von Sieben eingesetzt werden.</description></item><item><title>Foto-VirtualReality-Kino</title><link>https://eigenbaukombinat.de/foto-virtualreality-kino/</link><pubDate>Mon, 28 Oct 2019 09:07:46 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/foto-virtualreality-kino/</guid><description>In diesem Raum wird die große freie Fläche zu gleichen Teilen vom Fotostudio (Abstand bei Ganzkörperaufnahmen), für Virtual-Reality (Abstand zu Zuschauern) und auch als Kinosaal (Stühle und Couch flexibel stellbar, freie Wand vorhanden) genutzt.
+Teilnehmen  ohne Anmeldung Anzahl unbeschränkt offen für Gäste  Kontakt E-Mail: kleine.</description>
+    </item>
+    
+    <item>
+      <title>Technik-Notaufnahme</title>
+      <link>https://eigenbaukombinat.de/technik-notaufnahme/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/technik-notaufnahme/</guid>
+      <description>Defektes Notebook, Probleme mit HiFi komponenten oder sonstige Elektronische Liebhaberstücke? Windows- oder Linuxprobleme? Du hast ein Problem, weißt aber nicht wie du es lösen sollst? Dir fehlt das passende Werkzeug? In der Technik-Notaufnahme gibt es Hilfe zur Selbsthilfe. Bitte meldet euch mit möglichst umfangreicher Fehlerbeschreibung und schildert das Problem. Wir versuchen dann gemeinsam mit Euch eine Lösung zu finden.
+Denke bitte bei PC-Problemen daran, vorher eine Datensicherung zu machen.</description>
+    </item>
+    
+    <item>
+      <title>Siebdruckwerkstatt</title>
+      <link>https://eigenbaukombinat.de/siebdruckwerkstatt/</link>
+      <pubDate>Mon, 28 Oct 2019 13:35:12 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/siebdruckwerkstatt/</guid>
+      <description>Zur Ausstattung gehören, insbesondere dank der Förderung der anstiftung, jetzt folgende Dinge:
+  jede Menge Siebe in DIn A2 (ein Teil davon bereits mit schicken Motiven belichtet) * Ein Siebdruck-Karussell für bis zu 4 Farben. * Ein Flash-Dryer für die schnelle Zwischentrocknung von Farben und die Endfixierung. * Eine Vorrichtung zur Siebbelichtung (bis DIN A2) sowie alle dafür benötigten Werkzeuge und Verbrauchsmittel . * Ein A3+-Tintenstrahldrucker zum Drucken von transparenten Filmen, die dann zur Belichtung von Sieben eingesetzt werden.</description>
+    </item>
+    
+    <item>
+      <title>Foto-VirtualReality-Kino</title>
+      <link>https://eigenbaukombinat.de/foto-virtualreality-kino/</link>
+      <pubDate>Mon, 28 Oct 2019 09:07:46 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/foto-virtualreality-kino/</guid>
+      <description>In diesem Raum wird die große freie Fläche zu gleichen Teilen vom Fotostudio (Abstand bei Ganzkörperaufnahmen), für Virtual-Reality (Abstand zu Zuschauern) und auch als Kinosaal (Stühle und Couch flexibel stellbar, freie Wand vorhanden) genutzt.
 In unserem Fotostudio gibt es
-3 Blitzköpfe Elinchrom mit Softboxen (Große Octabox, zwei kleinere 40cm und 50cm große quadratische) + Stative * Hintergrundsystem (Papier weiß und grau vorhanden) Im VR-Bereich gibt es
-HTC vive * Spiele-PC * Beatsabre :) Im Kino gibt es:</description></item><item><title>Audio-Video</title><link>https://eigenbaukombinat.de/audio-video/</link><pubDate>Mon, 28 Oct 2019 09:02:53 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/audio-video/</guid><description>Ausstattung und Möglichkeiten 4k-tauglicher Schnitt-PC * 4k Videokamera JVC (Dauerleihgabe) + Videostativ * Canon EOS M50 + 15-45mm Objektiv + 2 * 64GB Speicherkarte * 3 * LED-Scheinwerfer Neewer mit Akkusatz
-AudioPC UbuntuStudio mit Audio-Interface, Aktiv-Studiomonitore von Behringer + Subwoofer * 40&amp;quot; Monitor für den AudioPC * diverse Mikrofone, u.a. Großmembran, vorhanden * (Sprecherbox in Planung)</description></item><item><title>Keramik-Treffen</title><link>https://eigenbaukombinat.de/keramik-treffen/</link><pubDate>Mon, 21 Oct 2019 11:49:57 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/keramik-treffen/</guid><description>Wir treffen uns zum Austausch über das schöne Thema Töpfern, Keramik und brennen von Ton und besprechen anstehende organisatorische Themen.
+ 3 Blitzköpfe Elinchrom mit Softboxen (Große Octabox, zwei kleinere 40cm und 50cm große quadratische) + Stative * Hintergrundsystem (Papier weiß und grau vorhanden)  Im VR-Bereich gibt es
+ HTC vive * Spiele-PC * Beatsabre :)  Im Kino gibt es:</description>
+    </item>
+    
+    <item>
+      <title>Audio-Video</title>
+      <link>https://eigenbaukombinat.de/audio-video/</link>
+      <pubDate>Mon, 28 Oct 2019 09:02:53 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/audio-video/</guid>
+      <description>Ausstattung und Möglichkeiten   4k-tauglicher Schnitt-PC * 4k Videokamera JVC (Dauerleihgabe) + Videostativ * Canon EOS M50 + 15-45mm Objektiv + 2 * 64GB Speicherkarte * 3 * LED-Scheinwerfer Neewer mit Akkusatz
+  AudioPC UbuntuStudio mit Audio-Interface, Aktiv-Studiomonitore von Behringer + Subwoofer * 40&amp;quot; Monitor für den AudioPC * diverse Mikrofone, u.a. Großmembran, vorhanden * (Sprecherbox in Planung)
+  </description>
+    </item>
+    
+    <item>
+      <title>Keramik-Treffen</title>
+      <link>https://eigenbaukombinat.de/keramik-treffen/</link>
+      <pubDate>Mon, 21 Oct 2019 11:49:57 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/keramik-treffen/</guid>
+      <description>Wir treffen uns zum Austausch über das schöne Thema Töpfern, Keramik und brennen von Ton und besprechen anstehende organisatorische Themen.
 Es gibt Einweisungen in Maschinen und Werkzeug, und die Möglichkeit selbst mit Ton zu arbeiten.
 Termin Jeden Dienstag ab 19:00 Uhr.
 Dauer Etwa 2 Stunden.
-Teilnehmen ohne Anmeldung Anzahl unbeschränkt offen für Gäste Kosten Nur Verbrauchskosten (falls zutreffend).</description></item><item><title>Siebdruck-Treffen</title><link>https://eigenbaukombinat.de/siebdruck-treffen/</link><pubDate>Mon, 21 Oct 2019 11:33:36 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/siebdruck-treffen/</guid><description>Wir treffen uns zum Austausch über das schöne Thema Siebdruck, besprechen anstehende organisatorische Themen, erledigen Dinge oder drucken auch mal was.
+Teilnehmen  ohne Anmeldung Anzahl unbeschränkt offen für Gäste  Kosten Nur Verbrauchskosten (falls zutreffend).</description>
+    </item>
+    
+    <item>
+      <title>Siebdruck-Treffen</title>
+      <link>https://eigenbaukombinat.de/siebdruck-treffen/</link>
+      <pubDate>Mon, 21 Oct 2019 11:33:36 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/siebdruck-treffen/</guid>
+      <description>Wir treffen uns zum Austausch über das schöne Thema Siebdruck, besprechen anstehende organisatorische Themen, erledigen Dinge oder drucken auch mal was.
 Termin Immer am 4. Mittwoch im Monat ab 19:30 Uhr.
 Dauer Je nach Bedarf, meistens etwa 2 Stunden.
-Teilnehmen ohne Anmeldung Anzahl unbeschränkt offen für Gäste Kosten Nur Verbrauchskosten (falls gedruckt wird).</description></item><item><title>Workshop Schweißkurs</title><link>https://eigenbaukombinat.de/workshop-schweisskurs/</link><pubDate>Tue, 05 Feb 2019 19:42:51 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/workshop-schweisskurs/</guid><description>**TERMIN** 02. - 03.03.2019 **DAUER** 2x 4 Stunden **TEILNEHMER** max. 12 **KOSTEN** 40 Euro für Vereinsmitglieder, 80 Euro für Externe **KURSLEITER** Jens Köster **ORT** Eigenbaukombinat **INHALT** Am 02. - 03.03.2019 wird in 8h dem Kursteilnehmer in Theorie und Praxis alles nötige Wissen vermittelt, um danach selbständig seine Fertigkeit am Schweißgerät einzuschätzen und durch Übung zu optimieren.</description></item><item><title>Flohmarkt im Eigenbaukombinat</title><link>https://eigenbaukombinat.de/flohmarkt/</link><pubDate>Tue, 12 Jun 2018 22:16:39 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/flohmarkt/</guid><description>Sommerzeit ist Flohmarktzeit!
-Also haben wir nicht nur das EBK, sondern auch bei uns zu Hause ausgemistet und laden euch ein, es uns gleich zu tun! Kommt vorbei, verkauft Dinge, die ihr nicht mehr benötigt oder begebt euch auf die Suche nach Schätzen. Darunter nicht nur die üblichen Dinge, wie Kleidung, Bücher, Spielzeug und Krims Krams, sondern auch das ein oder andere Technikhighlight und Werkzeug. Vorbei schauen und stöbern lohnt sich auf jeden Fall!</description></item><item><title>Metall-Treffen</title><link>https://eigenbaukombinat.de/metall-treffen/</link><pubDate>Tue, 24 Apr 2018 23:54:38 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/metall-treffen/</guid><description>Die Freunde der Metallverarbeitung im Eigenbaukombinat treffen sich regelmäßig monatlich immer am ersten Montag. Es werden aktuelle Themen besprochen, Maschinen und Werkzeuge gewartet und repariert, sowie Zukunftspläne geschmiedet.
+Teilnehmen  ohne Anmeldung Anzahl unbeschränkt offen für Gäste  Kosten Nur Verbrauchskosten (falls gedruckt wird).</description>
+    </item>
+    
+    <item>
+      <title>Workshop Schweißkurs</title>
+      <link>https://eigenbaukombinat.de/workshop-schweisskurs/</link>
+      <pubDate>Tue, 05 Feb 2019 19:42:51 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/workshop-schweisskurs/</guid>
+      <description>**TERMIN**  02. - 03.03.2019   **DAUER**  2x 4 Stunden   **TEILNEHMER**  max. 12   **KOSTEN**  40 Euro für Vereinsmitglieder, 80 Euro für Externe   **KURSLEITER**  Jens Köster   **ORT**  Eigenbaukombinat   **INHALT**  Am 02. - 03.03.2019 wird in 8h dem Kursteilnehmer in Theorie und Praxis alles nötige Wissen vermittelt, um danach selbständig seine Fertigkeit am Schweißgerät einzuschätzen und durch Übung zu optimieren.</description>
+    </item>
+    
+    <item>
+      <title>Flohmarkt im Eigenbaukombinat</title>
+      <link>https://eigenbaukombinat.de/flohmarkt/</link>
+      <pubDate>Tue, 12 Jun 2018 22:16:39 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/flohmarkt/</guid>
+      <description>Sommerzeit ist Flohmarktzeit!
+Also haben wir nicht nur das EBK, sondern auch bei uns zu Hause ausgemistet und laden euch ein, es uns gleich zu tun! Kommt vorbei, verkauft Dinge, die ihr nicht mehr benötigt oder begebt euch auf die Suche nach Schätzen. Darunter nicht nur die üblichen Dinge, wie Kleidung, Bücher, Spielzeug und Krims Krams, sondern auch das ein oder andere Technikhighlight und Werkzeug. Vorbei schauen und stöbern lohnt sich auf jeden Fall!</description>
+    </item>
+    
+    <item>
+      <title>Metall-Treffen</title>
+      <link>https://eigenbaukombinat.de/metall-treffen/</link>
+      <pubDate>Tue, 24 Apr 2018 23:54:38 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/metall-treffen/</guid>
+      <description>Die Freunde der Metallverarbeitung im Eigenbaukombinat treffen sich regelmäßig monatlich immer am ersten Montag. Es werden aktuelle Themen besprochen, Maschinen und Werkzeuge gewartet und repariert, sowie Zukunftspläne geschmiedet.
 Metall-Pad: https://pads.eigenbaukombinat.de/Metall
 Termin Immer am ersten Montag im Monat ab 19:00 Uhr.
 Dauer Etwa 3 Stunden.
-Teilnehmen ohne Anmeldung Anzahl unbeschränkt offen für Gäste</description></item><item><title>Audiotreffen</title><link>https://eigenbaukombinat.de/audiotreffen/</link><pubDate>Fri, 23 Feb 2018 18:59:09 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/audiotreffen/</guid><description>**TERMIN** jeden Monat am vierten Dienstag, 19 Uhr **TEILNEHMER** unbeschränkt **KOSTEN** kostenlos **ANSPRECHPARTNER** David Rauh **ORT** Eigenbaukombinat **INHALT** Alles rund um Audio, Treffpunkt Tonstudio. **ANMELDUNG** nicht notwendig</description></item><item><title>Vortrag: Linux und Audio(software)</title><link>https://eigenbaukombinat.de/vortrag-linux-audio/</link><pubDate>Wed, 24 Jan 2018 19:32:21 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/vortrag-linux-audio/</guid><description>**TERMIN** 30. Januar 2018, 19 Uhr **TEILNEHMER** unbeschränkt **KOSTEN** kostenlos **KURSLEITER** David Rauh **ORT** Eigenbaukombinat **INHALT** Der Vortrag soll einen Einstieg in die Audiobearbeitung unter Linux ermöglichen. Es werden unter anderem folgende Themen behandelt: * Linux-Distributionen für Audio-Bearbeitung * Gerätetreiber * Konfiguration für geringe Latenz * Soundserver * Audio-Protokolle * Überblick über Audio-Software Anschließend besteht die Möglichkeit zum Austausch untereinander und der Vertiefung einiger Themen.</description></item><item><title>Arbeitskreis Design und Gestaltung</title><link>https://eigenbaukombinat.de/ak-design-gestaltung/</link><pubDate>Mon, 27 Nov 2017 22:32:16 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/ak-design-gestaltung/</guid><description>TERMIN 28. November, 19:00 Uhr TEILNEHMER unbeschränkt KOSTEN kostenlos ORT Eigenbaukombinat INHALT Alle Interessierten sind eingeladen, Bilder von coolen Designideen für die Raumgestaltung des EBK mitzubringen. Wir wollen uns überlegen, ob wir daraus ein Designkonzept für den Sozialraum oder andere Räume des EBK entwickeln können.</description></item><item><title>Vortrag: Public money, public code</title><link>https://eigenbaukombinat.de/vortrag-public-money-public-code/</link><pubDate>Sun, 26 Nov 2017 21:06:50 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/vortrag-public-money-public-code/</guid><description>**TERMIN** Donnerstag, 7.12.2017 ab 19:00 Uhr **DAUER** etwa 1 Stunden; danach freie Diskussion OpenEnd **KOSTEN** kostenlos **KURSLEITER** [Erik Albers](/fsfe.org/about/albers/albers.en.html) [(FSFE)](/fsfe.org/) **ORT** Eigenbaukombinat **INHALT** Staat und Verwaltung haben einen stets wachsenden Bedarf an Daten und Anwendungsprogrammen. Dabei entwickelt der Staat teilweise selbst oder ist direkter Auftraggeber von Software-Entwicklungen. In beiden Fällen werden öffentliche Gelder verwendet, um Software zu entwickeln und der Gedanke drängt sich auf, diese Software unter Verwendung freier Lizenzen auch wieder an die Öffentlichkeit zurück zu führen.</description></item><item><title>Fototag</title><link>https://eigenbaukombinat.de/fototag/</link><pubDate>Fri, 03 Nov 2017 20:40:57 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/fototag/</guid><description>TERMIN Jeden Donnerstag ab 19 Uhr
+Teilnehmen  ohne Anmeldung Anzahl unbeschränkt offen für Gäste  </description>
+    </item>
+    
+    <item>
+      <title>Audiotreffen</title>
+      <link>https://eigenbaukombinat.de/audiotreffen/</link>
+      <pubDate>Fri, 23 Feb 2018 18:59:09 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/audiotreffen/</guid>
+      <description>**TERMIN**  jeden Monat am vierten Dienstag, 19 Uhr   **TEILNEHMER**  unbeschränkt   **KOSTEN**  kostenlos   **ANSPRECHPARTNER**  David Rauh   **ORT**  Eigenbaukombinat   **INHALT**  Alles rund um Audio, Treffpunkt Tonstudio.   **ANMELDUNG**  nicht notwendig     </description>
+    </item>
+    
+    <item>
+      <title>Vortrag: Linux und Audio(software)</title>
+      <link>https://eigenbaukombinat.de/vortrag-linux-audio/</link>
+      <pubDate>Wed, 24 Jan 2018 19:32:21 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/vortrag-linux-audio/</guid>
+      <description>**TERMIN**  30. Januar 2018, 19 Uhr   **TEILNEHMER**  unbeschränkt   **KOSTEN**  kostenlos   **KURSLEITER**  David Rauh   **ORT**  Eigenbaukombinat   **INHALT**  Der Vortrag soll einen Einstieg in die Audiobearbeitung unter Linux ermöglichen. Es werden unter anderem folgende Themen behandelt:  * Linux-Distributionen für Audio-Bearbeitung * Gerätetreiber * Konfiguration für geringe Latenz * Soundserver * Audio-Protokolle * Überblick über Audio-Software  Anschließend besteht die Möglichkeit zum Austausch untereinander und der Vertiefung einiger Themen.</description>
+    </item>
+    
+    <item>
+      <title>Arbeitskreis Design und Gestaltung</title>
+      <link>https://eigenbaukombinat.de/ak-design-gestaltung/</link>
+      <pubDate>Mon, 27 Nov 2017 22:32:16 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/ak-design-gestaltung/</guid>
+      <description>TERMIN  28. November, 19:00 Uhr   TEILNEHMER  unbeschränkt   KOSTEN  kostenlos   ORT  Eigenbaukombinat   INHALT  Alle Interessierten sind eingeladen, Bilder von coolen Designideen für die Raumgestaltung des EBK mitzubringen. Wir wollen uns überlegen, ob wir daraus ein Designkonzept für den Sozialraum oder andere Räume des EBK entwickeln können.
+    </description>
+    </item>
+    
+    <item>
+      <title>Vortrag: Public money, public code</title>
+      <link>https://eigenbaukombinat.de/vortrag-public-money-public-code/</link>
+      <pubDate>Sun, 26 Nov 2017 21:06:50 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/vortrag-public-money-public-code/</guid>
+      <description>**TERMIN**  Donnerstag, 7.12.2017 ab 19:00 Uhr   **DAUER**  etwa 1 Stunden; danach freie Diskussion OpenEnd   **KOSTEN**  kostenlos   **KURSLEITER**  [Erik Albers](/fsfe.org/about/albers/albers.en.html) [(FSFE)](/fsfe.org/)   **ORT**  Eigenbaukombinat   **INHALT**  Staat und Verwaltung haben einen stets wachsenden Bedarf an Daten und Anwendungsprogrammen. Dabei entwickelt der Staat teilweise selbst oder ist direkter Auftraggeber von Software-Entwicklungen. In beiden Fällen werden öffentliche Gelder verwendet, um Software zu entwickeln und der Gedanke drängt sich auf, diese Software unter Verwendung freier Lizenzen auch wieder an die Öffentlichkeit zurück zu führen.</description>
+    </item>
+    
+    <item>
+      <title>Fototag</title>
+      <link>https://eigenbaukombinat.de/fototag/</link>
+      <pubDate>Fri, 03 Nov 2017 20:40:57 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/fototag/</guid>
+      <description>TERMIN Jeden Donnerstag ab 19 Uhr
 DAUER 3 Stunden
 TEILNEHMER 1
 KOSTEN 5,00 Eur für Nicht-Mitglieder + Verbrauch
 ORT Eigenbaukombinat
-INHALT Donnerstags können das Fotostudio und die Dunkelkammer durch Mitglieder und Nichtmitglieder genutzt werden. Du erhältst technische Unterstützung, solltest aber schon Vorkenntnisse mitbringen, so dass du nach einer kurzen Einweisung selbstständig arbeiten kannst.Damit du dir das Fotostudio oder die Dunkelkammer nicht mit anderen teilen musst, melde dich bitte über das Pretix an.</description></item><item><title>Tor-Vortrag</title><link>https://eigenbaukombinat.de/tor-vortrag/</link><pubDate>Tue, 31 Oct 2017 20:39:33 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/tor-vortrag/</guid><description>**TERMIN** 29. November, 19:00 Uhr **DAUER** etwa 2 Stunden **TEILNEHMER** unbeschränkt **KOSTEN** kostenlos **ORT** Eigenbaukombinat **INHALT** Der Vortrag handelt von den so genannten Tor Onion Services. Die werden in der Presse gern als Darknet behandelt. Ich werde zunächst erklären, wie die technisch funktionieren und welche Angriffe es gegen das Sicherheitsmodell gibt. Grundlage sind eine Reihe wissenschaftlicher Veröffentlichungen, die die Sicherheit stark angekratzt haben.</description></item><item><title>Offenes Treffen für Junghacker:innen</title><link>https://eigenbaukombinat.de/junghackertreffen/</link><pubDate>Tue, 31 Oct 2017 20:11:36 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/junghackertreffen/</guid><description>Der Junghacker:innentreff ist ein offener Treff für junge Menschen, die sich zusätzlich zum monatlichen Termin treffen möchten, um an ihren eigenen Projekten zu arbeiten. Die Junghacker:innen helfen sich dabei gegenseitig. Betreuer:innen können Hilfestellungen geben.
-Der Junghacker:innentreff ist passend für Dich, wenn Du mindestens 10 Jahre alt bist, und schon erste Erfahrungen im Programmieren gesammelt hast, zum Beispiel im Rahmen unserer monatlich stattfindenden Veranstaltung JUNGHACKER.</description></item><item><title>Holzaktiventag</title><link>https://eigenbaukombinat.de/holzaktiventag/</link><pubDate>Sat, 30 Sep 2017 20:34:51 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/holzaktiventag/</guid><description>**TERMIN** Mittwoch, 09. Mai 2018, 19 Uhr **DAUER** etwa 2,5 Stunden **TEILNEHMER** unbeschränkt **KOSTEN** kostenlos **ORT** Eigenbaukombinat **BESCHREIBUNG** Am Holzaktiventag erhaltet ihr fachliche Unterstützung und Tipps für eure Holzprojekte. Es wird mindestens eine sachkundige Person anwesend sein, die ihr um Rat fragen könnt und die euch auch sonst rund um das Thema Holzarbeiten unterstützen kann.</description></item><item><title>Upcycling Flaschenschneiden</title><link>https://eigenbaukombinat.de/upcycling-flaschenschneiden/</link><pubDate>Tue, 16 May 2017 19:34:11 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/upcycling-flaschenschneiden/</guid><description>**TERMIN** Sonntag, 16. Juli 2017, 12:00 Uhr **DAUER** etwa 4 Stunden **TEILNEHMER** max. 6 **KOSTEN** 15 EUR für Externe, 12 EUR für Mitglieder **KURSLEITER** Karsta und Anne **ORT** Eigenbaukombinat **INHALT** Von wegen Müll… In diesem Workshop zeigen wir Euch, was man alles aus alten Glasflaschen zaubern kann. Trinkgläser, Teelicht-Halter zum Stellen oder Hängen, Kerzenständer, kleine Vasen, Servietten-Ringe oder sogar Eierbecher – und Euch fällt bestimmt auch noch etwas ein.</description></item><item><title>Upcycling Reifentassen</title><link>https://eigenbaukombinat.de/upcycling-reifentassen/</link><pubDate>Tue, 16 May 2017 19:26:17 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/upcycling-reifentassen/</guid><description>**TERMIN** Sonntag, 4. Juni 2017, 12:00 Uhr **DAUER** etwa 5 Stunden **TEILNEHMER** max. 6 **KOSTEN** 35 EUR für Externe, 27 EUR für Mitglieder **KURSLEITER** Karsta und Anne **ORT** Eigenbaukombinat **INHALT** In diesem Kurs zeigen wir euch, wie ihr aus alten Reifen wunderschöne Pflanztassen machen könnt, um euren Garten /Balkon zu verschönern. In der Kursgebühr sind ein Reifen pro Teilnehmer, den wir für euch beschaffen, sowie bis zu zwei Dosen Farbe und alle sonstigen nötigen Arbeitsmaterialien enthalten.</description></item><item><title>CNC-Treffen</title><link>https://eigenbaukombinat.de/cnc-treffen/</link><pubDate>Thu, 09 Mar 2017 19:10:11 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/cnc-treffen/</guid><description>**TERMIN** jeden zweiten Mittwoch im Monat ab 20Uhr **DAUER** etwa 2 Stunden **TEILNEHMER** unbeschränkt **KOSTEN** kostenlos **ORT** Eigenbaukombinat **BESCHREIBUNG** Hier treffen wir uns zum Erfahrungsaustauch über's CNC-Fräsen. Es geht um Software wie LinuxCNC, QCad und Co. und auch Hardware, Materialien und Ideen, die man gemeinsam umsetzen möchte. [![](/wp-content/uploads/2014/07/IMG_0835-1024x682.jpg) ](/wp-content/uploads/2014/07/IMG_0835.jpg) **ANMELDUNG** nicht notwendig</description></item><item><title>Tag der offenen Tür am 15. und 16. Oktober 2016</title><link>https://eigenbaukombinat.de/tag-der-offenen-tuer-am-15-und-16-oktober-2016/</link><pubDate>Wed, 05 Oct 2016 19:15:49 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/tag-der-offenen-tuer-am-15-und-16-oktober-2016/</guid><description>Neugierig? Hereingeschaut! Am Samstag und Sonntag, den 15. und 16. Oktober 2016 veranstalten wir wieder einen großen Tag der offenen Tür. Im Mittelpunkt steht die Präsentation unserer neuen und größeren Räumlichkeiten in der Landsberger Straße 3 in Halle.
-Mit mittlerweile rund 550 m² Fläche ist das Eigenbaukombinat innerhalb der letzten drei Jahre zu einer der größten offenen Werkstätten Deutschlands herangewachsen. Hier können eigene Projekte aus den Bereichen Holz- und Metallbau, Elektronik, 3D-Druck, Fotografie, Modellbau bis hin zur Handarbeit mit alten und neuen Nähmaschinen umgesetzt werden.</description></item><item><title>Cryptoparty - Verschlüsseln kann jeder</title><link>https://eigenbaukombinat.de/cryptoparty/</link><pubDate>Fri, 15 Jul 2016 17:56:07 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/cryptoparty/</guid><description>**TERMIN** Donnerstag, 7.Juni 2018, ab 17:00 Uhr **DAUER** etwa 3-4 Stunden **TEILNEHMER** max. 12 **KOSTEN** kostenlos **KURSLEITER** Christian, Toni **ORT** Eigenbaukombinat in Kooperation mit der Landeszentrale für politische Bildung Sachsen-Anhalt **INHALT** Verschlüsselung im Alltag muss nicht zwangsläufig kompliziert und umständlich sein. Wir wollen mit euch im Workshop zusammen eine E-Mail-Verschlüsselung einrichten und über die anderen Themen in lockerer Runde sprechen.</description></item><item><title>Aufbaukurs Arduino</title><link>https://eigenbaukombinat.de/aufbaukurs-arduino/</link><pubDate>Tue, 07 Jun 2016 18:55:30 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/aufbaukurs-arduino/</guid><description>**TERMIN** Auf Anfrage **DAUER** etwa 6 Stunden (mit Pausen) **TEILNEHMER** maximal 4 **KOSTEN** 35 EUR für Externe, 25 EUR für Mitglieder **KURSLEITER** **ORT** Eigenbaukombinat **INHALT** In diesem Kurs lernst du, wie du mehr aus deinem Arduino herausholst. Themen:
-* Kombinationen Sensoren und Aktoren * Digitale Sensoren * Pixel-Displays Zum Abschluss kannst du aus sechs vorbereiteten Projekten unterschiedlichen Schwierigkeitsgrades eins wählen und unter fachkundiger Anleitung umsetzen.</description></item><item><title>Workshop Senf</title><link>https://eigenbaukombinat.de/workshop-senf/</link><pubDate>Sun, 29 May 2016 18:05:00 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/workshop-senf/</guid><description>**TERMIN** Samstag, 11. Juni, 15 Uhr **DAUER** ca. 3-4 Stunden **TEILNEHMER** max. 10 **KOSTEN** etwa 10 Euro Unkostenbeitrag **KURSLEITER** Frank Lanitz **ORT** Eigenbaukombinat **INHALT** Sempf! Wir wollen Senf machen. Was wäre eine Grillparty ohne die aromatische Paste auf der Wurst oder im Dressing der Salate. So wirkungsvoll das Gemisch aus Senfsaat, Essig und ist, so einfach ist auch deren Herstellung, aber auch so variantenreich das Auftreten.</description></item><item><title>Workshop Flaschen schneiden und gravieren</title><link>https://eigenbaukombinat.de/workshop-flaschen-schneiden/</link><pubDate>Mon, 16 May 2016 19:25:34 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/workshop-flaschen-schneiden/</guid><description>**TERMIN** Sonntag, 12. Juni, 14 Uhr **DAUER** ca. 3 Stunden **TEILNEHMER** 4-8 **KOSTEN** 12 Euro für Mitglieder, 15 Euro für Externe **KURSLEITER** André Przybilla (Makerspace Leipzig) **ORT** Eigenbaukombinat **INHALT** Dank der Zusammenarbeit mit dem [Makerspace Leipzig](https://makerspace-leipzig.de/) können wir Euch diesen neuen Kurs anbieten: **Workshop Flaschen schneiden und gravieren**! Von wegen Müll… In diesem Workshop zeigen wir Euch, was man alles aus alten Glasflaschen zaubern kann.</description></item><item><title>status</title><link>https://eigenbaukombinat.de/extstatus/</link><pubDate>Mon, 02 May 2016 00:00:00 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/extstatus/</guid><description>Status uptimerobot.com</description></item><item><title>Spielecafé</title><link>https://eigenbaukombinat.de/spielecafe/</link><pubDate>Thu, 21 Apr 2016 19:38:39 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/spielecafe/</guid><description>**TERMIN** Sonntag, 1. Mai 2016, ab 15 Uhr **DAUER** offen **TEILNEHMER** unbeschränkt **KOSTEN** kostenlos **KURSLEITER** Würfelpech Halle e.V. **ORT** Eigenbaukombinat **INHALT** Am 1. Mai wird bei uns mal ganz ohne Computer gespielt. Der Verein Würfelpech Halle e.V. veranstaltet in unseren Räumen ein Spielecafe. Die Spiele werden sich vor allem um das Bauen drehen.</description></item><item><title>Aufbaukurs Digitale Fotografie</title><link>https://eigenbaukombinat.de/aufbaukurs-digitale-fotografie/</link><pubDate>Wed, 20 Apr 2016 17:47:19 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/aufbaukurs-digitale-fotografie/</guid><description>**TERMIN** Auf Anfrage **DAUER** etwa 3 Stunden **TEILNEHMER** max. 4 **KOSTEN** 10 EUR für Mitglieder, 15 EUR für Externe **KURSLEITER** Nico Markula **ORT** Eigenbaukombinat **INHALT** * Lichtsetzung Portrait und Produkt * Kameraeinstellungen in Studiosituationen. Bitte bringt möglichst eine eigene digitale Spiegelreflexkamera mit!
-**ANMELDUNG** E-Mail an [veranstaltungen@eigenbaukombinat.de](mailto:veranstaltungen@eigenbaukombinat.de?subject=Anmeldung Workshop Nähen Teil 1)</description></item><item><title>Grundkurs Digitale Fotografie</title><link>https://eigenbaukombinat.de/grundkurs-digitale-fotografie/</link><pubDate>Wed, 20 Apr 2016 17:42:50 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/grundkurs-digitale-fotografie/</guid><description>**TERMIN** Auf Anfrage **DAUER** etwa 3 Stunden **TEILNEHMER** max. 6 **KOSTEN** 10 EUR für Mitglieder, 15 EUR für Externe **KURSLEITER** Nico Markula **ORT** Eigenbaukombinat **INHALT** * Geschichte der Fotografie * Grundlagen: Brennweite, Blende, Zeit, ISO * Objektive * Einblick in Mittel- und Großformat. Bitte bringt möglichst eine eigene Digitalkamera (idealerweise Spiegelreflex) mit!</description></item><item><title>Grundkurs Nähen</title><link>https://eigenbaukombinat.de/grundkurs-naehen/</link><pubDate>Wed, 16 Mar 2016 20:07:47 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/grundkurs-naehen/</guid><description>**TERMIN** Auf Anfrage **DAUER** etwa 4 Stunden **TEILNEHMER** max. 4 **KOSTEN** 15 EUR für Mitglieder, 20 EUR für Externe; zzgl. Material **KURSLEITER** Stephanie Weier **ORT** Eigenbaukombinat **INHALT** Im Kurs vermitteln wir zunächst den Umgang mit der Nähmaschine. Als erstes Projekt wird ein klassischer Jerseyrocks oder ein T-Shirt genäht.[![rock](/wp-content/uploads/2016/03/rock.jpg) ](/wp-content/uploads/2016/03/rock.jpg) **MATERIAL** Jeder Kursteilnehmer bringt seinen eigenen Stoff mit.</description></item><item><title>Orga-Treffen</title><link>https://eigenbaukombinat.de/orga-treffen/</link><pubDate>Mon, 29 Feb 2016 12:13:17 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/orga-treffen/</guid><description>Beim Orga-Treffen werden organisatorische Themen des Eigenbaukombinats diskutiert und Entscheidungen getroffen.
+INHALT Donnerstags können das Fotostudio und die Dunkelkammer durch Mitglieder und Nichtmitglieder genutzt werden. Du erhältst technische Unterstützung, solltest aber schon Vorkenntnisse mitbringen, so dass du nach einer kurzen Einweisung selbstständig arbeiten kannst.Damit du dir das Fotostudio oder die Dunkelkammer nicht mit anderen teilen musst, melde dich bitte über das Pretix an.</description>
+    </item>
+    
+    <item>
+      <title>Tor-Vortrag</title>
+      <link>https://eigenbaukombinat.de/tor-vortrag/</link>
+      <pubDate>Tue, 31 Oct 2017 20:39:33 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/tor-vortrag/</guid>
+      <description>**TERMIN**  29. November, 19:00 Uhr   **DAUER**  etwa 2 Stunden   **TEILNEHMER**  unbeschränkt   **KOSTEN**  kostenlos   **ORT**  Eigenbaukombinat   **INHALT**  Der Vortrag handelt von den so genannten Tor Onion Services. Die werden in der Presse gern als Darknet behandelt. Ich werde zunächst erklären, wie die technisch funktionieren und welche Angriffe es gegen das Sicherheitsmodell gibt. Grundlage sind eine Reihe wissenschaftlicher Veröffentlichungen, die die Sicherheit stark angekratzt haben.</description>
+    </item>
+    
+    <item>
+      <title>Offenes Treffen für Junghacker:innen</title>
+      <link>https://eigenbaukombinat.de/junghackertreffen/</link>
+      <pubDate>Tue, 31 Oct 2017 20:11:36 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/junghackertreffen/</guid>
+      <description>Der Junghacker:innentreff ist ein offener Treff für junge Menschen, die sich zusätzlich zum monatlichen Termin treffen möchten, um an ihren eigenen Projekten zu arbeiten. Die Junghacker:innen helfen sich dabei gegenseitig. Betreuer:innen können Hilfestellungen geben.
+Der Junghacker:innentreff ist passend für Dich, wenn Du mindestens 10 Jahre alt bist, und schon erste Erfahrungen im Programmieren gesammelt hast, zum Beispiel im Rahmen unserer monatlich stattfindenden Veranstaltung JUNGHACKER.</description>
+    </item>
+    
+    <item>
+      <title>Holzaktiventag</title>
+      <link>https://eigenbaukombinat.de/holzaktiventag/</link>
+      <pubDate>Sat, 30 Sep 2017 20:34:51 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/holzaktiventag/</guid>
+      <description>**TERMIN**  Mittwoch, 09. Mai 2018, 19 Uhr   **DAUER**  etwa 2,5 Stunden   **TEILNEHMER**  unbeschränkt   **KOSTEN**  kostenlos   **ORT**  Eigenbaukombinat   **BESCHREIBUNG**  Am Holzaktiventag erhaltet ihr fachliche Unterstützung und Tipps für eure Holzprojekte. Es wird mindestens eine sachkundige Person anwesend sein, die ihr um Rat fragen könnt und die euch auch sonst rund um das Thema Holzarbeiten unterstützen kann.</description>
+    </item>
+    
+    <item>
+      <title>Upcycling Flaschenschneiden</title>
+      <link>https://eigenbaukombinat.de/upcycling-flaschenschneiden/</link>
+      <pubDate>Tue, 16 May 2017 19:34:11 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/upcycling-flaschenschneiden/</guid>
+      <description>**TERMIN**  Sonntag, 16. Juli 2017, 12:00 Uhr   **DAUER**  etwa 4 Stunden   **TEILNEHMER**  max. 6   **KOSTEN**  15 EUR für Externe, 12 EUR für Mitglieder   **KURSLEITER**  Karsta und Anne   **ORT**  Eigenbaukombinat   **INHALT**  Von wegen Müll… In diesem Workshop zeigen wir Euch, was man alles aus alten Glasflaschen zaubern kann. Trinkgläser, Teelicht-Halter zum Stellen oder Hängen, Kerzenständer, kleine Vasen, Servietten-Ringe oder sogar Eierbecher – und Euch fällt bestimmt auch noch etwas ein.</description>
+    </item>
+    
+    <item>
+      <title>Upcycling Reifentassen</title>
+      <link>https://eigenbaukombinat.de/upcycling-reifentassen/</link>
+      <pubDate>Tue, 16 May 2017 19:26:17 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/upcycling-reifentassen/</guid>
+      <description>**TERMIN**  Sonntag, 4. Juni 2017, 12:00 Uhr   **DAUER**  etwa 5 Stunden   **TEILNEHMER**  max. 6   **KOSTEN**  35 EUR für Externe, 27 EUR für Mitglieder   **KURSLEITER**  Karsta und Anne   **ORT**  Eigenbaukombinat   **INHALT**  In diesem Kurs zeigen wir euch, wie ihr aus alten Reifen wunderschöne Pflanztassen machen könnt, um euren Garten /Balkon zu verschönern. In der Kursgebühr sind ein Reifen pro Teilnehmer, den wir für euch beschaffen, sowie bis zu zwei Dosen Farbe und alle sonstigen nötigen Arbeitsmaterialien enthalten.</description>
+    </item>
+    
+    <item>
+      <title>CNC-Treffen</title>
+      <link>https://eigenbaukombinat.de/cnc-treffen/</link>
+      <pubDate>Thu, 09 Mar 2017 19:10:11 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/cnc-treffen/</guid>
+      <description>**TERMIN**  jeden zweiten Mittwoch im Monat ab 20Uhr   **DAUER**  etwa 2 Stunden   **TEILNEHMER**  unbeschränkt   **KOSTEN**  kostenlos   **ORT**  Eigenbaukombinat   **BESCHREIBUNG**  Hier treffen wir uns zum Erfahrungsaustauch über&#39;s CNC-Fräsen. Es geht um Software wie LinuxCNC, QCad und Co. und auch Hardware, Materialien und Ideen, die man gemeinsam umsetzen möchte. [![](/wp-content/uploads/2014/07/IMG_0835-1024x682.jpg) ](/wp-content/uploads/2014/07/IMG_0835.jpg)    **ANMELDUNG**  nicht notwendig     </description>
+    </item>
+    
+    <item>
+      <title>Tag der offenen Tür am 15. und 16. Oktober 2016</title>
+      <link>https://eigenbaukombinat.de/tag-der-offenen-tuer-am-15-und-16-oktober-2016/</link>
+      <pubDate>Wed, 05 Oct 2016 19:15:49 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/tag-der-offenen-tuer-am-15-und-16-oktober-2016/</guid>
+      <description>Neugierig? Hereingeschaut! Am Samstag und Sonntag, den 15. und 16. Oktober 2016 veranstalten wir wieder einen großen Tag der offenen Tür. Im Mittelpunkt steht die Präsentation unserer neuen und größeren Räumlichkeiten in der Landsberger Straße 3 in Halle.
+Mit mittlerweile rund 550 m² Fläche ist das Eigenbaukombinat innerhalb der letzten drei Jahre zu einer der größten offenen Werkstätten Deutschlands herangewachsen. Hier können eigene Projekte aus den Bereichen Holz- und Metallbau, Elektronik, 3D-Druck, Fotografie, Modellbau bis hin zur Handarbeit mit alten und neuen Nähmaschinen umgesetzt werden.</description>
+    </item>
+    
+    <item>
+      <title>Cryptoparty - Verschlüsseln kann jeder</title>
+      <link>https://eigenbaukombinat.de/cryptoparty/</link>
+      <pubDate>Fri, 15 Jul 2016 17:56:07 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/cryptoparty/</guid>
+      <description>**TERMIN**  Donnerstag, 7.Juni 2018, ab 17:00 Uhr   **DAUER**  etwa 3-4 Stunden   **TEILNEHMER**  max. 12   **KOSTEN**  kostenlos   **KURSLEITER**  Christian, Toni   **ORT**  Eigenbaukombinat    in Kooperation mit der Landeszentrale für politische Bildung Sachsen-Anhalt   **INHALT**  Verschlüsselung im Alltag muss nicht zwangsläufig kompliziert und umständlich sein. Wir wollen mit euch im Workshop zusammen eine E-Mail-Verschlüsselung einrichten und über die anderen Themen in lockerer Runde sprechen.</description>
+    </item>
+    
+    <item>
+      <title>Aufbaukurs Arduino</title>
+      <link>https://eigenbaukombinat.de/aufbaukurs-arduino/</link>
+      <pubDate>Tue, 07 Jun 2016 18:55:30 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/aufbaukurs-arduino/</guid>
+      <description>**TERMIN**  Auf Anfrage   **DAUER**  etwa 6 Stunden (mit Pausen)   **TEILNEHMER**  maximal 4   **KOSTEN**  35 EUR für Externe, 25 EUR für Mitglieder   **KURSLEITER**    **ORT**  Eigenbaukombinat   **INHALT**  In diesem Kurs lernst du, wie du mehr aus deinem Arduino herausholst. Themen:
+ * Kombinationen Sensoren und Aktoren * Digitale Sensoren * Pixel-Displays  Zum Abschluss kannst du aus sechs vorbereiteten Projekten unterschiedlichen Schwierigkeitsgrades eins wählen und unter fachkundiger Anleitung umsetzen.</description>
+    </item>
+    
+    <item>
+      <title>Workshop Senf</title>
+      <link>https://eigenbaukombinat.de/workshop-senf/</link>
+      <pubDate>Sun, 29 May 2016 18:05:00 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/workshop-senf/</guid>
+      <description>**TERMIN**  Samstag, 11. Juni, 15 Uhr   **DAUER**  ca. 3-4 Stunden   **TEILNEHMER**  max. 10   **KOSTEN**  etwa 10 Euro Unkostenbeitrag   **KURSLEITER**  Frank Lanitz   **ORT**  Eigenbaukombinat   **INHALT**  Sempf! Wir wollen Senf machen. Was wäre eine Grillparty ohne die aromatische Paste auf der Wurst oder im Dressing der Salate. So wirkungsvoll das Gemisch aus Senfsaat, Essig und ist, so einfach ist auch deren Herstellung, aber auch so variantenreich das Auftreten.</description>
+    </item>
+    
+    <item>
+      <title>Workshop Flaschen schneiden und gravieren</title>
+      <link>https://eigenbaukombinat.de/workshop-flaschen-schneiden/</link>
+      <pubDate>Mon, 16 May 2016 19:25:34 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/workshop-flaschen-schneiden/</guid>
+      <description>**TERMIN**  Sonntag, 12. Juni, 14 Uhr   **DAUER**  ca. 3 Stunden   **TEILNEHMER**  4-8   **KOSTEN**  12 Euro für Mitglieder, 15 Euro für Externe   **KURSLEITER**  André Przybilla (Makerspace Leipzig)   **ORT**  Eigenbaukombinat   **INHALT**  Dank der Zusammenarbeit mit dem [Makerspace Leipzig](https://makerspace-leipzig.de/) können wir Euch diesen neuen Kurs anbieten: **Workshop Flaschen schneiden und gravieren**! Von wegen Müll… In diesem Workshop zeigen wir Euch, was man alles aus alten Glasflaschen zaubern kann.</description>
+    </item>
+    
+    <item>
+      <title>status</title>
+      <link>https://eigenbaukombinat.de/extstatus/</link>
+      <pubDate>Mon, 02 May 2016 00:00:00 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/extstatus/</guid>
+      <description>Status uptimerobot.com</description>
+    </item>
+    
+    <item>
+      <title>Spielecafé</title>
+      <link>https://eigenbaukombinat.de/spielecafe/</link>
+      <pubDate>Thu, 21 Apr 2016 19:38:39 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/spielecafe/</guid>
+      <description>**TERMIN**  Sonntag, 1. Mai 2016, ab 15 Uhr   **DAUER**  offen   **TEILNEHMER**  unbeschränkt   **KOSTEN**  kostenlos   **KURSLEITER**  Würfelpech Halle e.V.   **ORT**  Eigenbaukombinat   **INHALT**  Am 1. Mai wird bei uns mal ganz ohne Computer gespielt. Der Verein Würfelpech Halle e.V. veranstaltet in unseren Räumen ein Spielecafe. Die Spiele werden sich vor allem um das Bauen drehen.</description>
+    </item>
+    
+    <item>
+      <title>Aufbaukurs Digitale Fotografie</title>
+      <link>https://eigenbaukombinat.de/aufbaukurs-digitale-fotografie/</link>
+      <pubDate>Wed, 20 Apr 2016 17:47:19 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/aufbaukurs-digitale-fotografie/</guid>
+      <description>**TERMIN**  Auf Anfrage   **DAUER**  etwa 3 Stunden   **TEILNEHMER**  max. 4   **KOSTEN**  10 EUR für Mitglieder, 15 EUR für Externe   **KURSLEITER**  Nico Markula   **ORT**  Eigenbaukombinat   **INHALT**   * Lichtsetzung Portrait und Produkt * Kameraeinstellungen in Studiosituationen.  Bitte bringt möglichst eine eigene digitale Spiegelreflexkamera mit!
+  **ANMELDUNG**  E-Mail an [veranstaltungen@eigenbaukombinat.de](mailto:veranstaltungen@eigenbaukombinat.de?subject=Anmeldung Workshop Nähen Teil 1)     </description>
+    </item>
+    
+    <item>
+      <title>Grundkurs Digitale Fotografie</title>
+      <link>https://eigenbaukombinat.de/grundkurs-digitale-fotografie/</link>
+      <pubDate>Wed, 20 Apr 2016 17:42:50 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/grundkurs-digitale-fotografie/</guid>
+      <description>**TERMIN**  Auf Anfrage   **DAUER**  etwa 3 Stunden   **TEILNEHMER**  max. 6   **KOSTEN**  10 EUR für Mitglieder, 15 EUR für Externe   **KURSLEITER**  Nico Markula   **ORT**  Eigenbaukombinat   **INHALT**   * Geschichte der Fotografie * Grundlagen: Brennweite, Blende, Zeit, ISO * Objektive * Einblick in Mittel- und Großformat.  Bitte bringt möglichst eine eigene Digitalkamera (idealerweise Spiegelreflex) mit!</description>
+    </item>
+    
+    <item>
+      <title>Grundkurs Nähen</title>
+      <link>https://eigenbaukombinat.de/grundkurs-naehen/</link>
+      <pubDate>Wed, 16 Mar 2016 20:07:47 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/grundkurs-naehen/</guid>
+      <description>**TERMIN**  Auf Anfrage   **DAUER**  etwa 4 Stunden   **TEILNEHMER**  max. 4   **KOSTEN**  15 EUR für Mitglieder, 20 EUR für Externe; zzgl. Material   **KURSLEITER**  Stephanie Weier   **ORT**  Eigenbaukombinat   **INHALT**  Im Kurs vermitteln wir zunächst den Umgang mit der Nähmaschine. Als erstes Projekt wird ein klassischer Jerseyrocks oder ein T-Shirt genäht.[![rock](/wp-content/uploads/2016/03/rock.jpg) ](/wp-content/uploads/2016/03/rock.jpg)   **MATERIAL**  Jeder Kursteilnehmer bringt seinen eigenen Stoff mit.</description>
+    </item>
+    
+    <item>
+      <title>Orga-Treffen</title>
+      <link>https://eigenbaukombinat.de/orga-treffen/</link>
+      <pubDate>Mon, 29 Feb 2016 12:13:17 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/orga-treffen/</guid>
+      <description>Beim Orga-Treffen werden organisatorische Themen des Eigenbaukombinats diskutiert und Entscheidungen getroffen.
 Jedes Mitglied ist eingeladen teilzunehmen und aktiv mitzugestalten! Auch Gäste sind willkommen.
 Termin Erster Mittwoch und dritter Sonntag im Monat ab 20 Uhr
 Dauer Etwa 2 Stunden.
-Teilnehmen ohne Anmeldung Anzahl unbeschränkt offen für Gäste</description></item><item><title>Chaostreff Halle</title><link>https://eigenbaukombinat.de/chaostreff-halle/</link><pubDate>Mon, 22 Feb 2016 15:43:43 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/chaostreff-halle/</guid><description>Das Chaostreff Halle ist der regionale Treffpunkt für Interessierte und Mitglieder des Chaos Computer Club e.V..
+Teilnehmen  ohne Anmeldung Anzahl unbeschränkt offen für Gäste  </description>
+    </item>
+    
+    <item>
+      <title>Chaostreff Halle</title>
+      <link>https://eigenbaukombinat.de/chaostreff-halle/</link>
+      <pubDate>Mon, 22 Feb 2016 15:43:43 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/chaostreff-halle/</guid>
+      <description>Das Chaostreff Halle ist der regionale Treffpunkt für Interessierte und Mitglieder des Chaos Computer Club e.V..
 Wir treffen uns in offener Runde zum Basteln, Diskutieren, Hacken und Weltverbessern.
-Themen sind u.a.: Technik, Linux, Netzpolitik, OpenSource, Netzwerke, Server, Cyberspace, Vernetzung, Programmierung, Medienkunst, OpenBSD, Free Software, Open Data, Aktivismus, Workshops, BASH, WLAN, Debian, Firewall, VPN, Protest, Infrastruktur, Gesellschaft, Microcontroller, Fotografie, Freifunk, Creative Commons, Assembler, Videokunst, Systemadministration, Support, Freies Wissen.</description></item><item><title>Foto-, Audio- und Videotreffen</title><link>https://eigenbaukombinat.de/foto-treffen/</link><pubDate>Mon, 11 Jan 2016 19:27:08 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/foto-treffen/</guid><description>**TERMIN** jeden dritten Mittwoch im Monat **DAUER** etwa 2 Stunden **TEILNEHMER** unbeschränkt **KOSTEN** kostenlos **ORT** Eigenbaukombinat **THEMA** Fotografie, Video- und Audioaufnahmen **BESCHREIBUNG** Monatliches Treffen zum Austausch über alle Themen rund um die Aufnahme und Bearbeitung von Fotos, Videos und Audiospuren.
-Außerdem reden wir über den weiteren Ausbau des Studios und der Dunkelkammer.</description></item><item><title>Spieleabend</title><link>https://eigenbaukombinat.de/retro-spieleabend/</link><pubDate>Mon, 11 Jan 2016 19:26:51 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/retro-spieleabend/</guid><description>**TERMIN** Jeden **ersten** Freitag im Monat ab 20 Uhr **DAUER** open end **TEILNEHMER** unbeschränkt **KOSTEN** kostenlos **ORT** Eigenbaukombinat **THEMA** **BESCHREIBUNG** Gespielt wird auf verschiedenen Konsolen, PCs und der Vive. Für alle Freunde der klassischen Spiele gibt es Schach und Go, aber auch andere Brettspiele sind gern gesehen. Wenn ihr eigene Spiele und Hardware habt, bringt sie einfach mit!</description></item><item><title>Linux Presentation Day</title><link>https://eigenbaukombinat.de/linux-presentation-day/</link><pubDate>Fri, 30 Oct 2015 17:27:07 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/linux-presentation-day/</guid><description>**TERMIN** Samstag, 14. November, 14 bis 18 Uhr **TEILNEHMER** keine Begrenzung **KOSTEN** kostenlos **KURSLEITER** Christian Schmidt **ORT** Eigenbaukombinat **INHALT** Auf dem Linux Presentation Day kann JEDER, der Linux bisher kaum oder gar nicht kennt, einen Einblick in den Umgang mit dem Open-Source-Betriebsystem bekommen. Unterschiedliche Linux-Varianten werden in typischen Alltagssituationen vorgeführt und können ausprobiert werden. Das Ziel der kostenlosen Veranstaltung ist den Besuchern bei der Entscheidung zu helfen, ob sie Linux auch in Zukunft als Ersatz oder Ergänzung für ihr bisheriges Betriebssystem nutzen möchten.</description></item><item><title>Impressum</title><link>https://eigenbaukombinat.de/impressum/</link><pubDate>Fri, 25 Sep 2015 16:31:27 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/impressum/</guid><description>Eigenbaukombinat Halle e.V.
+Themen sind u.a.: Technik, Linux, Netzpolitik, OpenSource, Netzwerke, Server, Cyberspace, Vernetzung, Programmierung, Medienkunst, OpenBSD, Free Software, Open Data, Aktivismus, Workshops, BASH, WLAN, Debian, Firewall, VPN, Protest, Infrastruktur, Gesellschaft, Microcontroller, Fotografie, Freifunk, Creative Commons, Assembler, Videokunst, Systemadministration, Support, Freies Wissen.</description>
+    </item>
+    
+    <item>
+      <title>Foto-, Audio- und Videotreffen</title>
+      <link>https://eigenbaukombinat.de/foto-treffen/</link>
+      <pubDate>Mon, 11 Jan 2016 19:27:08 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/foto-treffen/</guid>
+      <description>**TERMIN**  jeden dritten Mittwoch im Monat   **DAUER**  etwa 2 Stunden   **TEILNEHMER**  unbeschränkt   **KOSTEN**  kostenlos   **ORT**  Eigenbaukombinat   **THEMA**  Fotografie, Video- und Audioaufnahmen   **BESCHREIBUNG**  Monatliches Treffen zum Austausch über alle Themen rund um die Aufnahme und Bearbeitung von Fotos, Videos und Audiospuren.
+Außerdem reden wir über den weiteren Ausbau des Studios und der Dunkelkammer.</description>
+    </item>
+    
+    <item>
+      <title>Spieleabend</title>
+      <link>https://eigenbaukombinat.de/retro-spieleabend/</link>
+      <pubDate>Mon, 11 Jan 2016 19:26:51 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/retro-spieleabend/</guid>
+      <description>**TERMIN**  Jeden **ersten** Freitag im Monat ab 20 Uhr   **DAUER**  open end   **TEILNEHMER**  unbeschränkt   **KOSTEN**  kostenlos   **ORT**  Eigenbaukombinat   **THEMA**    **BESCHREIBUNG**  Gespielt wird auf verschiedenen Konsolen, PCs und der Vive. Für alle Freunde der klassischen Spiele gibt es Schach und Go, aber auch andere Brettspiele sind gern gesehen. Wenn ihr eigene Spiele und Hardware habt, bringt sie einfach mit!</description>
+    </item>
+    
+    <item>
+      <title>Linux Presentation Day</title>
+      <link>https://eigenbaukombinat.de/linux-presentation-day/</link>
+      <pubDate>Fri, 30 Oct 2015 17:27:07 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/linux-presentation-day/</guid>
+      <description>**TERMIN**  Samstag, 14. November, 14 bis 18 Uhr   **TEILNEHMER**  keine Begrenzung   **KOSTEN**  kostenlos   **KURSLEITER**  Christian Schmidt   **ORT**  Eigenbaukombinat   **INHALT**  Auf dem Linux Presentation Day kann JEDER, der Linux bisher kaum oder gar nicht kennt, einen Einblick in den Umgang mit dem Open-Source-Betriebsystem bekommen. Unterschiedliche Linux-Varianten werden in typischen Alltagssituationen vorgeführt und können ausprobiert werden. Das Ziel der kostenlosen Veranstaltung ist den Besuchern bei der Entscheidung zu helfen, ob sie Linux auch in Zukunft als Ersatz oder Ergänzung für ihr bisheriges Betriebssystem nutzen möchten.</description>
+    </item>
+    
+    <item>
+      <title>Impressum</title>
+      <link>https://eigenbaukombinat.de/impressum/</link>
+      <pubDate>Fri, 25 Sep 2015 16:31:27 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/impressum/</guid>
+      <description>Eigenbaukombinat Halle e.V.
 Landsberger Straße 3
 06112 Halle
 Kontakt
 Vertreten durch die einzeln vertretungsberechtigten Mitglieder des Vorstands:
-Sophie Raven Tauchert Christopher Thum Frank Schulz Anschrift wie oben
+ Sophie Raven Tauchert Christopher Thum Frank Schulz  Anschrift wie oben
 kontakt@eigenbaukombinat.de
 Aktuelle Satzung (Stand: April 2022)
 Aktuelle Beitragsordnung (Januar 2024)
-Vereinsregister: Amtsgericht Stendal, VR 3085</description></item><item><title>Anfahrt</title><link>https://eigenbaukombinat.de/anfahrt/</link><pubDate>Fri, 25 Sep 2015 16:31:00 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/anfahrt/</guid><description>Das Eigenbaukombinat befindet sich in der
+Vereinsregister: Amtsgericht Stendal, VR 3085</description>
+    </item>
+    
+    <item>
+      <title>Anfahrt</title>
+      <link>https://eigenbaukombinat.de/anfahrt/</link>
+      <pubDate>Fri, 25 Sep 2015 16:31:00 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/anfahrt/</guid>
+      <description>Das Eigenbaukombinat befindet sich in der
 Eigenbaukombinat Halle e.V. Landsberger Straße 3
 06112 Halle (Saale)
 (OpenStreetMap-Link)
 das ist eine Seitenstraße der Delitzscher Straße, und eine Parallelstraße zur Freiimfelder Straße. Gleich in der Nähe befindet sich die Straßenbahnhaltestelle &amp;ldquo;Freiimfelder Straße&amp;rdquo;.
 Das Gebäude erkennst Du am farbenfrohen Bild:
-Unsere Räume sind leider nicht barrierefrei. Wenn Treppensteigen für dich ein Problem ist, kontaktiere uns bitte, bevor du uns zum ersten Mal besuchst.</description></item><item><title>Presse</title><link>https://eigenbaukombinat.de/presse/</link><pubDate>Fri, 25 Sep 2015 16:27:09 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/presse/</guid><description>Alle Pressematerialien auf dieser Seite stehen Ihnen für die redaktionelle Verwendung zur freien Verfügung. Wir bitten darum, den Eigenbaukombinat Halle e.V. als Quelle zu nennen. Bei Online-Medien bitten wir um eine Verlinkung auf https://eigenbaukombinat.de.
+Unsere Räume sind leider nicht barrierefrei. Wenn Treppensteigen für dich ein Problem ist, kontaktiere uns bitte, bevor du uns zum ersten Mal besuchst.</description>
+    </item>
+    
+    <item>
+      <title>Presse</title>
+      <link>https://eigenbaukombinat.de/presse/</link>
+      <pubDate>Fri, 25 Sep 2015 16:27:09 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/presse/</guid>
+      <description>Alle Pressematerialien auf dieser Seite stehen Ihnen für die redaktionelle Verwendung zur freien Verfügung. Wir bitten darum, den Eigenbaukombinat Halle e.V. als Quelle zu nennen. Bei Online-Medien bitten wir um eine Verlinkung auf https://eigenbaukombinat.de.
 Sollten Sie Fragen haben oder weitere Informationen benötigen, so setzen Sie sich bitte mit dem Vorstand in Verbindung.
 Logo Eigenbaukombinat &amp;ldquo;E&amp;rdquo;
-pdf | png | svg | jpg</description></item><item><title>Unsere Veranstaltungen</title><link>https://eigenbaukombinat.de/unsere-veranstaltungen/</link><pubDate>Sun, 20 Sep 2015 12:02:53 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/unsere-veranstaltungen/</guid><description>Lade Daten... Dein Browser unterstütze kein JavaScript! Unsere Termine gibt es auch hier als iCal
-async function loadDatatermine() { try { const dataresponse = await fetch('https://eigenbaukombinat.de/api/kalender/'); if (!dataresponse.ok) { throw new Error('Netzwerkantwort war nicht ok'); } const data = await dataresponse.json(); updateContent(data); } catch (error) { console.error('Fehler beim Laden der JSON-Daten: ', error); } } function updateContent(data) { const contentDiv = document.getElementById('termine'); var json = ''; for(var i = 0; i '+data[i].</description></item><item><title>Gutscheine und individuelle Termine</title><link>https://eigenbaukombinat.de/gutscheine-und-individuelle-termine/</link><pubDate>Sun, 20 Sep 2015 11:57:13 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/gutscheine-und-individuelle-termine/</guid><description>Geschenkgutscheine Für unsere Kurse bieten wir auch Gutscheine an. Ein Gutschein kostet 35 Euro und gilt für einen beliebigen Kurs mit diesem Preis. Die dekorativen Gutscheine aus 4 mm dickem Birke Multiplex sind unbeschränkt gültig und beliebig übertragbar.
-Um einen Gutschein zu erhalten, [kontaktiere den Vorstand](mailto:vorstand@eigenbaukombinat.de?subject=Bestellung Geschenkgutschein). Der Gutschein muss im Allgemeinen abgeholt werden, kann aber in Ausnahmefällen auch versendet werden. Bitte beachte, dass es unter Umständen bis zu einer Woche dauern kann, bis der Gutschein fertig ist.</description></item><item><title>Workshop Nähen (Teil 2 - für Anfänger)</title><link>https://eigenbaukombinat.de/workshop-naehen-teil-2/</link><pubDate>Wed, 19 Aug 2015 11:09:24 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/workshop-naehen-teil-2/</guid><description>**TERMIN** Voraussichtlich im Oktober **DAUER** etwa 2 Stunden **TEILNEHMER** max. 5 **KOSTEN** 15 EUR für Externe, 5 EUR für Mitglieder; zzgl. Material **KURSLEITER** Andrea Thum **ORT** Eigenbaukombinat **INHALT** Selbstgenähte Sachen sind ja toll, aber du kannst sowas nicht? Quatsch! Wir zeigen dir wie es geht. Hier lernst du den Umgang mit der Nähmaschine und Grundtechniken des Nähens anhand verschiedener leichter Projekte.</description></item><item><title>Workshop Nähen (Teil 1 - für blutige Anfänger)</title><link>https://eigenbaukombinat.de/workshop-naehen-teil-1/</link><pubDate>Wed, 19 Aug 2015 11:09:08 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/workshop-naehen-teil-1/</guid><description>**TERMIN** 19. September, 14 Uhr **DAUER** etwa 2 Stunden **TEILNEHMER** max. 5 **KOSTEN** 10 EUR für Externe, 5 EUR für Mitglieder; zzgl. Material **KURSLEITER** Andrea Thum **ORT** Eigenbaukombinat **INHALT** Selbstgenähte Sachen sind ja toll, aber du kannst sowas nicht? Quatsch! Wir zeigen dir wie es geht. Hier lernst du den Umgang mit der Nähmaschine und Grundtechniken des Nähens anhand verschiedener leichter Projekte.</description></item><item><title>Erstes 3D Druck Treffen</title><link>https://eigenbaukombinat.de/erstes-3d-druck-treffen/</link><pubDate>Sat, 06 Jun 2015 13:21:27 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/erstes-3d-druck-treffen/</guid><description>Wie schon länger angekündigt starten wir am 17.06. endlich auch unser erstes 3D Druck Treffen, dieses soll ab jetzt jeweils am 3. Mittwoch im Monat um 19:00 Uhr stattfinden. Dieses Mal steht das Treffen, aus gegebenen Anlass unter dem Motto &amp;ldquo;FreeCAD und Konstruktion&amp;rdquo;. Alles weitere findet ihr hier:
-3D Druck Treffen</description></item><item><title>3D-Druck-Treffen</title><link>https://eigenbaukombinat.de/3d-druck-treffen/</link><pubDate>Thu, 04 Jun 2015 11:36:30 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/3d-druck-treffen/</guid><description>**TERMIN** jeden zweiten Dienstag im Monat ab 19Uhr **DAUER** etwa 2 Stunden **TEILNEHMER** unbeschränkt **KOSTEN** kostenlos **ORT** Eigenbaukombinat **BESCHREIBUNG** PLA und ABS sind der Grundstoff, aus dem deine Ideen wachsen. Du willst mehr über das 3D-Drucken und seine Möglichkeiten erfahren? Dann bist du beim 3D-Druck-Treffen genau richtig. Hier treffen sich einmal pro Monat, in lockerer Atmosphäre, 3D-Druck-Begeisterte (und die, die es werden wollen) zum gegenseitigen Unterstützen und zum Fachsimpeln!</description></item><item><title>Workshop Lock-Picking</title><link>https://eigenbaukombinat.de/workshop-lock-picking/</link><pubDate>Wed, 27 May 2015 09:54:44 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/workshop-lock-picking/</guid><description>**TERMIN** Auf Anfrage **DAUER** etwa 2 Stunden **TEILNEHMER** 5-6 **KOSTEN** 5 Euro **KURSLEITER** Christian Schmidt **ORT** Eigenbaukombinat **INHALT** Schlösser öffnen ohne Schlüssel: Lockpicking. Das große Geheimnis des Schlossöffnens ist, dass es leicht ist. Jeder kann lernen, wie man Schlösser öffnet. In unserem Lockpickingkurs erhaltet ihr einen Einblick in das gewaltlose und zerstörungsfreie Öffnen einfacher Schlösser mit Hilfe entsprechender Werkzeuge.</description></item><item><title>Individuelle Termine</title><link>https://eigenbaukombinat.de/individuelle-termine/</link><pubDate>Wed, 06 May 2015 08:00:46 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/individuelle-termine/</guid><description>Bitte hier klicken.</description></item><item><title>Bundesfreiwilligendienst</title><link>https://eigenbaukombinat.de/bundesfreiwilligendienst/</link><pubDate>Wed, 06 May 2015 08:00:45 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/bundesfreiwilligendienst/</guid><description>Seit Dezember 2014 werden die Mitglieder unseres Vereins von zwei Bundesfreiwilligendienstleistenden (Bufdis) unterstützt.
+
+pdf | png | svg | jpg
+                                                                                 </description>
+    </item>
+    
+    <item>
+      <title>Unsere Veranstaltungen</title>
+      <link>https://eigenbaukombinat.de/unsere-veranstaltungen/</link>
+      <pubDate>Sun, 20 Sep 2015 12:02:53 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/unsere-veranstaltungen/</guid>
+      <description>Lade Daten... Dein Browser unterstütze kein JavaScript!    Unsere Termine gibt es auch hier als iCal
+ async function loadDatatermine() { try { const dataresponse = await fetch(&#39;https://eigenbaukombinat.de/api/kalender/&#39;); if (!dataresponse.ok) { throw new Error(&#39;Netzwerkantwort war nicht ok&#39;); } const data = await dataresponse.json(); updateContent(data); } catch (error) { console.error(&#39;Fehler beim Laden der JSON-Daten: &#39;, error); } } function updateContent(data) { const contentDiv = document.getElementById(&#39;termine&#39;); var json = &#39;&#39;; for(var i = 0; i &#39;+data[i].</description>
+    </item>
+    
+    <item>
+      <title>Gutscheine und individuelle Termine</title>
+      <link>https://eigenbaukombinat.de/gutscheine-und-individuelle-termine/</link>
+      <pubDate>Sun, 20 Sep 2015 11:57:13 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/gutscheine-und-individuelle-termine/</guid>
+      <description>Geschenkgutscheine Für unsere Kurse bieten wir auch Gutscheine an. Ein Gutschein kostet 35 Euro und gilt für einen beliebigen Kurs mit diesem Preis. Die dekorativen Gutscheine aus 4 mm dickem Birke Multiplex sind unbeschränkt gültig und beliebig übertragbar.
+
+Um einen Gutschein zu erhalten, [kontaktiere den Vorstand](mailto:vorstand@eigenbaukombinat.de?subject=Bestellung Geschenkgutschein). Der Gutschein muss im Allgemeinen abgeholt werden, kann aber in Ausnahmefällen auch versendet werden. Bitte beachte, dass es unter Umständen bis zu einer Woche dauern kann, bis der Gutschein fertig ist.</description>
+    </item>
+    
+    <item>
+      <title>Workshop Nähen (Teil 2 - für Anfänger)</title>
+      <link>https://eigenbaukombinat.de/workshop-naehen-teil-2/</link>
+      <pubDate>Wed, 19 Aug 2015 11:09:24 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/workshop-naehen-teil-2/</guid>
+      <description>**TERMIN**  Voraussichtlich im Oktober   **DAUER**  etwa 2 Stunden   **TEILNEHMER**  max. 5   **KOSTEN**  15 EUR für Externe, 5 EUR für Mitglieder; zzgl. Material   **KURSLEITER**  Andrea Thum   **ORT**  Eigenbaukombinat   **INHALT**  Selbstgenähte Sachen sind ja toll, aber du kannst sowas nicht? Quatsch! Wir zeigen dir wie es geht. Hier lernst du den Umgang mit der Nähmaschine und Grundtechniken des Nähens anhand verschiedener leichter Projekte.</description>
+    </item>
+    
+    <item>
+      <title>Workshop Nähen (Teil 1 - für blutige Anfänger)</title>
+      <link>https://eigenbaukombinat.de/workshop-naehen-teil-1/</link>
+      <pubDate>Wed, 19 Aug 2015 11:09:08 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/workshop-naehen-teil-1/</guid>
+      <description>**TERMIN**  19. September, 14 Uhr   **DAUER**  etwa 2 Stunden   **TEILNEHMER**  max. 5   **KOSTEN**  10 EUR für Externe, 5 EUR für Mitglieder; zzgl. Material   **KURSLEITER**  Andrea Thum   **ORT**  Eigenbaukombinat   **INHALT**  Selbstgenähte Sachen sind ja toll, aber du kannst sowas nicht? Quatsch! Wir zeigen dir wie es geht. Hier lernst du den Umgang mit der Nähmaschine und Grundtechniken des Nähens anhand verschiedener leichter Projekte.</description>
+    </item>
+    
+    <item>
+      <title>Erstes 3D Druck Treffen</title>
+      <link>https://eigenbaukombinat.de/erstes-3d-druck-treffen/</link>
+      <pubDate>Sat, 06 Jun 2015 13:21:27 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/erstes-3d-druck-treffen/</guid>
+      <description>Wie schon länger angekündigt starten wir am 17.06. endlich auch unser erstes 3D Druck Treffen, dieses soll ab jetzt jeweils am 3. Mittwoch im Monat um 19:00 Uhr stattfinden. Dieses Mal steht das Treffen, aus gegebenen Anlass unter dem Motto &amp;ldquo;FreeCAD und Konstruktion&amp;rdquo;. Alles weitere findet ihr hier:
+3D Druck Treffen</description>
+    </item>
+    
+    <item>
+      <title>3D-Druck-Treffen</title>
+      <link>https://eigenbaukombinat.de/3d-druck-treffen/</link>
+      <pubDate>Thu, 04 Jun 2015 11:36:30 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/3d-druck-treffen/</guid>
+      <description>**TERMIN**  jeden zweiten Dienstag im Monat ab 19Uhr   **DAUER**  etwa 2 Stunden   **TEILNEHMER**  unbeschränkt   **KOSTEN**  kostenlos   **ORT**  Eigenbaukombinat   **BESCHREIBUNG**  PLA und ABS sind der Grundstoff, aus dem deine Ideen wachsen. Du willst mehr über das 3D-Drucken und seine Möglichkeiten erfahren? Dann bist du beim 3D-Druck-Treffen genau richtig. Hier treffen sich einmal pro Monat, in lockerer Atmosphäre, 3D-Druck-Begeisterte (und die, die es werden wollen) zum gegenseitigen Unterstützen und zum Fachsimpeln!</description>
+    </item>
+    
+    <item>
+      <title>Workshop Lock-Picking</title>
+      <link>https://eigenbaukombinat.de/workshop-lock-picking/</link>
+      <pubDate>Wed, 27 May 2015 09:54:44 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/workshop-lock-picking/</guid>
+      <description>**TERMIN**  Auf Anfrage   **DAUER**  etwa 2 Stunden   **TEILNEHMER**  5-6   **KOSTEN**  5 Euro   **KURSLEITER**  Christian Schmidt   **ORT**  Eigenbaukombinat   **INHALT**  Schlösser öffnen ohne Schlüssel: Lockpicking. Das große Geheimnis des Schlossöffnens ist, dass es leicht ist. Jeder kann lernen, wie man Schlösser öffnet. In unserem Lockpickingkurs erhaltet ihr einen Einblick in das gewaltlose und zerstörungsfreie Öffnen einfacher Schlösser mit Hilfe entsprechender Werkzeuge.</description>
+    </item>
+    
+    <item>
+      <title>Individuelle Termine</title>
+      <link>https://eigenbaukombinat.de/individuelle-termine/</link>
+      <pubDate>Wed, 06 May 2015 08:00:46 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/individuelle-termine/</guid>
+      <description>Bitte hier klicken.</description>
+    </item>
+    
+    <item>
+      <title>Bundesfreiwilligendienst</title>
+      <link>https://eigenbaukombinat.de/bundesfreiwilligendienst/</link>
+      <pubDate>Wed, 06 May 2015 08:00:45 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/bundesfreiwilligendienst/</guid>
+      <description>Seit Dezember 2014 werden die Mitglieder unseres Vereins von zwei Bundesfreiwilligendienstleistenden (Bufdis) unterstützt.
 Als Bufdi erhältst du Einführungen in die verschiedenen Bereiche in der Werkstatt, koordinierst gemeinsame Projekte, hilfst uns bei der Öffentlichkeitsarbeit, kümmerst dich um anfallende Verwaltungsaufgaben und weist selber Mitglieder ein.
 Je nach deinen Interessen und beruflichen Zielen und Vorerfahrungen kann dein Schwerpunkt in einem oder mehreren unserer Arbeitsbereiche liegen.
-Von dir erwarten wir Offenheit, Zuverlässigkeit, Neugier und die Bereitschaft, zu den Öffnungszeiten zu arbeiten.</description></item><item><title>Nachbauen?</title><link>https://eigenbaukombinat.de/nachbauen/</link><pubDate>Wed, 06 May 2015 08:00:42 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/nachbauen/</guid><description>Wir präsentieren auf unserer Webseite zahlreiche Entwürfe, zum Teil mit Bauplänen. Wenn du etwas nichtkommerziell (also zum privaten Gebrauch oder als Geschenk) nachbauen möchtest, bist du herzlich willkommen. Wenn wichtige Dokumente fehlen oder du Probleme hast, kontaktiere uns einfach.
+Von dir erwarten wir Offenheit, Zuverlässigkeit, Neugier und die Bereitschaft, zu den Öffnungszeiten zu arbeiten.</description>
+    </item>
+    
+    <item>
+      <title>Nachbauen?</title>
+      <link>https://eigenbaukombinat.de/nachbauen/</link>
+      <pubDate>Wed, 06 May 2015 08:00:42 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/nachbauen/</guid>
+      <description>Wir präsentieren auf unserer Webseite zahlreiche Entwürfe, zum Teil mit Bauplänen. Wenn du etwas nichtkommerziell (also zum privaten Gebrauch oder als Geschenk) nachbauen möchtest, bist du herzlich willkommen. Wenn wichtige Dokumente fehlen oder du Probleme hast, kontaktiere uns einfach.
 Wenn du erfolgreich ein Projekt nachgebaut hast, freuen wir uns über einen Link auf unsere Seite, eine kurze Mail mit dem Baubericht oder in Form einer Unterstützung für unseren Verein.
-Der Nachbau zu kommerziellen Zwecken und Verkauf ist nur nach Absprache zulässig.</description></item><item><title>Unterstützen</title><link>https://eigenbaukombinat.de/unterstuetzen/</link><pubDate>Wed, 06 May 2015 08:00:41 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/unterstuetzen/</guid><description>Das Eigenbaukombinat erhält keine staatlichen Zuschüsse und kann sich nur dank unserer Mitglieder und Unterstützer tragen. Wie du uns unterstützen kannst, erfährst du auf dieser Seite.
+Der Nachbau zu kommerziellen Zwecken und Verkauf ist nur nach Absprache zulässig.</description>
+    </item>
+    
+    <item>
+      <title>Unterstützen</title>
+      <link>https://eigenbaukombinat.de/unterstuetzen/</link>
+      <pubDate>Wed, 06 May 2015 08:00:41 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/unterstuetzen/</guid>
+      <description>Das Eigenbaukombinat erhält keine staatlichen Zuschüsse und kann sich nur dank unserer Mitglieder und Unterstützer tragen. Wie du uns unterstützen kannst, erfährst du auf dieser Seite.
 Weitersagen Trage unsere Idee in die Welt hinaus! Je mehr Leute vom Eigenbaukombinat wissen, desto mehr Mitglieder und Unterstützer bekommen wir. Infomaterial stellen wir dir gerne zur Verfügung.
-Werkzeug, Maschinen oder Material spenden Grundsätzlich sind wir für alles offen, was in der Werkstatt Platz hat und wir irgendwie gebrauchen können.</description></item><item><title>Kennenlern- und Kochabend</title><link>https://eigenbaukombinat.de/koch-abend/</link><pubDate>Fri, 01 May 2015 14:39:58 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/koch-abend/</guid><description>Es wird gemeinsam gekocht und gegessen. Neben der Abwechslung zur sonst im Eigenbaukombinat gerne verzehrten TK-Pizza oder dem Döner eine gute Gelegenheit sich gegenseitig kennen zu lernen.
+Werkzeug, Maschinen oder Material spenden Grundsätzlich sind wir für alles offen, was in der Werkstatt Platz hat und wir irgendwie gebrauchen können.</description>
+    </item>
+    
+    <item>
+      <title>Kennenlern- und Kochabend</title>
+      <link>https://eigenbaukombinat.de/koch-abend/</link>
+      <pubDate>Fri, 01 May 2015 14:39:58 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/koch-abend/</guid>
+      <description>Es wird gemeinsam gekocht und gegessen. Neben der Abwechslung zur sonst im Eigenbaukombinat gerne verzehrten TK-Pizza oder dem Döner eine gute Gelegenheit sich gegenseitig kennen zu lernen.
 Die Kosten werden fair unter den Anwesenden aufgeteilt.
-Im Idealfall meldet ihr Euch an, damit die Mengen geplant werden können. In der Regel gibt es einge Tage vorher einen Eintrag im Pad.</description></item><item><title>Grundkurs Arduino</title><link>https://eigenbaukombinat.de/grundkurs-arduino/</link><pubDate>Sat, 11 Apr 2015 08:51:02 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/grundkurs-arduino/</guid><description>**TERMIN** _5.5.2018 13:00_ **DAUER** etwa 3 Stunden **TEILNEHMER** maximal 4 **KOSTEN** 25 EUR für Externe, 15 EUR für Mitglieder **KURSLEITER** Stefan Teitge **ORT** Eigenbaukombinat **INHALT** Dieser Kurs gibt eine Einführung in die Welt der Arduinos. Der Arduino ist eine aus Hardware und Software bestehende Plattform für Elektronik-Entwicklung, mit der Elektronik-Projekte einfach und schnell realisiert werden können.</description></item><item><title>Workshop Grundlagen digitaler Informationsverarbeitung</title><link>https://eigenbaukombinat.de/workshop-grundlagen-digitaler-schaltungen/</link><pubDate>Wed, 08 Apr 2015 17:45:53 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/workshop-grundlagen-digitaler-schaltungen/</guid><description>**TERMIN** Auf Anfrage **DAUER** 4 Stunden **TEILNEHMER** maximal 4 **KOSTEN** 25,00 EUR für Mitglieder; 35,00 EUR für Externe **KURSLEITER** Wolfgang Nake **ORT** Eigenbaukombinat **INHALT** In unserem Workshop lernt ihr: * Informationstechnische Grundlagen * Elektrotechnische Grundlagen * Beherrschen der Dioden- und Transistor-Logik * Tiefgehendes Verständnis ohne Blackboxes * Innenleben der vorgestellten Logik-IC's wird komplett beschrieben * Kleine Übungen auf Breadboards Es sind keine Vorkenntnisse erforderlich!</description></item><item><title>Unterstützer</title><link>https://eigenbaukombinat.de/unterstuetzer/</link><pubDate>Thu, 05 Feb 2015 13:16:31 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/unterstuetzer/</guid><description>Damit wir eine gut ausgestattete Werkstatt anbieten können, sind wir auf Unterstützung angewiesen. Ein großer Teil der Maschinen und des Materials wird von unseren Mitgliedern zur Verfügung gestellt.
+Im Idealfall meldet ihr Euch an, damit die Mengen geplant werden können. In der Regel gibt es einge Tage vorher einen Eintrag im Pad.</description>
+    </item>
+    
+    <item>
+      <title>Grundkurs Arduino</title>
+      <link>https://eigenbaukombinat.de/grundkurs-arduino/</link>
+      <pubDate>Sat, 11 Apr 2015 08:51:02 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/grundkurs-arduino/</guid>
+      <description>**TERMIN**  _5.5.2018 13:00_   **DAUER**  etwa 3 Stunden   **TEILNEHMER**  maximal 4   **KOSTEN**  25 EUR für Externe, 15 EUR für Mitglieder   **KURSLEITER**  Stefan Teitge   **ORT**  Eigenbaukombinat   **INHALT**  Dieser Kurs gibt eine Einführung in die Welt der Arduinos. Der Arduino ist eine aus Hardware und Software bestehende Plattform für Elektronik-Entwicklung, mit der Elektronik-Projekte einfach und schnell realisiert werden können.</description>
+    </item>
+    
+    <item>
+      <title>Workshop Grundlagen digitaler Informationsverarbeitung</title>
+      <link>https://eigenbaukombinat.de/workshop-grundlagen-digitaler-schaltungen/</link>
+      <pubDate>Wed, 08 Apr 2015 17:45:53 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/workshop-grundlagen-digitaler-schaltungen/</guid>
+      <description>**TERMIN**  Auf Anfrage   **DAUER**  4 Stunden   **TEILNEHMER**  maximal 4   **KOSTEN**  25,00 EUR für Mitglieder; 35,00 EUR für Externe   **KURSLEITER**  Wolfgang Nake   **ORT**  Eigenbaukombinat   **INHALT**  In unserem Workshop lernt ihr:  * Informationstechnische Grundlagen * Elektrotechnische Grundlagen * Beherrschen der Dioden- und Transistor-Logik * Tiefgehendes Verständnis ohne Blackboxes * Innenleben der vorgestellten Logik-IC&#39;s wird komplett beschrieben * Kleine Übungen auf Breadboards  Es sind keine Vorkenntnisse erforderlich!</description>
+    </item>
+    
+    <item>
+      <title>Unterstützer</title>
+      <link>https://eigenbaukombinat.de/unterstuetzer/</link>
+      <pubDate>Thu, 05 Feb 2015 13:16:31 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/unterstuetzer/</guid>
+      <description>Damit wir eine gut ausgestattete Werkstatt anbieten können, sind wir auf Unterstützung angewiesen. Ein großer Teil der Maschinen und des Materials wird von unseren Mitgliedern zur Verfügung gestellt.
 Große Unterstützung wurde uns von der anstiftung zu Teil, einer gemeinnützigen GmbH, die insbesondere offene Werkstätten, Reparatur-Initiativen, interkulturelle und urbane Gemeinschaftsgärten fördert.
-Darüber hinaus erreichen uns auch immer wieder Spenden von Privatpersonen und auch Firmen. Hierzu zählten in der Vergangenheit unter anderem:</description></item><item><title>Workshop Cajon</title><link>https://eigenbaukombinat.de/workshop-cajon/</link><pubDate>Wed, 22 Oct 2014 15:22:49 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/workshop-cajon/</guid><description>**TERMIN** 25. und 26. April 2015, jeweils 10 Uhr **DAUER** 2x etwa 4 Stunden **TEILNEHMER** maximal 4 **KOSTEN** 45 EUR für Externe, 35 EUR für Mitglieder **KURSLEITER** Gregor Hegner **ORT** Eigenbaukombinat **INHALT** Beats aus Holz - wenn ein Hocker zum Schlagzeug wird. Genial einfach zu bauen und zu spielen: das Cajon (gesprochen Cachon) kommt aus Peru und macht einfach Lust auf Trommeln.</description></item><item><title>Tag der offenen Tür</title><link>https://eigenbaukombinat.de/tag-der-offenen-tuer/</link><pubDate>Fri, 19 Sep 2014 13:14:38 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/tag-der-offenen-tuer/</guid><description>**TERMIN** Samstag, 22. April 2016 und Sonntag, 23. April 2017, 10 bis 18 Uhr **ORT** Eigenbaukombinat **INHALT** Beim Tag der offenen Tür gibt es die Möglichkeit, das Eigenbaukombinat und die vielfältigen Möglichkeiten kennenzulernen und sich mit den Mitgliedern auszutauschen.Unsere Räumlichkeiten können entweder im Rahmen einer Führung oder eigenständig erkundet werden. Beim Tag der offenen Tür sieht man in den Werkstätten neben Werkzeugen und Maschinen zusätzlich fertige Projekte, die eindrucksvoll zeigen, was im Eigenbaukombinat alles möglich ist.</description></item><item><title>Kennenlern-Abend</title><link>https://eigenbaukombinat.de/kennenlern-abend/</link><pubDate>Thu, 18 Sep 2014 02:36:33 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/kennenlern-abend/</guid><description>**TERMIN** jeden dritten Freitag im Monat **DAUER** etwa 2 Stunden **KOSTEN** kostenlos **ORT** Eigenbaukombinat **INHALT** Bei unserem monatlichen Kennenlernabend können sich Neu- und Altmitglieder beim gemeinsamen Quatschen, Kochen und Film gucken kennenlernen. Dabei steht der Austausch über aktuelle Projekte und Möglichkeiten im Vordergrund. Noch-nicht-Mitglieder sind herzlich eingeladen, das Eigenbaukombinat und seine Mitglieder kennenzulernen. **ANMELDUNG** nicht notwendig</description></item><item><title>Gemeinsame Nähaktion mit der Krebsgesellschaft Sachsen-Anhalt</title><link>https://eigenbaukombinat.de/herzkissen/</link><pubDate>Mon, 25 Aug 2014 08:31:22 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/herzkissen/</guid><description>**TERMIN** 25. Oktober 2015, 14:00 Uhr **DAUER** so lange wie Elan und Material vorhanden ist **TEILNEHMER** unbeschränkt **KOSTEN** kostenlos, Material wird gestellt **KURSLEITER** Stephanie Troitzsch und Stefan Teitge **ORT** Eigenbaukombinat **INHALT** Das Eigenbaukombinat engangiert sich am 25. Oktober für das [Herzkissenprojekt](https://sakg.de/spenden/herzkissenprojekt/) der Krebsgesellschaft Sachsen-Anhalt. Die Herzkissen werden Patientinnen nach einer Brustkrebsoperation übergeben, um diesen eine Linderung ihrer Wundschmerzen zu ermöglichen.</description></item><item><title>Elektronik-Treffen</title><link>https://eigenbaukombinat.de/elektronik-treffen/</link><pubDate>Tue, 15 Jul 2014 13:48:51 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/elektronik-treffen/</guid><description>**TERMIN** jeden zweiten Dienstag im Monat ab 19 Uhr **DAUER** etwa 2 Stunden **TEILNEHMER** unbeschränkt **KOSTEN** kostenlos **ORT** Eigenbaukombinat **BESCHREIBUNG** Du bist Elektronikbastler, liebst es, Mikrocontroller zu programmieren, oder an Röhrenverstärkern zu löten? Du bekommst zuhause Schimpfe, wenn wieder mal die ganze Wohnung nach durchgebrannten Kondensatoren stinkt?
-Deine Werkzeugsammlung besteht nicht aus Schraubenschlüsseln, Sägen und Hämmern, sondern aus Lötkolben, Seitenschneidern und Natriumpersulfat?</description></item><item><title>Reparaturklinik</title><link>https://eigenbaukombinat.de/reparaturklinik/</link><pubDate>Thu, 12 Jun 2014 13:06:11 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/reparaturklinik/</guid><description>**TERMIN** Auf Anfrage **TEILNEHMER** ca. 15 (Anmeldungen werden bevorzugt behandelt) **KOSTEN** kostenlos **KURSLEITER** Das Team der Reparaturklinik **ORT** Eigenbaukombinat **INHALT** Du hast etwas Kaputtes, weißt aber nicht, wie Du es reparieren kannst oder hast nicht das passende Werkzeug dazu? Dann komm' zur Reparaturklinik und wir helfen Dir dabei. Insbesondere kümmern wir uns um * Unterhaltungselektronik (Lautsprecher, Verstärker, .</description></item><item><title>Geldspenden</title><link>https://eigenbaukombinat.de/geldspenden/</link><pubDate>Fri, 06 Jun 2014 07:42:51 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/geldspenden/</guid><description>Infos hier.</description></item><item><title>Sachspenden</title><link>https://eigenbaukombinat.de/sachspenden/</link><pubDate>Fri, 06 Jun 2014 07:35:53 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/sachspenden/</guid><description>Infos hier.</description></item><item><title>Grundkurs Bierbrauen</title><link>https://eigenbaukombinat.de/grundkurs-bierbrauen/</link><pubDate>Thu, 05 Jun 2014 14:35:39 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/grundkurs-bierbrauen/</guid><description>**TERMIN** Wird nicht mehr Angeboten **DAUER** etwa 8 Stunden (Brauen) **TEILNEHMER** maximal 12 **KOSTEN** 45 EUR für Externe, 25 EUR für Mitglieder **KURSLEITER** Steffen Ahrens **ORT** Eigenbaukombinat **INHALT** Im Hobbybrauer-Workshop erfahrt ihr, wie ihr Euch zu Hause mit ein wenig Ausrüstung und etwas Zeit euer eigenes Bier brauen könnt.Dabei geht es nicht nur um trockene Theorie - wir brauen an diesem Tag zusammen ein Bier und ihr erfahrt nebenbei Schritt für Schritt, wie ihr aus Gerstenmalz, Hopfen und Bierhefe euer eigenes, individuelles Bier brauen könnt.</description></item><item><title>Modellbau-Treffen</title><link>https://eigenbaukombinat.de/modellbau-treffen/</link><pubDate>Sun, 23 Mar 2014 18:26:01 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/modellbau-treffen/</guid><description>**TERMIN** 26.05.2019 18:00 **DAUER** 2-4h **TEILNEHMER** unbeschränkt **KOSTEN** kostenlos **KURSLEITER** Stefan Teitge **ORT** Eigenbaukombinat **INHALT** In lockerer Atmosphäre treffen wir uns zu einer gemütlichen Stammtischrunde, um über alles, was ferngesteuert fliegt, schwimmt oder fährt zu philosophieren. Gerne bauen wir auch gemeinsam an einem Projekt oder lösen ein oder zwei technische Probleme.</description></item><item><title>Workshop Arduino</title><link>https://eigenbaukombinat.de/workshop-arduino/</link><pubDate>Fri, 21 Feb 2014 19:43:19 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/workshop-arduino/</guid><description>**TERMIN** Dieser Workshop wurde durch den [Grundkurs Arduino](/grundkurs-arduino/) ersetzt! **DAUER** etwa 4 Stunden **TEILNEHMER** maximal 4 **KOSTEN** 10 EUR **KURSLEITER** Stefan Teitge **ORT** Eigenbaukombinat **INHALT** In diesem Workshop wird es eine Einführung in die Welt der Arduinos geben. Der Arduino ist eine Plattform für Elektronik-Entwicklung. Mit ihr können einfache oder auch komplexe Elektronik-Projekte sehr schnell realisiert werden.</description></item><item><title>Dunkelkammer-Treffen</title><link>https://eigenbaukombinat.de/dunkelkammer-treffen/</link><pubDate>Fri, 31 Jan 2014 20:15:27 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/dunkelkammer-treffen/</guid><description>**TERMIN** derzeit kein Termin geplant **DAUER** etwa 2 Stunden **TEILNEHMER** unbeschränkt **KOSTEN** kostenlos **KURSLEITER** Lydia Schubert **ORT** Eigenbaukombinat **INHALT** Beim Dunkelkammer-Treffen möchten wir: gemeinsam essen (jede und jeder bringt eine Kleinigkeit mit) uns dabei über analoge Fotografie austauschen - bringt gerne eure Kameras und/oder schöne Fotos und/oder schöne Bücher mit! einen Rosmarin-Positiv-Entwickler selbst kochen und ausprobieren wer möchte, kann in die Benutzung der DuKa eingeweiht werden und diese dann eigenständig nutzen (nach Eintritt ins EBK) - bitte vorher Bescheid geben (unter duka@eigenbaukombinat.</description></item><item><title>Workshop Kuscheltiere nähen</title><link>https://eigenbaukombinat.de/workshop-kuscheltiere-naehen/</link><pubDate>Thu, 23 Jan 2014 14:49:10 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/workshop-kuscheltiere-naehen/</guid><description>**TERMIN** derzeit kein Termin geplant **DAUER** etwa 4 Stunden **TEILNEHMER** maximal 6 **KOSTEN** 10 EUR **KURSLEITER** Stefan Teitge und Stephanie Troitzsch **ORT** Eigenbaukombinat **INHALT** In diesem Workshop wird nach kurzer Einführung in die Benutzung der Nähmaschine ein einfaches Kuscheltier gefertigt. Basierend auf einigen Vorlagen kann individuell ein neues Familienmitglied gestaltet und zusammengenäht werden.</description></item><item><title>Freifunk-Treffen</title><link>https://eigenbaukombinat.de/freifunk-treffen/</link><pubDate>Mon, 20 Jan 2014 18:50:04 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/freifunk-treffen/</guid><description> Freifunk Halle trifft sich zum Quatschen und Basteln an freien Netzen in Halle. Mehr Informationen auf freifunk-halle.org.
+Darüber hinaus erreichen uns auch immer wieder Spenden von Privatpersonen und auch Firmen. Hierzu zählten in der Vergangenheit unter anderem:</description>
+    </item>
+    
+    <item>
+      <title>Workshop Cajon</title>
+      <link>https://eigenbaukombinat.de/workshop-cajon/</link>
+      <pubDate>Wed, 22 Oct 2014 15:22:49 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/workshop-cajon/</guid>
+      <description>**TERMIN**  25. und 26. April 2015, jeweils 10 Uhr   **DAUER**  2x etwa 4 Stunden   **TEILNEHMER**  maximal 4   **KOSTEN**  45 EUR für Externe, 35 EUR für Mitglieder   **KURSLEITER**  Gregor Hegner   **ORT**  Eigenbaukombinat   **INHALT**  Beats aus Holz - wenn ein Hocker zum Schlagzeug wird. Genial einfach zu bauen und zu spielen: das Cajon (gesprochen Cachon) kommt aus Peru und macht einfach Lust auf Trommeln.</description>
+    </item>
+    
+    <item>
+      <title>Tag der offenen Tür</title>
+      <link>https://eigenbaukombinat.de/tag-der-offenen-tuer/</link>
+      <pubDate>Fri, 19 Sep 2014 13:14:38 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/tag-der-offenen-tuer/</guid>
+      <description>**TERMIN**  Samstag, 22. April 2016 und Sonntag, 23. April 2017, 10 bis 18 Uhr   **ORT**  Eigenbaukombinat   **INHALT**  Beim Tag der offenen Tür gibt es die Möglichkeit, das Eigenbaukombinat und die vielfältigen Möglichkeiten kennenzulernen und sich mit den Mitgliedern auszutauschen.Unsere Räumlichkeiten können entweder im Rahmen einer Führung oder eigenständig erkundet werden. Beim Tag der offenen Tür sieht man in den Werkstätten neben Werkzeugen und Maschinen zusätzlich fertige Projekte, die eindrucksvoll zeigen, was im Eigenbaukombinat alles möglich ist.</description>
+    </item>
+    
+    <item>
+      <title>Kennenlern-Abend</title>
+      <link>https://eigenbaukombinat.de/kennenlern-abend/</link>
+      <pubDate>Thu, 18 Sep 2014 02:36:33 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/kennenlern-abend/</guid>
+      <description>**TERMIN**  jeden dritten Freitag im Monat   **DAUER**  etwa 2 Stunden   **KOSTEN**  kostenlos   **ORT**  Eigenbaukombinat   **INHALT**  Bei unserem monatlichen Kennenlernabend können sich Neu- und Altmitglieder beim gemeinsamen Quatschen, Kochen und Film gucken kennenlernen. Dabei steht der Austausch über aktuelle Projekte und Möglichkeiten im Vordergrund. Noch-nicht-Mitglieder sind herzlich eingeladen, das Eigenbaukombinat und seine Mitglieder kennenzulernen.   **ANMELDUNG**  nicht notwendig     </description>
+    </item>
+    
+    <item>
+      <title>Gemeinsame Nähaktion mit der Krebsgesellschaft Sachsen-Anhalt</title>
+      <link>https://eigenbaukombinat.de/herzkissen/</link>
+      <pubDate>Mon, 25 Aug 2014 08:31:22 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/herzkissen/</guid>
+      <description>**TERMIN**  25. Oktober 2015, 14:00 Uhr   **DAUER**  so lange wie Elan und Material vorhanden ist   **TEILNEHMER**  unbeschränkt   **KOSTEN**  kostenlos, Material wird gestellt   **KURSLEITER**  Stephanie Troitzsch und Stefan Teitge   **ORT**  Eigenbaukombinat   **INHALT**  Das Eigenbaukombinat engangiert sich am 25. Oktober für das [Herzkissenprojekt](https://sakg.de/spenden/herzkissenprojekt/) der Krebsgesellschaft Sachsen-Anhalt. Die Herzkissen werden Patientinnen nach einer Brustkrebsoperation übergeben, um diesen eine Linderung ihrer Wundschmerzen zu ermöglichen.</description>
+    </item>
+    
+    <item>
+      <title>Elektronik-Treffen</title>
+      <link>https://eigenbaukombinat.de/elektronik-treffen/</link>
+      <pubDate>Tue, 15 Jul 2014 13:48:51 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/elektronik-treffen/</guid>
+      <description>**TERMIN**  jeden zweiten Dienstag im Monat ab 19 Uhr   **DAUER**  etwa 2 Stunden   **TEILNEHMER**  unbeschränkt   **KOSTEN**  kostenlos   **ORT**  Eigenbaukombinat   **BESCHREIBUNG**  Du bist Elektronikbastler, liebst es, Mikrocontroller zu programmieren, oder an Röhrenverstärkern zu löten? Du bekommst zuhause Schimpfe, wenn wieder mal die ganze Wohnung nach durchgebrannten Kondensatoren stinkt?
+Deine Werkzeugsammlung besteht nicht aus Schraubenschlüsseln, Sägen und Hämmern, sondern aus Lötkolben, Seitenschneidern und Natriumpersulfat?</description>
+    </item>
+    
+    <item>
+      <title>Reparaturklinik</title>
+      <link>https://eigenbaukombinat.de/reparaturklinik/</link>
+      <pubDate>Thu, 12 Jun 2014 13:06:11 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/reparaturklinik/</guid>
+      <description>**TERMIN**  Auf Anfrage   **TEILNEHMER**  ca. 15 (Anmeldungen werden bevorzugt behandelt)   **KOSTEN**  kostenlos   **KURSLEITER**  Das Team der Reparaturklinik   **ORT**  Eigenbaukombinat   **INHALT**  Du hast etwas Kaputtes, weißt aber nicht, wie Du es reparieren kannst oder hast nicht das passende Werkzeug dazu? Dann komm&#39; zur Reparaturklinik und wir helfen Dir dabei. Insbesondere kümmern wir uns um  * Unterhaltungselektronik (Lautsprecher, Verstärker, .</description>
+    </item>
+    
+    <item>
+      <title>Geldspenden</title>
+      <link>https://eigenbaukombinat.de/geldspenden/</link>
+      <pubDate>Fri, 06 Jun 2014 07:42:51 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/geldspenden/</guid>
+      <description>Infos hier.</description>
+    </item>
+    
+    <item>
+      <title>Sachspenden</title>
+      <link>https://eigenbaukombinat.de/sachspenden/</link>
+      <pubDate>Fri, 06 Jun 2014 07:35:53 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/sachspenden/</guid>
+      <description>Infos hier.</description>
+    </item>
+    
+    <item>
+      <title>Grundkurs Bierbrauen</title>
+      <link>https://eigenbaukombinat.de/grundkurs-bierbrauen/</link>
+      <pubDate>Thu, 05 Jun 2014 14:35:39 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/grundkurs-bierbrauen/</guid>
+      <description>**TERMIN**  Wird nicht mehr Angeboten   **DAUER**  etwa 8 Stunden (Brauen)   **TEILNEHMER**  maximal 12   **KOSTEN**  45 EUR für Externe, 25 EUR für Mitglieder   **KURSLEITER**  Steffen Ahrens   **ORT**  Eigenbaukombinat   **INHALT**  Im Hobbybrauer-Workshop erfahrt ihr, wie ihr Euch zu Hause mit ein wenig Ausrüstung und etwas Zeit euer eigenes Bier brauen könnt.Dabei geht es nicht nur um trockene Theorie - wir brauen an diesem Tag zusammen ein Bier und ihr erfahrt nebenbei Schritt für Schritt, wie ihr aus Gerstenmalz, Hopfen und Bierhefe euer eigenes, individuelles Bier brauen könnt.</description>
+    </item>
+    
+    <item>
+      <title>Modellbau-Treffen</title>
+      <link>https://eigenbaukombinat.de/modellbau-treffen/</link>
+      <pubDate>Sun, 23 Mar 2014 18:26:01 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/modellbau-treffen/</guid>
+      <description>**TERMIN**  26.05.2019 18:00   **DAUER**  2-4h   **TEILNEHMER**  unbeschränkt   **KOSTEN**  kostenlos   **KURSLEITER**  Stefan Teitge   **ORT**  Eigenbaukombinat   **INHALT**  In lockerer Atmosphäre treffen wir uns zu einer gemütlichen Stammtischrunde, um über alles, was ferngesteuert fliegt, schwimmt oder fährt zu philosophieren. Gerne bauen wir auch gemeinsam an einem Projekt oder lösen ein oder zwei technische Probleme.</description>
+    </item>
+    
+    <item>
+      <title>Workshop Arduino</title>
+      <link>https://eigenbaukombinat.de/workshop-arduino/</link>
+      <pubDate>Fri, 21 Feb 2014 19:43:19 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/workshop-arduino/</guid>
+      <description>**TERMIN**  Dieser Workshop wurde durch den [Grundkurs Arduino](/grundkurs-arduino/) ersetzt!   **DAUER**  etwa 4 Stunden   **TEILNEHMER**  maximal 4   **KOSTEN**  10 EUR   **KURSLEITER**  Stefan Teitge   **ORT**  Eigenbaukombinat   **INHALT**  In diesem Workshop wird es eine Einführung in die Welt der Arduinos geben. Der Arduino ist eine Plattform für Elektronik-Entwicklung. Mit ihr können einfache oder auch komplexe Elektronik-Projekte sehr schnell realisiert werden.</description>
+    </item>
+    
+    <item>
+      <title>Dunkelkammer-Treffen</title>
+      <link>https://eigenbaukombinat.de/dunkelkammer-treffen/</link>
+      <pubDate>Fri, 31 Jan 2014 20:15:27 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/dunkelkammer-treffen/</guid>
+      <description>**TERMIN**  derzeit kein Termin geplant   **DAUER**  etwa 2 Stunden   **TEILNEHMER**  unbeschränkt   **KOSTEN**  kostenlos   **KURSLEITER**  Lydia Schubert   **ORT**  Eigenbaukombinat   **INHALT**  Beim Dunkelkammer-Treffen möchten wir:  gemeinsam essen (jede und jeder bringt eine Kleinigkeit mit) uns dabei über analoge Fotografie austauschen - bringt gerne eure Kameras und/oder schöne Fotos und/oder schöne Bücher mit! einen Rosmarin-Positiv-Entwickler selbst kochen und ausprobieren wer möchte, kann in die Benutzung der DuKa eingeweiht werden und diese dann eigenständig nutzen (nach Eintritt ins EBK) - bitte vorher Bescheid geben (unter duka@eigenbaukombinat.</description>
+    </item>
+    
+    <item>
+      <title>Workshop Kuscheltiere nähen</title>
+      <link>https://eigenbaukombinat.de/workshop-kuscheltiere-naehen/</link>
+      <pubDate>Thu, 23 Jan 2014 14:49:10 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/workshop-kuscheltiere-naehen/</guid>
+      <description>**TERMIN**  derzeit kein Termin geplant   **DAUER**  etwa 4 Stunden   **TEILNEHMER**  maximal 6   **KOSTEN**  10 EUR   **KURSLEITER**  Stefan Teitge und Stephanie Troitzsch   **ORT**  Eigenbaukombinat   **INHALT**  In diesem Workshop wird nach kurzer Einführung in die Benutzung der Nähmaschine ein einfaches Kuscheltier gefertigt. Basierend auf einigen Vorlagen kann individuell ein neues Familienmitglied gestaltet und zusammengenäht werden.</description>
+    </item>
+    
+    <item>
+      <title>Freifunk-Treffen</title>
+      <link>https://eigenbaukombinat.de/freifunk-treffen/</link>
+      <pubDate>Mon, 20 Jan 2014 18:50:04 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/freifunk-treffen/</guid>
+      <description>     Freifunk Halle trifft sich zum Quatschen und Basteln an freien Netzen in Halle. Mehr Informationen auf freifunk-halle.org.
 Termin Immer am dritten Dienstag im Monat ab 19:00 Uhr
 Dauer Etwa 2-3 Stunden.
-Teilnehmen ohne Anmeldung unbegrenzt offen für Gäste</description></item><item><title>FAQs</title><link>https://eigenbaukombinat.de/faqs/</link><pubDate>Thu, 26 Dec 2013 19:56:37 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/faqs/</guid><description>Ich habe von euch gehört und würde gerne einmal vorbeikommen und mir alles ansehen. Geht das?
+Teilnehmen  ohne Anmeldung unbegrenzt offen für Gäste  </description>
+    </item>
+    
+    <item>
+      <title>FAQs</title>
+      <link>https://eigenbaukombinat.de/faqs/</link>
+      <pubDate>Thu, 26 Dec 2013 19:56:37 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/faqs/</guid>
+      <description>Ich habe von euch gehört und würde gerne einmal vorbeikommen und mir alles ansehen. Geht das?
 Natürlich! Komm doch einfach während unserer Öffnungszeiten bei uns vorbei. Wenn du besondere Interessen hast (wie z.B. CNC-Fräsen oder 3D-Druck), solltest du vorher per E-Mail anfragen, damit auch ein Mitglied mit entsprechenden Kenntnissen anwesend ist.
 Kann ich Kurse, Workshops und Treffen ohne Mitgliedschaft besuchen?
-Ja, klar wir freuen uns sehr, wenn du bei einem Kurs, einem Treffen oder einem Workshop dabei bist.</description></item><item><title>Workshop Einführung Digitalfotografie</title><link>https://eigenbaukombinat.de/workshop-einfuehrung-digitalfotografie/</link><pubDate>Thu, 28 Nov 2013 14:54:22 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/workshop-einfuehrung-digitalfotografie/</guid><description>**TERMIN** derzeit kein Termin geplant **DAUER** etwa 3 Stunden **TEILNEHMER** maximal 5 **KOSTEN** 15 EUR für Externe, 10 EUR für Mitglieder **KURSLEITER** Roberto Hoffmann **ORT** Eigenbaukombinat **INHALT** In diesem Workshop vermitteln wir einen praxisorientierten Einstieg in den Umgang mit einer digitalen Spiegelreflexkamera und wichtige Informationen zum technischen Hintergrund. Workshopthemen sind: * grundsätzlicher Aufbau einer DSLR (Spiegelkasten, Bayersensor, Verschluss.</description></item><item><title>Workshop Kürbisschnitzen</title><link>https://eigenbaukombinat.de/workshop-kurbisschnitzen/</link><pubDate>Sat, 05 Oct 2013 11:02:35 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/workshop-kurbisschnitzen/</guid><description>**TERMIN** 30. Oktober 2014, 17 Uhr **DAUER** 3-4 Stunden **TEILNEHMER** maximal 4 **KOSTEN** kostenlos **KURSLEITER** Stephanie Weier **ORT** Eigenbaukombinat **INHALT** Halloween steht vor der Tür! Passend dazu wollen wir gemeinsam Kürbisse schnitzen. Anfänger und Fortgeschrittene sind gleichermaßen willkommen. Benötigtes Werkzeug steht für alle Teilnehmer zur Verfügung, kann aber auch gerne mitgebracht werden.</description></item><item><title>Handarbeits-Treffen</title><link>https://eigenbaukombinat.de/handarbeits-treffen/</link><pubDate>Fri, 16 Aug 2013 09:45:27 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/handarbeits-treffen/</guid><description>Wir treffen uns zum Nähen, Stricken, Häkeln, Filzen und mehr im Eigenbaukombinat. Anfänger:innen und fortgeschrittene sind gleichermaßen willkommen.
+Ja, klar wir freuen uns sehr, wenn du bei einem Kurs, einem Treffen oder einem Workshop dabei bist.</description>
+    </item>
+    
+    <item>
+      <title>Workshop Einführung Digitalfotografie</title>
+      <link>https://eigenbaukombinat.de/workshop-einfuehrung-digitalfotografie/</link>
+      <pubDate>Thu, 28 Nov 2013 14:54:22 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/workshop-einfuehrung-digitalfotografie/</guid>
+      <description>**TERMIN**  derzeit kein Termin geplant   **DAUER**  etwa 3 Stunden   **TEILNEHMER**  maximal 5   **KOSTEN**  15 EUR für Externe, 10 EUR für Mitglieder   **KURSLEITER**  Roberto Hoffmann   **ORT**  Eigenbaukombinat   **INHALT**  In diesem Workshop vermitteln wir einen praxisorientierten Einstieg in den Umgang mit einer digitalen Spiegelreflexkamera und wichtige Informationen zum technischen Hintergrund. Workshopthemen sind:  * grundsätzlicher Aufbau einer DSLR (Spiegelkasten, Bayersensor, Verschluss.</description>
+    </item>
+    
+    <item>
+      <title>Workshop Kürbisschnitzen</title>
+      <link>https://eigenbaukombinat.de/workshop-kurbisschnitzen/</link>
+      <pubDate>Sat, 05 Oct 2013 11:02:35 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/workshop-kurbisschnitzen/</guid>
+      <description>**TERMIN**  30. Oktober 2014, 17 Uhr   **DAUER**  3-4 Stunden   **TEILNEHMER**  maximal 4   **KOSTEN**  kostenlos   **KURSLEITER**  Stephanie Weier   **ORT**  Eigenbaukombinat   **INHALT**  Halloween steht vor der Tür! Passend dazu wollen wir gemeinsam Kürbisse schnitzen. Anfänger und Fortgeschrittene sind gleichermaßen willkommen. Benötigtes Werkzeug steht für alle Teilnehmer zur Verfügung, kann aber auch gerne mitgebracht werden.</description>
+    </item>
+    
+    <item>
+      <title>Handarbeits-Treffen</title>
+      <link>https://eigenbaukombinat.de/handarbeits-treffen/</link>
+      <pubDate>Fri, 16 Aug 2013 09:45:27 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/handarbeits-treffen/</guid>
+      <description>Wir treffen uns zum Nähen, Stricken, Häkeln, Filzen und mehr im Eigenbaukombinat. Anfänger:innen und fortgeschrittene sind gleichermaßen willkommen.
 Termin Jeden Mittwoch in geraden Kalenderwochen ab 18:30 Uhr.
 Dauer Etwa 4 Stunden.
-Teilnehmen ohne Anmeldung Anzahl unbeschränkt offen für Gäste Kosten Nur Verbrauchskosten (falls zutreffend).</description></item><item><title>Oberfräse: Festool OF-900</title><link>https://eigenbaukombinat.de/oberfrase-festool-of-900/</link><pubDate>Wed, 19 Jun 2013 22:31:28 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/oberfrase-festool-of-900/</guid><description>Die &amp;ldquo;Grande Dame&amp;rdquo; unter den kleinen Oberfräsen und ein echter Workaholic: Die OF-900 von Festool. Klein, relativ leicht, und unkaputtbar.
-Mit 8mm Spannzange ausgestattet passen alle üblichen Fräser hinein. Ein Parallelanschlag und eine Tiefeneinstellung sind natürich auch mit an Bord.</description></item><item><title>Aufbaukurs Holzwerken</title><link>https://eigenbaukombinat.de/aufbaukurs-holzwerken/</link><pubDate>Sat, 08 Jun 2013 16:55:55 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/aufbaukurs-holzwerken/</guid><description>**TERMIN** siehe [Terminkalender](/unsere-veranstaltungen/) **UHRZEIT** 10.00 - 16.30 Uhr **ANMELDUNG** E-Mail an [veranstaltungen@eigenbaukombinat.de](mailto:veranstaltungen@eigenbaukombinat.de?subject=Anmeldung Aufbaukurs Holzwerken) **TEILNEHMER** 3-4 **KOSTEN** 60 EUR für Externe, 40 EUR für Mitglieder **KURSLEITER** Florian Walter /Markus Gragert **ORT** Eigenbaukombinat **INHALT** In diesem Kurs wird jeder Teilnehmer ein Küchenschneidebrett aus Massivholz herstellen. Mithilfe des Kursleiters werden von den Kursteilnehmern folgende Arbeitsschritte durchgeführt und dabei der Umgang mit den zugehörigen Maschinen erlernt: * Besäumen der Massivholzbohlen * Abrichten an der Hobelmaschine * Konturschnitt an der Bandsäge * Kantenprofilierung mit der Tischfräse * Oberflächenschliff mit dem Exzenterschleifer * Oberflächenbehandlung mit Öl/Wachs **HINWEIS** Für diesen Kurs müsst ihr erste praktische Erfahrung im Holzwerken und eine gewisse Fingerfertigkeit mitbringen.</description></item><item><title>CNC-Fräse: BZT PF-1410P</title><link>https://eigenbaukombinat.de/cnc-frase-bzt-pf-1410p/</link><pubDate>Fri, 07 Jun 2013 21:26:14 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/cnc-frase-bzt-pf-1410p/</guid><description>HARDWARE
-* Fräsmotor Kress FME-1050 * Spannzangen für 1/8&amp;quot; (3.175mm), 6mm, 1/4&amp;quot;(6.35mm), 8mm Fräser * Standard-Fräser in 1.2mm, 2mm, 3mm lang (15mm), 6mm * Steuerung BZT ST 63.1, 3 Achsen, 6 Ampere, 1/8 Microschritt * Fräse BZT PF-1410P mit Kugelumlaufspindeln * Rechner Intel Atom D510 Dualcore mit [LinuxCNC 2.5 Distribution](https://linuxcnc.org) * Monitor 19&amp;quot; TFT Eizo S1920 SOFTWARE
-* **[QCad](https://qcad.org)** Seit Version 3.1 wieder OpenSource!! ([Download hier](https://qcad.org/de/qcad-downloads-trial)) * **Cut2D** Tutorials zu Cut2D: [VIDEO Teil 1](https://www.</description></item><item><title>Geschenkgutscheine</title><link>https://eigenbaukombinat.de/geschenkgutscheine/</link><pubDate>Sat, 01 Jun 2013 16:34:42 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/geschenkgutscheine/</guid><description>Bitte hier klicken.</description></item><item><title>Grundkurs Analoge Fotografie - S/W-Entwicklung</title><link>https://eigenbaukombinat.de/workshop-analogfotoentwicklung/</link><pubDate>Tue, 28 May 2013 15:21:23 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/workshop-analogfotoentwicklung/</guid><description>**TERMINE** Sonntag, 22. April 2018, 14 Uhr **DAUER** etwa 4 Stunden **TEILNEHMER** maximal 3 **KOSTEN** ca. 10 EUR **KURSLEITER** David Rauh **ORT** Eigenbaukombinat **INHALT** Der Workshop dient dazu, den Einstieg in die Entwicklung von S/W-Negativ-Filmen und die Vergrößerung auf Papier zu bieten. Nach einer kurzen theoretischen Einführung wird es direkt in die Dunkelkammer gehen.</description></item><item><title>Öffnungszeiten</title><link>https://eigenbaukombinat.de/oeffnungszeiten/</link><pubDate>Mon, 20 May 2013 13:00:00 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/oeffnungszeiten/</guid><description>Für Mitglieder:
+Teilnehmen  ohne Anmeldung Anzahl unbeschränkt offen für Gäste  Kosten Nur Verbrauchskosten (falls zutreffend).</description>
+    </item>
+    
+    <item>
+      <title>Oberfräse: Festool OF-900</title>
+      <link>https://eigenbaukombinat.de/oberfrase-festool-of-900/</link>
+      <pubDate>Wed, 19 Jun 2013 22:31:28 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/oberfrase-festool-of-900/</guid>
+      <description>Die &amp;ldquo;Grande Dame&amp;rdquo; unter den kleinen Oberfräsen und ein echter Workaholic: Die OF-900 von Festool. Klein, relativ leicht, und unkaputtbar.
+
+Mit 8mm Spannzange ausgestattet passen alle üblichen Fräser hinein. Ein Parallelanschlag und eine Tiefeneinstellung sind natürich auch mit an Bord.</description>
+    </item>
+    
+    <item>
+      <title>Aufbaukurs Holzwerken</title>
+      <link>https://eigenbaukombinat.de/aufbaukurs-holzwerken/</link>
+      <pubDate>Sat, 08 Jun 2013 16:55:55 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/aufbaukurs-holzwerken/</guid>
+      <description>**TERMIN**  siehe [Terminkalender](/unsere-veranstaltungen/)   **UHRZEIT**  10.00 - 16.30 Uhr   **ANMELDUNG**  E-Mail an [veranstaltungen@eigenbaukombinat.de](mailto:veranstaltungen@eigenbaukombinat.de?subject=Anmeldung Aufbaukurs Holzwerken)   **TEILNEHMER**  3-4   **KOSTEN**  60 EUR für Externe, 40 EUR für Mitglieder   **KURSLEITER**  Florian Walter /Markus Gragert   **ORT**  Eigenbaukombinat   **INHALT**  In diesem Kurs wird jeder Teilnehmer ein Küchenschneidebrett aus Massivholz herstellen. Mithilfe des Kursleiters werden von den Kursteilnehmern folgende Arbeitsschritte durchgeführt und dabei der Umgang mit den zugehörigen Maschinen erlernt:  * Besäumen der Massivholzbohlen * Abrichten an der Hobelmaschine * Konturschnitt an der Bandsäge * Kantenprofilierung mit der Tischfräse * Oberflächenschliff mit dem Exzenterschleifer * Oberflächenbehandlung mit Öl/Wachs    **HINWEIS**  Für diesen Kurs müsst ihr erste praktische Erfahrung im Holzwerken und eine gewisse Fingerfertigkeit mitbringen.</description>
+    </item>
+    
+    <item>
+      <title>CNC-Fräse: BZT PF-1410P</title>
+      <link>https://eigenbaukombinat.de/cnc-frase-bzt-pf-1410p/</link>
+      <pubDate>Fri, 07 Jun 2013 21:26:14 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/cnc-frase-bzt-pf-1410p/</guid>
+      <description>HARDWARE
+ * Fräsmotor Kress FME-1050 * Spannzangen für 1/8&amp;quot; (3.175mm), 6mm, 1/4&amp;quot;(6.35mm), 8mm Fräser * Standard-Fräser in 1.2mm, 2mm, 3mm lang (15mm), 6mm * Steuerung BZT ST 63.1, 3 Achsen, 6 Ampere, 1/8 Microschritt * Fräse BZT PF-1410P mit Kugelumlaufspindeln * Rechner Intel Atom D510 Dualcore mit [LinuxCNC 2.5 Distribution](https://linuxcnc.org) * Monitor 19&amp;quot; TFT Eizo S1920  SOFTWARE
+ * **[QCad](https://qcad.org)** Seit Version 3.1 wieder OpenSource!! ([Download hier](https://qcad.org/de/qcad-downloads-trial)) * **Cut2D** Tutorials zu Cut2D: [VIDEO Teil 1](https://www.</description>
+    </item>
+    
+    <item>
+      <title>Geschenkgutscheine</title>
+      <link>https://eigenbaukombinat.de/geschenkgutscheine/</link>
+      <pubDate>Sat, 01 Jun 2013 16:34:42 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/geschenkgutscheine/</guid>
+      <description>Bitte hier klicken.</description>
+    </item>
+    
+    <item>
+      <title>Grundkurs Analoge Fotografie - S/W-Entwicklung</title>
+      <link>https://eigenbaukombinat.de/workshop-analogfotoentwicklung/</link>
+      <pubDate>Tue, 28 May 2013 15:21:23 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/workshop-analogfotoentwicklung/</guid>
+      <description>**TERMINE**  Sonntag, 22. April 2018, 14 Uhr   **DAUER**  etwa 4 Stunden   **TEILNEHMER**  maximal 3   **KOSTEN**  ca. 10 EUR   **KURSLEITER**  David Rauh   **ORT**  Eigenbaukombinat   **INHALT**  Der Workshop dient dazu, den Einstieg in die Entwicklung von S/W-Negativ-Filmen und die Vergrößerung auf Papier zu bieten. Nach einer kurzen theoretischen Einführung wird es direkt in die Dunkelkammer gehen.</description>
+    </item>
+    
+    <item>
+      <title>Öffnungszeiten</title>
+      <link>https://eigenbaukombinat.de/oeffnungszeiten/</link>
+      <pubDate>Mon, 20 May 2013 13:00:00 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/oeffnungszeiten/</guid>
+      <description>Für Mitglieder:
 Auf der Startseite ist eine Öffnungsanzeige, an der ihr euch spontan orientieren könnt. Diese wird über den Schlüsseldiensthabenden lokal gesteuert. Neben spontanen Öffnungszeiten gibt es seit 09/2023 feste Öffnungszeiten welche über unseren Bufdi im EBK sowie auch Mitgliedern abgedeckt werden.
-jeden Mittwoch 18:30 - 21 Uhr jeden Donnerstag 16 - 22Uhr jeden Freitag 16 - 22 Uhr Kurzfristige Änderungen oder geplante zusätzliche Zeiten werden häufig im Matrix-Chatserver kommuniziert.</description></item><item><title>Einführung 3D-Drucken</title><link>https://eigenbaukombinat.de/einfuehrung-3d-drucken/</link><pubDate>Sat, 27 Apr 2013 15:29:26 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/einfuehrung-3d-drucken/</guid><description>**TERMIN** Auf Anfrage **DAUER** etwa 3-4 Stunden **TEILNEHMER** maximal 8 **KOSTEN** 18 EUR für Externe, 12 EUR für Mitglieder **KURSLEITER** **ORT** Eigenbaukombinat **INHALT** In dieser Einführung vermitteln wir euch praxisnah Wissenswertes rund um das Thema 3D-Druck. Neben rein theoretischen Inhalten werden die Teilnehmer natürlich auch unseren 3D-Drucker in Aktion sehen. Die Inhalte: * Die Geschichte des 3D-Drucks * Grundlegende Funktionsweise von &amp;quot;Fused Deposition Modeling&amp;quot; 3D-Druckern * Aufbau von 3D-Druckern (Bauteile, Bauformen) * Der 3D-Druck-Workflow: Vom Modell zum fertigen Druck * Materialkunde: ABS, PLA, Nylon, Soft-PLA, Holz (&amp;quot;Laywood&amp;quot;), etc.</description></item><item><title>Fördermitgliedschaft</title><link>https://eigenbaukombinat.de/fordermitgliedschaft/</link><pubDate>Sat, 30 Mar 2013 23:34:59 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/fordermitgliedschaft/</guid><description>Infos hier.</description></item><item><title>Grundkurs CNC-Fräsen</title><link>https://eigenbaukombinat.de/grundkurs-cnc-frasen/</link><pubDate>Mon, 25 Mar 2013 00:41:16 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/grundkurs-cnc-frasen/</guid><description>**TERMIN** Auf Anfrage **DAUER** etwa 5 Stunden **TEILNEHMER** mindestens 5, maximal 12 **KOSTEN** 60 EUR für Externe, 40 EUR für Mitglieder **KURSLEITER** Roberto Hoffmann **ORT** Eigenbaukombinat **INHALT** Wir vermitteln die Grundlagen des CNC-Fräsens an unserer Portalfräse. Dabei gehen wir detailliert auf den Arbeitsablauf und die dabei benutzte Software ein (Konstruktionszeichnung des Werkstückes mit QCad, Erzeugung des Fräsprogrammes mittels Cut2D, Fräsdurchgang mit LinuxCNC).</description></item><item><title>Workshop Lötkunst</title><link>https://eigenbaukombinat.de/workshop-lotkunst/</link><pubDate>Mon, 25 Mar 2013 00:38:04 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/workshop-lotkunst/</guid><description>**TERMIN** Auf Anfrage **DAUER** etwa 3 Stunden **TEILNEHMER** maximal 4 **KOSTEN** 5 EUR **KURSLEITER** Stephanie Weier **ORT** Eigenbaukombinat **INHALT** Wir vermitteln die Grundlagen des Lötens und bauen gemeinsam in gemütlicher Runde nach Vorlage kleine Lötfiguren (Männchen, Katzen, Musiker etc.).
-**VORMELDUNG** E-Mail an [veranstaltungen@eigenbaukombinat.</description></item><item><title>Grundkurs Holzwerken</title><link>https://eigenbaukombinat.de/grundkurs-holzwerken/</link><pubDate>Tue, 19 Mar 2013 01:20:56 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/grundkurs-holzwerken/</guid><description>**TERMIN** siehe [Terminkalender](/unsere-veranstaltungen/) **DAUER** 10.00 - 16.30 Uhr **TEILNEHMER** 3-4 **KOSTEN** 60 EUR für Externe, 40 EUR für Mitglieder **KURSLEITER** Markus Gragert, Florian Walter **ORT** Eigenbaukombinat **INHALT** * Kleine Materialkunde: Eigenschaften von Holz; Massivholz und Plattenmaterial * Konstruktion, richtiges Messen und Zuschnitt * Überblick Holzverbindungssysteme (Schrauben, Dübel, Lamellos, Domino, …) * Oberflächenbehandlung: Schleifen, Ölen, Lackieren Im Kurs vermitteln wir nach einem kurzen Grundlagenteil den sicheren Umgang mit verschiedenen typischen Holzbearbeitungsmaschinen und bauen gemeinsam eine Werkzeugkiste.</description></item><item><title>Fotografischer Spaziergang</title><link>https://eigenbaukombinat.de/fotografischer-spaziergang/</link><pubDate>Mon, 18 Mar 2013 16:53:01 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/fotografischer-spaziergang/</guid><description>**TERMIN** **TEILNEHMER** **KOSTEN** 25. Mai 2013, 14:00 Uhr 1-99 kostenlos! rund 2h Roberto Hoffmann Eigenbaukombinat **DAUER** **KURSLEITER** **ORT** Beim &amp;ldquo;Fotografischen Spaziergang&amp;rdquo; geht es darum gemeinsam mit der Kamera kreativ die Stadt zu erkunden. Dazu werden zu Beginn drei Adjektive gezogen, die die Zielsetzung für die Motivwahl vorgeben.
-Nächster Termin: Samstag, 25. April, 14:00 Uhr, Treffpunkt Eigenbaukombinat.</description></item><item><title>Datenschutzerklärung</title><link>https://eigenbaukombinat.de/datenschutzerklarung/</link><pubDate>Sun, 24 Feb 2013 13:07:44 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/datenschutzerklarung/</guid><description>Nutzung von Akismet zur Vermeidung von Kommentarspam Diese Seite nutzt das Akismet-Plugin der Automattic Inc., 60 29th Street #343, San Francisco, CA 94110-4929, USA. Mit Hilfe dieses Plugins werden Kommentare von echten Menschen von Spam-Kommentaren unterschieden. Dazu werden alle Kommentarangaben an einen Server in den USA verschickt, wo sie analysiert und für Vergleichszwecke vier Tage lang gespeichert werden. Ist ein Kommentar als Spam eingestuft worden, werden die Daten über diese Zeit hinaus gespeichert.</description></item><item><title>Über uns</title><link>https://eigenbaukombinat.de/uber-uns/</link><pubDate>Sun, 17 Feb 2013 13:56:44 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/uber-uns/</guid><description>Das Eigenbaukombinat in Halle (Saale) ist eine Mitmachwerkstatt - auch bekannt als offene Werkstatt. Das heißt, dass wir als Verein eine mit Werkzeugen und Maschinen ausgestattete Werkstatt betreiben, die von jedem Mitglied gleichberechtigt genutzt werden kann.
+ jeden Mittwoch 18:30 - 21 Uhr jeden Donnerstag 16 - 22Uhr jeden Freitag 16 - 22 Uhr  Kurzfristige Änderungen oder geplante zusätzliche Zeiten werden häufig im Matrix-Chatserver kommuniziert.</description>
+    </item>
+    
+    <item>
+      <title>Einführung 3D-Drucken</title>
+      <link>https://eigenbaukombinat.de/einfuehrung-3d-drucken/</link>
+      <pubDate>Sat, 27 Apr 2013 15:29:26 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/einfuehrung-3d-drucken/</guid>
+      <description>**TERMIN**  Auf Anfrage   **DAUER**  etwa 3-4 Stunden   **TEILNEHMER**  maximal 8   **KOSTEN**  18 EUR für Externe, 12 EUR für Mitglieder   **KURSLEITER**    **ORT**  Eigenbaukombinat   **INHALT**  In dieser Einführung vermitteln wir euch praxisnah Wissenswertes rund um das Thema 3D-Druck. Neben rein theoretischen Inhalten werden die Teilnehmer natürlich auch unseren 3D-Drucker in Aktion sehen. Die Inhalte:  * Die Geschichte des 3D-Drucks * Grundlegende Funktionsweise von &amp;quot;Fused Deposition Modeling&amp;quot; 3D-Druckern * Aufbau von 3D-Druckern (Bauteile, Bauformen) * Der 3D-Druck-Workflow: Vom Modell zum fertigen Druck * Materialkunde: ABS, PLA, Nylon, Soft-PLA, Holz (&amp;quot;Laywood&amp;quot;), etc.</description>
+    </item>
+    
+    <item>
+      <title>Fördermitgliedschaft</title>
+      <link>https://eigenbaukombinat.de/fordermitgliedschaft/</link>
+      <pubDate>Sat, 30 Mar 2013 23:34:59 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/fordermitgliedschaft/</guid>
+      <description>Infos hier.</description>
+    </item>
+    
+    <item>
+      <title>Grundkurs CNC-Fräsen</title>
+      <link>https://eigenbaukombinat.de/grundkurs-cnc-frasen/</link>
+      <pubDate>Mon, 25 Mar 2013 00:41:16 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/grundkurs-cnc-frasen/</guid>
+      <description>**TERMIN**  Auf Anfrage   **DAUER**  etwa 5 Stunden   **TEILNEHMER**  mindestens 5, maximal 12   **KOSTEN**  60 EUR für Externe, 40 EUR für Mitglieder   **KURSLEITER**  Roberto Hoffmann   **ORT**  Eigenbaukombinat   **INHALT**  Wir vermitteln die Grundlagen des CNC-Fräsens an unserer Portalfräse. Dabei gehen wir detailliert auf den Arbeitsablauf und die dabei benutzte Software ein (Konstruktionszeichnung des Werkstückes mit QCad, Erzeugung des Fräsprogrammes mittels Cut2D, Fräsdurchgang mit LinuxCNC).</description>
+    </item>
+    
+    <item>
+      <title>Workshop Lötkunst</title>
+      <link>https://eigenbaukombinat.de/workshop-lotkunst/</link>
+      <pubDate>Mon, 25 Mar 2013 00:38:04 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/workshop-lotkunst/</guid>
+      <description>**TERMIN**  Auf Anfrage   **DAUER**  etwa 3 Stunden   **TEILNEHMER**  maximal 4   **KOSTEN**  5 EUR   **KURSLEITER**  Stephanie Weier   **ORT**  Eigenbaukombinat   **INHALT**  Wir vermitteln die Grundlagen des Lötens und bauen gemeinsam in gemütlicher Runde nach Vorlage kleine Lötfiguren (Männchen, Katzen, Musiker etc.).
+
+                               **VORMELDUNG**  E-Mail an [veranstaltungen@eigenbaukombinat.</description>
+    </item>
+    
+    <item>
+      <title>Grundkurs Holzwerken</title>
+      <link>https://eigenbaukombinat.de/grundkurs-holzwerken/</link>
+      <pubDate>Tue, 19 Mar 2013 01:20:56 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/grundkurs-holzwerken/</guid>
+      <description>**TERMIN**  siehe [Terminkalender](/unsere-veranstaltungen/)   **DAUER**  10.00 - 16.30 Uhr   **TEILNEHMER**  3-4   **KOSTEN**  60 EUR für Externe, 40 EUR für Mitglieder   **KURSLEITER**  Markus Gragert, Florian Walter   **ORT**  Eigenbaukombinat   **INHALT**   * Kleine Materialkunde: Eigenschaften von Holz; Massivholz und Plattenmaterial * Konstruktion, richtiges Messen und Zuschnitt * Überblick Holzverbindungssysteme (Schrauben, Dübel, Lamellos, Domino, …) * Oberflächenbehandlung: Schleifen, Ölen, Lackieren  Im Kurs vermitteln wir nach einem kurzen Grundlagenteil den sicheren Umgang mit verschiedenen typischen Holzbearbeitungsmaschinen und bauen gemeinsam eine Werkzeugkiste.</description>
+    </item>
+    
+    <item>
+      <title>Fotografischer Spaziergang</title>
+      <link>https://eigenbaukombinat.de/fotografischer-spaziergang/</link>
+      <pubDate>Mon, 18 Mar 2013 16:53:01 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/fotografischer-spaziergang/</guid>
+      <description>**TERMIN**  **TEILNEHMER**  **KOSTEN**   25. Mai 2013, 14:00 Uhr  1-99  kostenlos!   rund 2h  Roberto Hoffmann  Eigenbaukombinat   **DAUER**  **KURSLEITER**  **ORT**     Beim &amp;ldquo;Fotografischen Spaziergang&amp;rdquo; geht es darum gemeinsam mit der Kamera kreativ die Stadt zu erkunden. Dazu werden zu Beginn drei Adjektive gezogen, die die Zielsetzung für die Motivwahl vorgeben.
+Nächster Termin: Samstag, 25. April, 14:00 Uhr, Treffpunkt Eigenbaukombinat.</description>
+    </item>
+    
+    <item>
+      <title>Datenschutzerklärung</title>
+      <link>https://eigenbaukombinat.de/datenschutzerklarung/</link>
+      <pubDate>Sun, 24 Feb 2013 13:07:44 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/datenschutzerklarung/</guid>
+      <description>Nutzung von Akismet zur Vermeidung von Kommentarspam Diese Seite nutzt das Akismet-Plugin der Automattic Inc., 60 29th Street #343, San Francisco, CA 94110-4929, USA. Mit Hilfe dieses Plugins werden Kommentare von echten Menschen von Spam-Kommentaren unterschieden. Dazu werden alle Kommentarangaben an einen Server in den USA verschickt, wo sie analysiert und für Vergleichszwecke vier Tage lang gespeichert werden. Ist ein Kommentar als Spam eingestuft worden, werden die Daten über diese Zeit hinaus gespeichert.</description>
+    </item>
+    
+    <item>
+      <title>Über uns</title>
+      <link>https://eigenbaukombinat.de/uber-uns/</link>
+      <pubDate>Sun, 17 Feb 2013 13:56:44 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/uber-uns/</guid>
+      <description>Das Eigenbaukombinat in Halle (Saale) ist eine Mitmachwerkstatt - auch bekannt als offene Werkstatt. Das heißt, dass wir als Verein eine mit Werkzeugen und Maschinen ausgestattete Werkstatt betreiben, die von jedem Mitglied gleichberechtigt genutzt werden kann.
 Auf dieser Webseite informieren wir unter anderem über unsere Werkstatt, die Projekte unserer Mitglieder und unsere für alle offenen Veranstaltungen.
-Wenn du interessiert bist, komm doch einfach während unserer Öffnungszeiten bei uns vorbei. Möchtest du gleich viele Mitglieder auf einmal kennenlernen, dann ist auch der Kennenlern- und Kochabend ein perfekter Anknüpfpunkt.</description></item><item><title>Kontakt</title><link>https://eigenbaukombinat.de/kontakt/</link><pubDate>Mon, 31 Dec 2012 22:09:24 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/kontakt/</guid><description>Falls du eine tolle Projektidee hast, oder Hilfe für dein laufendes Projekt suchst, kannst du dich im Matrix-User-Chat unter matrix.eigenbaukombinat.de melden. Details dazu findest du im zugehörigen Blogbeitrag.
+Wenn du interessiert bist, komm doch einfach während unserer Öffnungszeiten bei uns vorbei. Möchtest du gleich viele Mitglieder auf einmal kennenlernen, dann ist auch der Kennenlern- und Kochabend ein perfekter Anknüpfpunkt.</description>
+    </item>
+    
+    <item>
+      <title>Kontakt</title>
+      <link>https://eigenbaukombinat.de/kontakt/</link>
+      <pubDate>Mon, 31 Dec 2012 22:09:24 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/kontakt/</guid>
+      <description>Falls du eine tolle Projektidee hast, oder Hilfe für dein laufendes Projekt suchst, kannst du dich im Matrix-User-Chat unter matrix.eigenbaukombinat.de melden. Details dazu findest du im zugehörigen Blogbeitrag.
 Hier geht’s zu unserer Telegram-Gruppe.
 Für Anfragen zu Veranstaltungen, insbesondere für Kurs- und Workshopanmeldungen, wende dich an veranstaltungen@eigenbaukombinat.de.
 Unsere Postadresse findest du im Impressum.
 Allgemeine Anfragen aller Art kannst du an kontakt@eigenbaukombinat.de richten.
-Wenn du persönlich vorbeikommen möchtest, mache das am besten zu unseren Öffnungszeiten.</description></item><item><title>Mitmachen!</title><link>https://eigenbaukombinat.de/mitmachen/</link><pubDate>Mon, 31 Dec 2012 21:52:04 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/mitmachen/</guid><description>Unsere Werkstatt und der Austausch der Mitglieder untereinander macht es dir möglich, Projekte umzusetzen, für die du alleine in der Wohnung oder im Bastelkeller nicht den Platz, das Know-How oder die Werkzeuge hast.
+Wenn du persönlich vorbeikommen möchtest, mache das am besten zu unseren Öffnungszeiten.</description>
+    </item>
+    
+    <item>
+      <title>Mitmachen!</title>
+      <link>https://eigenbaukombinat.de/mitmachen/</link>
+      <pubDate>Mon, 31 Dec 2012 21:52:04 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/mitmachen/</guid>
+      <description>Unsere Werkstatt und der Austausch der Mitglieder untereinander macht es dir möglich, Projekte umzusetzen, für die du alleine in der Wohnung oder im Bastelkeller nicht den Platz, das Know-How oder die Werkzeuge hast.
 Du musst kein Profi sein, um bei uns mitzumachen. Wir haben alle einmal klein angefangen und unter unseren inzwischen über hundert Mitgliedern findet sich für fast jedes Thema ein Experte, der sein Wissen gerne weitergibt.
-Wenn du das Eigenbaukombinat selbstständig für eigene und gemeinsame Projekte nutzen möchtest, musst du Mitglied werden.</description></item><item><title>Werkstatt</title><link>https://eigenbaukombinat.de/werkstatt/</link><pubDate>Mon, 31 Dec 2012 21:49:17 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/werkstatt/</guid><description>Aktuell gibt es im Eigenbaukombinat auf ca. 700m² folgende Möglichkeiten:
-Die Holzwerkstatt ist die am besten ausgestattete Werkstatt. Von der Bandsäge über die Lamellofräse bis zur Dekupiersäge findest du hier (fast) alles, was du zur Holzbearbeitung benötigst. Für diejenigen, die es moderner mögen, steht eine CNC-Fräse zur Verfügung. Die Metallwerkstatt bietet neben einer Flex und zahlreichem Handwerkzeug auch eine CNC-Fräse für Aluminium sowie einen MIG-MAG-Schweißarbeitsplatz, eine Metallbandsäge und eine große Ständerbohrmaschine.</description></item><item><title>About me</title><link>https://eigenbaukombinat.de/page/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/page/about/</guid><description/></item><item><title>Archiv</title><link>https://eigenbaukombinat.de/archiv/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/archiv/</guid><description/></item><item><title>Archiv</title><link>https://eigenbaukombinat.de/archiv/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/archiv/</guid><description/></item><item><title>Search Results</title><link>https://eigenbaukombinat.de/page/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/page/search/</guid><description/></item><item><title>Termine</title><link>https://eigenbaukombinat.de/page/termine/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/page/termine/</guid><description>
-jQuery('').insertBefore(jQuery('termin').first()) jQuery.get('https://eigenbaukombinat.de/api/kalender', function(resp) { var json = ''; for(var i = 0; i ' + resp[i].startdate + '' + resp[i].starttime + ' - ' + resp[i].enddate + '' + resp[i].endtime + '' + resp[i].summary + '' }; jQuery('#termin').html('' + json + ''); });</description></item></channel></rss>
+Wenn du das Eigenbaukombinat selbstständig für eigene und gemeinsame Projekte nutzen möchtest, musst du Mitglied werden.</description>
+    </item>
+    
+    <item>
+      <title>Werkstatt</title>
+      <link>https://eigenbaukombinat.de/werkstatt/</link>
+      <pubDate>Mon, 31 Dec 2012 21:49:17 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/werkstatt/</guid>
+      <description>Aktuell gibt es im Eigenbaukombinat auf ca. 700m² folgende Möglichkeiten:
+ Die Holzwerkstatt ist die am besten ausgestattete Werkstatt. Von der Bandsäge über die Lamellofräse bis zur Dekupiersäge findest du hier (fast) alles, was du zur Holzbearbeitung benötigst. Für diejenigen, die es moderner mögen, steht eine CNC-Fräse zur Verfügung. Die Metallwerkstatt bietet neben einer Flex und zahlreichem Handwerkzeug auch eine CNC-Fräse für Aluminium sowie einen MIG-MAG-Schweißarbeitsplatz, eine Metallbandsäge und eine große Ständerbohrmaschine.</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://eigenbaukombinat.de/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/page/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Archiv</title>
+      <link>https://eigenbaukombinat.de/archiv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/archiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Archiv</title>
+      <link>https://eigenbaukombinat.de/archiv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/archiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Search Results</title>
+      <link>https://eigenbaukombinat.de/page/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/page/search/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Termine</title>
+      <link>https://eigenbaukombinat.de/page/termine/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/page/termine/</guid>
+      <description>
+jQuery(&#39;&#39;).insertBefore(jQuery(&#39;termin&#39;).first()) jQuery.get(&#39;https://eigenbaukombinat.de/api/kalender&#39;, function(resp) { var json = &#39;&#39;; for(var i = 0; i &#39; + resp[i].startdate + &#39;&#39; + resp[i].starttime + &#39; - &#39; + resp[i].enddate + &#39;&#39; + resp[i].endtime + &#39;&#39; + resp[i].summary + &#39;&#39; }; jQuery(&#39;#termin&#39;).html(&#39;&#39; + json + &#39;&#39;); });  </description>
+    </item>
+    
+  </channel>
+</rss>

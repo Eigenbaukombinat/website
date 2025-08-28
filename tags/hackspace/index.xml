@@ -1,2 +1,31 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>hackspace on Eigenbau​kombinat</title><link>https://eigenbaukombinat.de/tags/hackspace/</link><description>Recent content in hackspace on Eigenbau​kombinat</description><generator>Hugo -- gohugo.io</generator><managingEditor>kontakt@eigenbaukombinat.de (EBK Impressum)</managingEditor><webMaster>kontakt@eigenbaukombinat.de (EBK Impressum)</webMaster><lastBuildDate>Fri, 07 Jan 2022 13:37:15 +0100</lastBuildDate><atom:link href="https://eigenbaukombinat.de/tags/hackspace/index.xml" rel="self" type="application/rss+xml"/><item><title>Remote Chaos im Eigenbaukombinat</title><link>https://eigenbaukombinat.de/remote-chaos-im-eigenbaukombinat/</link><pubDate>Fri, 07 Jan 2022 13:37:15 +0100</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/remote-chaos-im-eigenbaukombinat/</guid><description>Vor ca. 2 Jahren, zwischen Weihnachten und Neujahr 2019, machte sich eine größere Menschenmenge aus dem Umfeld des Eigenbaukombinats und Chaostreff Halle mit allerlei Stickern, Technik, und Bühnenequipment auf den Weg in die Messe Leipzig, um dort zusammen mit vielen anderen Hacker*innen aus der Chaoszone eine große Assembly mit Bühne, Bar und Workshops zu gestalten.
-Doch wie schon 2020, wurde der &amp;ldquo;Chaos Communication Congress&amp;rdquo;, die Jahrestagung des Chaos Computer Clubs auch 2021 wieder coronabedingt abgesagt.</description></item><item><title>5 Jahre Junghacker</title><link>https://eigenbaukombinat.de/fuenf-jahre-junghacker/</link><pubDate>Tue, 02 Nov 2021 16:30:00 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/fuenf-jahre-junghacker/</guid><description>&lt;p>Die Veranstaltungsreihe &amp;ldquo;Junghacker&amp;rdquo; oder auch anfangs &amp;ldquo;{JUNGHACKER} – Programmieren für Kids&amp;rdquo; feiert fünfjähriges Bestehen. Seit Oktober 2016 gibt es nahezu jeden vierten Samstag im Monat die Möglichkeit sich im Rahmen des Junghackertages in den Räumlichkeiten des Eigenbaukombinat Halle e.V. auszutoben. So wird seit über 5 Jahren Wissen verteilt, Hardware zerlegt oder auch einfach nur Schwarminteligenz genutzt um Alltagsprobleme zu lösen. Getreu der digitalen Teilhabe werden alle drei Bereiche wie Befähigung, Beteiligung und Transparenz gemeinsam ausgestaltet.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hackspace on Eigenbau​kombinat</title>
+    <link>https://eigenbaukombinat.de/tags/hackspace/</link>
+    <description>Recent content in hackspace on Eigenbau​kombinat</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>kontakt@eigenbaukombinat.de (EBK Impressum)</managingEditor>
+    <webMaster>kontakt@eigenbaukombinat.de (EBK Impressum)</webMaster>
+    <lastBuildDate>Fri, 07 Jan 2022 13:37:15 +0100</lastBuildDate><atom:link href="https://eigenbaukombinat.de/tags/hackspace/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Remote Chaos im Eigenbaukombinat</title>
+      <link>https://eigenbaukombinat.de/remote-chaos-im-eigenbaukombinat/</link>
+      <pubDate>Fri, 07 Jan 2022 13:37:15 +0100</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/remote-chaos-im-eigenbaukombinat/</guid>
+      <description>Vor ca. 2 Jahren, zwischen Weihnachten und Neujahr 2019, machte sich eine größere Menschenmenge aus dem Umfeld des Eigenbaukombinats und Chaostreff Halle mit allerlei Stickern, Technik, und Bühnenequipment auf den Weg in die Messe Leipzig, um dort zusammen mit vielen anderen Hacker*innen aus der Chaoszone eine große Assembly mit Bühne, Bar und Workshops zu gestalten.
+Doch wie schon 2020, wurde der &amp;ldquo;Chaos Communication Congress&amp;rdquo;, die Jahrestagung des Chaos Computer Clubs auch 2021 wieder coronabedingt abgesagt.</description>
+    </item>
+    
+    <item>
+      <title>5 Jahre Junghacker</title>
+      <link>https://eigenbaukombinat.de/fuenf-jahre-junghacker/</link>
+      <pubDate>Tue, 02 Nov 2021 16:30:00 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/fuenf-jahre-junghacker/</guid>
+      <description>&lt;p&gt;Die Veranstaltungsreihe &amp;ldquo;Junghacker&amp;rdquo; oder auch anfangs &amp;ldquo;{JUNGHACKER} – Programmieren für Kids&amp;rdquo; feiert fünfjähriges Bestehen. Seit Oktober 2016 gibt es nahezu jeden vierten Samstag im Monat die Möglichkeit sich im Rahmen des Junghackertages in den Räumlichkeiten des Eigenbaukombinat Halle e.V. auszutoben. So wird seit über 5 Jahren Wissen verteilt, Hardware zerlegt oder auch einfach nur Schwarminteligenz genutzt um Alltagsprobleme zu lösen. Getreu der digitalen Teilhabe werden alle drei Bereiche wie Befähigung, Beteiligung und Transparenz gemeinsam ausgestaltet.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

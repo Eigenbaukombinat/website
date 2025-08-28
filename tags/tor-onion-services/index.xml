@@ -1,2 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tor Onion Services on Eigenbau​kombinat</title><link>https://eigenbaukombinat.de/tags/tor-onion-services/</link><description>Recent content in Tor Onion Services on Eigenbau​kombinat</description><generator>Hugo -- gohugo.io</generator><managingEditor>kontakt@eigenbaukombinat.de (EBK Impressum)</managingEditor><webMaster>kontakt@eigenbaukombinat.de (EBK Impressum)</webMaster><lastBuildDate>Sun, 19 Nov 2017 11:50:50 +0000</lastBuildDate><atom:link href="https://eigenbaukombinat.de/tags/tor-onion-services/index.xml" rel="self" type="application/rss+xml"/><item><title>Verstecken im Darknet -- Tor Onion Services</title><link>https://eigenbaukombinat.de/verstecken-im-darknet-tor-onion-services/</link><pubDate>Sun, 19 Nov 2017 11:50:50 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/verstecken-im-darknet-tor-onion-services/</guid><description>Am 29. November ab 19 Uhr haben wir Jens Kubieziel bei uns im Eigenbaukombinat zu Gast. Gemeinsam mit ihm möchten wir über Tor und dessen Tor Onion Services, auch bekannt als das »Darknet« reden. Jens wird den Abend mit einem Vortrag beginnen, danach haben wir noch ein wenig Zeit gemeinsam offene Fragen zu klären.
-Der Vortrag möchte eine Einführung in die Tor Onion Services, dem »Darknet«/Deep Web, geben und sich mit Funktion, Möglichkeiten und theoretischen wie auch praktischen Angriffszenarien auseinander setzen.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tor Onion Services on Eigenbau​kombinat</title>
+    <link>https://eigenbaukombinat.de/tags/tor-onion-services/</link>
+    <description>Recent content in Tor Onion Services on Eigenbau​kombinat</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>kontakt@eigenbaukombinat.de (EBK Impressum)</managingEditor>
+    <webMaster>kontakt@eigenbaukombinat.de (EBK Impressum)</webMaster>
+    <lastBuildDate>Sun, 19 Nov 2017 11:50:50 +0000</lastBuildDate><atom:link href="https://eigenbaukombinat.de/tags/tor-onion-services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Verstecken im Darknet -- Tor Onion Services</title>
+      <link>https://eigenbaukombinat.de/verstecken-im-darknet-tor-onion-services/</link>
+      <pubDate>Sun, 19 Nov 2017 11:50:50 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/verstecken-im-darknet-tor-onion-services/</guid>
+      <description>Am 29. November ab 19 Uhr haben wir Jens Kubieziel bei uns im Eigenbaukombinat zu Gast. Gemeinsam mit ihm möchten wir über Tor und dessen Tor Onion Services, auch bekannt als das »Darknet« reden. Jens wird den Abend mit einem Vortrag beginnen, danach haben wir noch ein wenig Zeit gemeinsam offene Fragen zu klären.
+Der Vortrag möchte eine Einführung in die Tor Onion Services, dem »Darknet«/Deep Web, geben und sich mit Funktion, Möglichkeiten und theoretischen wie auch praktischen Angriffszenarien auseinander setzen.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,23 +1,106 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Geile Teile on Eigenbau​kombinat</title><link>https://eigenbaukombinat.de/categories/geile-teile/</link><description>Recent content in Geile Teile on Eigenbau​kombinat</description><generator>Hugo -- gohugo.io</generator><managingEditor>kontakt@eigenbaukombinat.de (EBK Impressum)</managingEditor><webMaster>kontakt@eigenbaukombinat.de (EBK Impressum)</webMaster><lastBuildDate>Sun, 13 Oct 2019 17:44:03 +0000</lastBuildDate><atom:link href="https://eigenbaukombinat.de/categories/geile-teile/index.xml" rel="self" type="application/rss+xml"/><item><title>Geile Teile (2): Ich-mach's-um-die-Ecke-heile</title><link>https://eigenbaukombinat.de/geile-teile-2/</link><pubDate>Sun, 13 Oct 2019 17:44:03 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/geile-teile-2/</guid><description>In dieser Serie stellen wir Werkzeug vor, das nützlich ist, das aber vielleicht noch nicht jeder kennt. Heute: Der Um-die-Ecke-Schraubendreher. Da an manchen Schrauben das Herankommen aus konstruktiven Gründen massiv erschwert ist, hilft dabei dieses Werkzeug! :)
-Spaß beseite: Wer den Aufdruck gesehen hat, kann sich denken wofür das Ding gut ist. Es handelt sich hier um ein sogenanntes Betätigungswerkzeug von WAGO, das im Schaltschrank- und Anlagenbau Verwendung findet.</description></item><item><title>Duschkopfhalter für Saugnapfhaken</title><link>https://eigenbaukombinat.de/duschkopfhalter-fuer-saugnapfhaken/</link><pubDate>Thu, 28 Feb 2019 10:49:22 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/duschkopfhalter-fuer-saugnapfhaken/</guid><description>Problem: Fliesen in der Dusche, die ich - weil Mietwohnung - nicht anbohren darf und möchte.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Geile Teile on Eigenbau​kombinat</title>
+    <link>https://eigenbaukombinat.de/categories/geile-teile/</link>
+    <description>Recent content in Geile Teile on Eigenbau​kombinat</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>kontakt@eigenbaukombinat.de (EBK Impressum)</managingEditor>
+    <webMaster>kontakt@eigenbaukombinat.de (EBK Impressum)</webMaster>
+    <lastBuildDate>Sun, 13 Oct 2019 17:44:03 +0000</lastBuildDate><atom:link href="https://eigenbaukombinat.de/categories/geile-teile/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Geile Teile (2): Ich-mach&#39;s-um-die-Ecke-heile</title>
+      <link>https://eigenbaukombinat.de/geile-teile-2/</link>
+      <pubDate>Sun, 13 Oct 2019 17:44:03 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/geile-teile-2/</guid>
+      <description>In dieser Serie stellen wir Werkzeug vor, das nützlich ist, das aber vielleicht noch nicht jeder kennt. Heute: Der Um-die-Ecke-Schraubendreher. Da an manchen Schrauben das Herankommen aus konstruktiven Gründen massiv erschwert ist, hilft dabei dieses Werkzeug! :)
+         Spaß beseite: Wer den Aufdruck gesehen hat, kann sich denken wofür das Ding gut ist. Es handelt sich hier um ein sogenanntes Betätigungswerkzeug von WAGO, das im Schaltschrank- und Anlagenbau Verwendung findet.</description>
+    </item>
+    
+    <item>
+      <title>Duschkopfhalter für Saugnapfhaken</title>
+      <link>https://eigenbaukombinat.de/duschkopfhalter-fuer-saugnapfhaken/</link>
+      <pubDate>Thu, 28 Feb 2019 10:49:22 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/duschkopfhalter-fuer-saugnapfhaken/</guid>
+      <description>Problem: Fliesen in der Dusche, die ich - weil Mietwohnung - nicht anbohren darf und möchte.
 Lösung: Saugnapfhaken aus dem großen schwedischen Möbelhaus mit 3-D-gedrucktem Adapter.
 So hab ichs gemacht:
-Saugnapfhaken ausgemessen, Duschkopfansatzstück ausgemessen, mit Hilfe von tinkercad ein 3D-Modell von beidem erstellt, einen Klotz gebaut, Haken und Ansatzstück &amp;ldquo;ausgeschnitten&amp;rdquo; und gedruckt. 3D-Modell
-Dauer für den Druck war ca. eine Stunde und das Modellieren richtet sich nach euren Skills.</description></item><item><title>Beamerinstallation 2.0</title><link>https://eigenbaukombinat.de/beamerinstallation-2-0/</link><pubDate>Tue, 05 Feb 2019 11:19:39 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/beamerinstallation-2-0/</guid><description>Verzweifelt nach vorhandenen Löchern in der Decke schauen, um dort einen Beamer mithilfe einer Deckenhalterung zu befestigen.
-In den letzten Jahren haben wir viel improvisiert im Club, haben einfache Kisten gebaut und die an eine Traverse gebunden, oder Bretter benutzt um den Beamer dann auf unbenutzte Rohre zu stellen. In der Stadt gibt es nicht einmal Deckenhalterungen zu kaufen und versuch mein Glück online &amp;hellip; zum Preis von 99 Euro könnte ich eine Traversenhalterung kaufen, wobei das billigste Deckenhalterungsmodell 13 Euro kostet.</description></item><item><title>Genähter Getränkering</title><link>https://eigenbaukombinat.de/genaehter-getraenkering/</link><pubDate>Sun, 03 Feb 2019 14:24:31 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/genaehter-getraenkering/</guid><description>Wie in jeder Großraum-WG lassen Menschen überall ihre Flaschen stehen und keiner weiß am Ende mehr, welcher Mensch zu welcher Flasche gehört. Und daher hat sich ein schlauer Mensch im Kombinat mal überlegt, Ringe zu lasern oder zu 3-D-druckern, damit man ganz einfach seine Flasche markieren und ggf. wiederfinden kann.
+ Saugnapfhaken ausgemessen, Duschkopfansatzstück ausgemessen, mit Hilfe von tinkercad ein 3D-Modell von beidem erstellt, einen Klotz gebaut, Haken und Ansatzstück &amp;ldquo;ausgeschnitten&amp;rdquo; und gedruckt.        3D-Modell
+Dauer für den Druck war ca. eine Stunde und das Modellieren richtet sich nach euren Skills.</description>
+    </item>
+    
+    <item>
+      <title>Beamerinstallation 2.0</title>
+      <link>https://eigenbaukombinat.de/beamerinstallation-2-0/</link>
+      <pubDate>Tue, 05 Feb 2019 11:19:39 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/beamerinstallation-2-0/</guid>
+      <description>Verzweifelt nach vorhandenen Löchern in der Decke schauen, um dort einen Beamer mithilfe einer Deckenhalterung zu befestigen.
+In den letzten Jahren haben wir viel improvisiert im Club, haben einfache Kisten gebaut und die an eine Traverse gebunden, oder Bretter benutzt um den Beamer dann auf unbenutzte Rohre zu stellen. In der Stadt gibt es nicht einmal Deckenhalterungen zu kaufen und versuch mein Glück online &amp;hellip; zum Preis von 99 Euro könnte ich eine Traversenhalterung kaufen, wobei das billigste Deckenhalterungsmodell 13 Euro kostet.</description>
+    </item>
+    
+    <item>
+      <title>Genähter Getränkering</title>
+      <link>https://eigenbaukombinat.de/genaehter-getraenkering/</link>
+      <pubDate>Sun, 03 Feb 2019 14:24:31 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/genaehter-getraenkering/</guid>
+      <description>Wie in jeder Großraum-WG lassen Menschen überall ihre Flaschen stehen und keiner weiß am Ende mehr, welcher Mensch zu welcher Flasche gehört. Und daher hat sich ein schlauer Mensch im Kombinat mal überlegt, Ringe zu lasern oder zu 3-D-druckern, damit man ganz einfach seine Flasche markieren und ggf. wiederfinden kann.
 Seit &amp;ldquo;neulich&amp;rdquo; gibt es ein neues Medium, um seine Flasche zu markieren: genäht!
-Hier kommt die Anleitung:</description></item><item><title>Weniger Echo dank Eierpappen</title><link>https://eigenbaukombinat.de/weniger-echo-dank-eierpappen/</link><pubDate>Wed, 30 Jan 2019 20:07:43 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/weniger-echo-dank-eierpappen/</guid><description>Jetzt bitte nicht lachen - ich hatte ein Echo im Schlafzimmer und das sollte weg!
-Wie ich das geschafft habe?! Mit Eierpappen. Hier das How-To zum Nachbauen:
+     Hier kommt die Anleitung:</description>
+    </item>
+    
+    <item>
+      <title>Weniger Echo dank Eierpappen</title>
+      <link>https://eigenbaukombinat.de/weniger-echo-dank-eierpappen/</link>
+      <pubDate>Wed, 30 Jan 2019 20:07:43 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/weniger-echo-dank-eierpappen/</guid>
+      <description>Jetzt bitte nicht lachen - ich hatte ein Echo im Schlafzimmer und das sollte weg!
+     Wie ich das geschafft habe?! Mit Eierpappen. Hier das How-To zum Nachbauen:
 Man braucht:
-Eierpappen
-Cuttermesser
-Hammer
-Nägel
-Heißklebepistole
-(Farbe nach Bedarf)
-(Wasserwaage für die Monks unter euch)
-So gehts: Weil ich die Eierpappen genau ineinander stecken wollte, habe ich sie zurecht geschnitten, sodass sie immer 5x5 &amp;ldquo;Nasen&amp;rdquo; hatten.</description></item><item><title>Es weihnachtet sehr!</title><link>https://eigenbaukombinat.de/es-weihnachtet-sehr/</link><pubDate>Wed, 15 Nov 2017 00:41:07 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/es-weihnachtet-sehr/</guid><description>Gerade frisch aus dem DDDrucker gefallen: der erste EBK-Keksausstecher der Welt!
-Wer probieren möchte, kommt einfach zum Koch- und Kennenlernabend am Freitag, da werden wir das Förmchen ausgiebig testen :)</description></item><item><title>Videos vom 33C3 gemeinsam anschauen</title><link>https://eigenbaukombinat.de/videos-vom-33c3-gemeinsam-anschauen/</link><pubDate>Fri, 20 Jan 2017 23:37:56 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/videos-vom-33c3-gemeinsam-anschauen/</guid><description>Im EBK schauen wir uns die kommenden Samstage jeweils abends um 20 Uhr einige Videos vom 33C3 an.
+  Eierpappen
+  Cuttermesser
+  Hammer
+  Nägel
+  Heißklebepistole
+  (Farbe nach Bedarf)
+  (Wasserwaage für die Monks unter euch)
+  So gehts: Weil ich die Eierpappen genau ineinander stecken wollte, habe ich sie zurecht geschnitten, sodass sie immer 5x5 &amp;ldquo;Nasen&amp;rdquo; hatten.</description>
+    </item>
+    
+    <item>
+      <title>Es weihnachtet sehr!</title>
+      <link>https://eigenbaukombinat.de/es-weihnachtet-sehr/</link>
+      <pubDate>Wed, 15 Nov 2017 00:41:07 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/es-weihnachtet-sehr/</guid>
+      <description>Gerade frisch aus dem DDDrucker gefallen: der erste EBK-Keksausstecher der Welt!
+Wer probieren möchte, kommt einfach zum Koch- und Kennenlernabend am Freitag, da werden wir das Förmchen ausgiebig testen :)</description>
+    </item>
+    
+    <item>
+      <title>Videos vom 33C3 gemeinsam anschauen</title>
+      <link>https://eigenbaukombinat.de/videos-vom-33c3-gemeinsam-anschauen/</link>
+      <pubDate>Fri, 20 Jan 2017 23:37:56 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/videos-vom-33c3-gemeinsam-anschauen/</guid>
+      <description>Im EBK schauen wir uns die kommenden Samstage jeweils abends um 20 Uhr einige Videos vom 33C3 an.
 Der 33C3 ist der 33. Kongress der jährlich stattfindenden Konferenz des Chaos Computer Club zu den Themen Technologie, Gesellschaft und Zukunft. Dabei gibt es Vorträge, Workshops, Diskussionen und weitere Veranstaltungen zu IT, Hacking und künftigen Entwicklungen.
-Wir beginnen am Samstag den 21.1.2017 mit dem Vortrag &amp;ldquo;An Elevator to the Moon (and back)&amp;rdquo; von Markus Landgraf.</description></item><item><title>Geile Teile (1)</title><link>https://eigenbaukombinat.de/geile-teile-1/</link><pubDate>Sat, 11 Oct 2014 11:45:56 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/geile-teile-1/</guid><description>In dieser Serie stellen wir Werkzeug vor, das nützlich ist, das aber vielleicht noch nicht jeder kennt. Heute: Die Gewindefeile.Im Gegensatz zum Getriebesand und den Zündfunken gibt es die Gewindefeile wirklich. Sie dient zum einfachen Nacharbeiten (metrischer) Innen- und Außengewinde, falls dort der Gewindegang beschädigt wurde.
-Im Vordergrund zum Größenvergleich eine (metrische) M8-Gewindestange. Diese verfügt über eine Steigung von 125mm pro 100mm Länge (siehe Aufprägung auf der Gewindefeile). Heutzutage wird die Steigung einfach als Faktor angegeben, also in diesem Falle 1,25.</description></item></channel></rss>
+Wir beginnen am Samstag den 21.1.2017 mit dem Vortrag &amp;ldquo;An Elevator to the Moon (and back)&amp;rdquo; von Markus Landgraf.</description>
+    </item>
+    
+    <item>
+      <title>Geile Teile (1)</title>
+      <link>https://eigenbaukombinat.de/geile-teile-1/</link>
+      <pubDate>Sat, 11 Oct 2014 11:45:56 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/geile-teile-1/</guid>
+      <description>In dieser Serie stellen wir Werkzeug vor, das nützlich ist, das aber vielleicht noch nicht jeder kennt. Heute: Die Gewindefeile.Im Gegensatz zum Getriebesand und den Zündfunken gibt es die Gewindefeile wirklich. Sie dient zum einfachen Nacharbeiten (metrischer) Innen- und Außengewinde, falls dort der Gewindegang beschädigt wurde.
+Im Vordergrund zum Größenvergleich eine (metrische) M8-Gewindestange. Diese verfügt über eine Steigung von 125mm pro 100mm Länge (siehe Aufprägung auf der Gewindefeile). Heutzutage wird die Steigung einfach als Faktor angegeben, also in diesem Falle 1,25.</description>
+    </item>
+    
+  </channel>
+</rss>

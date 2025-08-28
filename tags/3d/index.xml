@@ -1,6 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>3D on Eigenbau​kombinat</title><link>https://eigenbaukombinat.de/tags/3d/</link><description>Recent content in 3D on Eigenbau​kombinat</description><generator>Hugo -- gohugo.io</generator><managingEditor>kontakt@eigenbaukombinat.de (EBK Impressum)</managingEditor><webMaster>kontakt@eigenbaukombinat.de (EBK Impressum)</webMaster><lastBuildDate>Tue, 29 Oct 2024 15:30:00 +0000</lastBuildDate><atom:link href="https://eigenbaukombinat.de/tags/3d/index.xml" rel="self" type="application/rss+xml"/><item><title>Blenderkurs 2024</title><link>https://eigenbaukombinat.de/kurs-blender-2024/</link><pubDate>Tue, 29 Oct 2024 15:30:00 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/kurs-blender-2024/</guid><description>Hallo Ihr Lieben,
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3D on Eigenbau​kombinat</title>
+    <link>https://eigenbaukombinat.de/tags/3d/</link>
+    <description>Recent content in 3D on Eigenbau​kombinat</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>kontakt@eigenbaukombinat.de (EBK Impressum)</managingEditor>
+    <webMaster>kontakt@eigenbaukombinat.de (EBK Impressum)</webMaster>
+    <lastBuildDate>Tue, 29 Oct 2024 15:30:00 +0000</lastBuildDate><atom:link href="https://eigenbaukombinat.de/tags/3d/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blenderkurs 2024</title>
+      <link>https://eigenbaukombinat.de/kurs-blender-2024/</link>
+      <pubDate>Tue, 29 Oct 2024 15:30:00 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/kurs-blender-2024/</guid>
+      <description>Hallo Ihr Lieben,
 auf vielfachen Wunsch werde ich bald wieder einen Blender-Kurs anbieten!
 Was ist Blender? Blender ist eine plattformunabhängige 3D-Grafiksoftware, mit der Sie Objekte modellieren, texturieren und animieren können. Diese Kreationen lassen sich in Grafiken, Animationen und Softwareprojekten einsetzen.
 Mehr infos unter: https://de.wikipedia.org/wiki/Blender_(Software)
 Download: https://www.blender.org/
-Für wen ist der Kurs? Für alle, die komplexe Formen für den 3D-Druck erstellen möchten Für Spielentwickler Für 3D-Künstler und Designer Für Einsteiger, die in die Welt der 3D-Grafik eintauchen wollen Der Kurs steht auch Nicht-Mitgliedern des Eigenbaukombinats offen.</description></item></channel></rss>
+Für wen ist der Kurs?  Für alle, die komplexe Formen für den 3D-Druck erstellen möchten Für Spielentwickler Für 3D-Künstler und Designer Für Einsteiger, die in die Welt der 3D-Grafik eintauchen wollen  Der Kurs steht auch Nicht-Mitgliedern des Eigenbaukombinats offen.</description>
+    </item>
+    
+  </channel>
+</rss>

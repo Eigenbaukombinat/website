@@ -1,13 +1,88 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>*@ebk on Eigenbau​kombinat</title><link>https://eigenbaukombinat.de/categories/ebk/</link><description>Recent content in *@ebk on Eigenbau​kombinat</description><generator>Hugo -- gohugo.io</generator><managingEditor>kontakt@eigenbaukombinat.de (EBK Impressum)</managingEditor><webMaster>kontakt@eigenbaukombinat.de (EBK Impressum)</webMaster><lastBuildDate>Sun, 20 Oct 2019 11:54:14 +0000</lastBuildDate><atom:link href="https://eigenbaukombinat.de/categories/ebk/index.xml" rel="self" type="application/rss+xml"/><item><title>Schnappschüsse (7)</title><link>https://eigenbaukombinat.de/schnappschuesse-7/</link><pubDate>Sun, 20 Oct 2019 11:54:14 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/schnappschuesse-7/</guid><description>Ein facettierter Ring aus dem 3D-Drucker, ein 3D-Scanner und eine gedrechselte Schale.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>*@ebk on Eigenbau​kombinat</title>
+    <link>https://eigenbaukombinat.de/categories/ebk/</link>
+    <description>Recent content in *@ebk on Eigenbau​kombinat</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>kontakt@eigenbaukombinat.de (EBK Impressum)</managingEditor>
+    <webMaster>kontakt@eigenbaukombinat.de (EBK Impressum)</webMaster>
+    <lastBuildDate>Sun, 20 Oct 2019 11:54:14 +0000</lastBuildDate><atom:link href="https://eigenbaukombinat.de/categories/ebk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Schnappschüsse (7)</title>
+      <link>https://eigenbaukombinat.de/schnappschuesse-7/</link>
+      <pubDate>Sun, 20 Oct 2019 11:54:14 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/schnappschuesse-7/</guid>
+      <description>Ein facettierter Ring aus dem 3D-Drucker, ein 3D-Scanner und eine gedrechselte Schale.
 Ein facettierter Ring Nachdem Florian zuletzt einen schönen Artikel über das Thema Holzverbindung veröffentlicht hat, fand ich diesen wunderschönen Ring als Vorlage bei Thingiverse, leider nur in einer Größe. Daher habe ich ihn in Cura skaliert auf 21, 22, 23, 25, und 27mm Außenmaß gedruckt. Verwendet wurde ein rotes, halbtransparentes PET-G-Material bei 240°C.
-3D-Scanner Hier ein Bausatz vom OpenScan-3D-Scanner.</description></item><item><title>Schnappschüsse (6)</title><link>https://eigenbaukombinat.de/schnappschuesse-6/</link><pubDate>Fri, 18 Oct 2019 10:00:55 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/schnappschuesse-6/</guid><description>Wieder ein paar kurze Eindrücke aus dem Eigenbaukombinat, die es nicht zeitnah in einen eigenen Beitrag schaffen. Heute dabei: Siebdruck von Rastergrafiken, eine gedrechselte Dose, Reparaturversuch einer Logitech-Maus und Maschinenwartung.
-Siebdruck von Rastergrafiken Nilo hat ausprobiert, wie der Siebdruck von Rastergrafiken geht. Beim letzten Versuch hat das Sieb die Reinigung nicht überlebt, weil das Verhältnis Raster-zu-Siebraster wohl nicht passte. Für feine 80T-Siebe werden Rasterungen bis maximal 44lpi empfohlen.</description></item><item><title>Schnappschüsse (5)</title><link>https://eigenbaukombinat.de/schnappschuesse-5/</link><pubDate>Tue, 15 Oct 2019 15:01:13 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/schnappschuesse-5/</guid><description>Ein paar kurze Eindrücke aus dem Eigenbaukombinat, die es wohl nicht zeitnah in einen eigenen Beitrag schaffen. Heute dabei: Nachwuchs im Keramikbereich, reichlich Tische, Druckaufbau und eine Exzenterschleiferreparatur.
+         3D-Scanner Hier ein Bausatz vom OpenScan-3D-Scanner.</description>
+    </item>
+    
+    <item>
+      <title>Schnappschüsse (6)</title>
+      <link>https://eigenbaukombinat.de/schnappschuesse-6/</link>
+      <pubDate>Fri, 18 Oct 2019 10:00:55 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/schnappschuesse-6/</guid>
+      <description>Wieder ein paar kurze Eindrücke aus dem Eigenbaukombinat, die es nicht zeitnah in einen eigenen Beitrag schaffen. Heute dabei: Siebdruck von Rastergrafiken, eine gedrechselte Dose, Reparaturversuch einer Logitech-Maus und Maschinenwartung.
+Siebdruck von Rastergrafiken      Nilo hat ausprobiert, wie der Siebdruck von Rastergrafiken geht. Beim letzten Versuch hat das Sieb die Reinigung nicht überlebt, weil das Verhältnis Raster-zu-Siebraster wohl nicht passte. Für feine 80T-Siebe werden Rasterungen bis maximal 44lpi empfohlen.</description>
+    </item>
+    
+    <item>
+      <title>Schnappschüsse (5)</title>
+      <link>https://eigenbaukombinat.de/schnappschuesse-5/</link>
+      <pubDate>Tue, 15 Oct 2019 15:01:13 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/schnappschuesse-5/</guid>
+      <description>Ein paar kurze Eindrücke aus dem Eigenbaukombinat, die es wohl nicht zeitnah in einen eigenen Beitrag schaffen. Heute dabei: Nachwuchs im Keramikbereich, reichlich Tische, Druckaufbau und eine Exzenterschleiferreparatur.
 Geheimer Nachwuchs im Keramikbereich Ein Brennofen, es ist ein Brennofen!!! (Mist, jetzt hab ich es doch verraten.)
-Spende von der GISA Wir haben von der GISA insgesamt 20 Tische gespendet bekommen. Dadurch können wir unsere neuen Räume auch voll ausstatten.</description></item><item><title>FLTI* Arduino Workshop</title><link>https://eigenbaukombinat.de/flti-arduino-workshop/</link><pubDate>Tue, 04 Jun 2019 10:59:21 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/flti-arduino-workshop/</guid><description>Am Samstag, dem 15.06.2019 findet von 13:00 Uhr bis 17:00 Uhr im Eigenbaukombinat ein Arduino Workshop, durchgeführt von den Codegirls, statt. Wenn ihr Lust habt einen Einblick in die Welt der Elektronik, Arduino Plattform und Programmierung zu bekommen seid ihr hier richtig! Neben dem Erlernen der Grundlagen könnt ihr auch viel selbst ausprobieren und wir werden gemeinsam Ideen für euer erstes Projekt ausarbeiten und auch umsetzen.
-Der Workshop findet im Rahmen des FEMINISMEN Festivals statt und wird organisiert durch den Feministischen Lesekreis Halle.</description></item><item><title>Space Tourist in Halle</title><link>https://eigenbaukombinat.de/space-tourist-in-halle/</link><pubDate>Sun, 17 Mar 2019 08:00:28 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/space-tourist-in-halle/</guid><description>Eine Reise durch die deutsche Hackerspace-Landschaft verschaffte uns ein Besuch zum Junghackertag am 26.01.2019 durch Stefan Majewsky im Eigenbaukombinat.
-Space Tourist
-Stefan ist ab jetzt &amp;ldquo;Space Tourist&amp;rdquo; und hat eine eigentlich einfache Idee geboren. Ein Tourist für Hackerspaces. Er ist ohnehin im Radioumfeld aktiv, hat Technik dabei und neben dem regelmäßigem Erfahrungen im C3D2 Pentaradio hatte er einfach Lust neues zu entdecken. So wurde das Eingenbaukombinat der aller erste Anlaufpunkt für Inspiration und Informationsaustausch in seinem neuen Podcast.</description></item><item><title>Holzaktiventag im Februar</title><link>https://eigenbaukombinat.de/holzaktiventag-im-februar/</link><pubDate>Thu, 01 Feb 2018 10:50:08 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/holzaktiventag-im-februar/</guid><description>Liebe Holzfreunde und die, die es werden wollen,
+     Spende von der GISA Wir haben von der GISA insgesamt 20 Tische gespendet bekommen. Dadurch können wir unsere neuen Räume auch voll ausstatten.</description>
+    </item>
+    
+    <item>
+      <title>FLTI* Arduino Workshop</title>
+      <link>https://eigenbaukombinat.de/flti-arduino-workshop/</link>
+      <pubDate>Tue, 04 Jun 2019 10:59:21 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/flti-arduino-workshop/</guid>
+      <description>Am Samstag, dem 15.06.2019 findet von 13:00 Uhr bis 17:00 Uhr im Eigenbaukombinat ein Arduino Workshop, durchgeführt von den Codegirls, statt. Wenn ihr Lust habt einen Einblick in die Welt der Elektronik, Arduino Plattform und Programmierung zu bekommen seid ihr hier richtig! Neben dem Erlernen der Grundlagen könnt ihr auch viel selbst ausprobieren und wir werden gemeinsam Ideen für euer erstes Projekt ausarbeiten und auch umsetzen.
+Der Workshop findet im Rahmen des FEMINISMEN Festivals statt und wird organisiert durch den Feministischen Lesekreis Halle.</description>
+    </item>
+    
+    <item>
+      <title>Space Tourist in Halle</title>
+      <link>https://eigenbaukombinat.de/space-tourist-in-halle/</link>
+      <pubDate>Sun, 17 Mar 2019 08:00:28 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/space-tourist-in-halle/</guid>
+      <description>Eine Reise durch die deutsche Hackerspace-Landschaft verschaffte uns ein Besuch zum Junghackertag am 26.01.2019 durch Stefan Majewsky im Eigenbaukombinat.
+      Space Tourist
+Stefan ist ab jetzt &amp;ldquo;Space Tourist&amp;rdquo; und hat eine eigentlich einfache Idee geboren. Ein Tourist für Hackerspaces. Er ist ohnehin im Radioumfeld aktiv, hat Technik dabei und neben dem regelmäßigem Erfahrungen im C3D2 Pentaradio hatte er einfach Lust neues zu entdecken. So wurde das Eingenbaukombinat der aller erste Anlaufpunkt für Inspiration und Informationsaustausch in seinem neuen Podcast.</description>
+    </item>
+    
+    <item>
+      <title>Holzaktiventag im Februar</title>
+      <link>https://eigenbaukombinat.de/holzaktiventag-im-februar/</link>
+      <pubDate>Thu, 01 Feb 2018 10:50:08 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/holzaktiventag-im-februar/</guid>
+      <description>Liebe Holzfreunde und die, die es werden wollen,
 am 14.02.2018, von 19 bis ca. 21 Uhr ist wieder unserer Holzaktiventag.
 Ihr habt Fragen, wie ihr euer Projekt am Besten umsetzen könnt oder welche Maschinen ihr dafür braucht?Ihr wisst noch nicht, wer eure Ansprechpartner im Holzbereich sind? Ihr seid noch unsicher bei der Bedienung einer Maschine?
 Dann seid ihr beim Holzaktiventag genau richtig.
-Es werden sachkundige Personen anwesend sein, die ihr um Rat und nach Tipps fragen könnt, die ggf.</description></item><item><title>*@ebk: Baumtafeln</title><link>https://eigenbaukombinat.de/ebk-baumtafeln/</link><pubDate>Wed, 13 Sep 2017 20:39:38 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/ebk-baumtafeln/</guid><description>Gestern wurden bei uns an der CNC-Fräse Tafeln zur Beschriftung von Obstbäumen hergestellt.</description></item></channel></rss>
+Es werden sachkundige Personen anwesend sein, die ihr um Rat und nach Tipps fragen könnt, die ggf.</description>
+    </item>
+    
+    <item>
+      <title>*@ebk: Baumtafeln</title>
+      <link>https://eigenbaukombinat.de/ebk-baumtafeln/</link>
+      <pubDate>Wed, 13 Sep 2017 20:39:38 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/ebk-baumtafeln/</guid>
+      <description>Gestern wurden bei uns an der CNC-Fräse Tafeln zur Beschriftung von Obstbäumen hergestellt.
+                         </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,2 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Plotter on Eigenbau​kombinat</title><link>https://eigenbaukombinat.de/tags/plotter/</link><description>Recent content in Plotter on Eigenbau​kombinat</description><generator>Hugo -- gohugo.io</generator><managingEditor>kontakt@eigenbaukombinat.de (EBK Impressum)</managingEditor><webMaster>kontakt@eigenbaukombinat.de (EBK Impressum)</webMaster><lastBuildDate>Tue, 17 Dec 2013 14:15:24 +0000</lastBuildDate><atom:link href="https://eigenbaukombinat.de/tags/plotter/index.xml" rel="self" type="application/rss+xml"/><item><title>Schneeflocken auf dem Plotter</title><link>https://eigenbaukombinat.de/schneeflocken-auf-dem-plotter/</link><pubDate>Tue, 17 Dec 2013 14:15:24 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/schneeflocken-auf-dem-plotter/</guid><description>Bewaffnet mit dem Schneeflockengenerator aus dem letzten Blick über den Tellerrand habe ich mich direkt ans Plotten gewagt. Eine einfache Flocke ist schnell erzeugt und lässt sich problemlos in Inkscape öffnen.Damit wir auch ohne proprietäre Software plotten können, benutze ich die aktuelle Entwicklerversion r12832 von Inkscape für Windows, in der bereits eine Erweiterung zur Plotteransteuerung via HPGL und DMPL integriert ist.
-Unser HELO Plotter bereitet uns noch ein paar Bauchschmerzen mit komplexeren Plots, einfache Formen und Schriftzüge funktionieren aber problemlos.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Plotter on Eigenbau​kombinat</title>
+    <link>https://eigenbaukombinat.de/tags/plotter/</link>
+    <description>Recent content in Plotter on Eigenbau​kombinat</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>kontakt@eigenbaukombinat.de (EBK Impressum)</managingEditor>
+    <webMaster>kontakt@eigenbaukombinat.de (EBK Impressum)</webMaster>
+    <lastBuildDate>Tue, 17 Dec 2013 14:15:24 +0000</lastBuildDate><atom:link href="https://eigenbaukombinat.de/tags/plotter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Schneeflocken auf dem Plotter</title>
+      <link>https://eigenbaukombinat.de/schneeflocken-auf-dem-plotter/</link>
+      <pubDate>Tue, 17 Dec 2013 14:15:24 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/schneeflocken-auf-dem-plotter/</guid>
+      <description>Bewaffnet mit dem Schneeflockengenerator aus dem letzten Blick über den Tellerrand habe ich mich direkt ans Plotten gewagt. Eine einfache Flocke ist schnell erzeugt und lässt sich problemlos in Inkscape öffnen.Damit wir auch ohne proprietäre Software plotten können, benutze ich die aktuelle Entwicklerversion r12832 von Inkscape für Windows, in der bereits eine Erweiterung zur Plotteransteuerung via HPGL und DMPL integriert ist.
+Unser HELO Plotter bereitet uns noch ein paar Bauchschmerzen mit komplexeren Plots, einfache Formen und Schriftzüge funktionieren aber problemlos.</description>
+    </item>
+    
+  </channel>
+</rss>

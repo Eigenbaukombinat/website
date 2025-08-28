@@ -1,48 +1,465 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>CNC on Eigenbau​kombinat</title><link>https://eigenbaukombinat.de/tags/cnc/</link><description>Recent content in CNC on Eigenbau​kombinat</description><generator>Hugo -- gohugo.io</generator><managingEditor>kontakt@eigenbaukombinat.de (EBK Impressum)</managingEditor><webMaster>kontakt@eigenbaukombinat.de (EBK Impressum)</webMaster><lastBuildDate>Thu, 09 Mar 2017 19:10:11 +0000</lastBuildDate><atom:link href="https://eigenbaukombinat.de/tags/cnc/index.xml" rel="self" type="application/rss+xml"/><item><title>CNC-Treffen</title><link>https://eigenbaukombinat.de/cnc-treffen/</link><pubDate>Thu, 09 Mar 2017 19:10:11 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/cnc-treffen/</guid><description>**TERMIN** jeden zweiten Mittwoch im Monat ab 20Uhr **DAUER** etwa 2 Stunden **TEILNEHMER** unbeschränkt **KOSTEN** kostenlos **ORT** Eigenbaukombinat **BESCHREIBUNG** Hier treffen wir uns zum Erfahrungsaustauch über's CNC-Fräsen. Es geht um Software wie LinuxCNC, QCad und Co. und auch Hardware, Materialien und Ideen, die man gemeinsam umsetzen möchte. [![](/wp-content/uploads/2014/07/IMG_0835-1024x682.jpg) ](/wp-content/uploads/2014/07/IMG_0835.jpg) **ANMELDUNG** nicht notwendig</description></item><item><title>Einstellbares Stimmungslicht</title><link>https://eigenbaukombinat.de/einstellbares-stimmungslicht/</link><pubDate>Thu, 29 Jan 2015 17:23:43 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/einstellbares-stimmungslicht/</guid><description>Für gemütliche Abende haben wir uns eine kleine Lampe gebaut, die je nach Stimmung eingestellt werden kann.Die Steuerung realisierten wir mit einem Arduino, an dem zwei Drehregler und ein Schalter, sowie ein paar WS2812 RGB LEDs angeschlossen wurden. Über die Drehregler können Parameter wie Helligkeit, Sättigung, Farbwechsel-Geschwindigkeit oder Lichtfarbe eingestellt werden. Mittels des Kippschalters kann zwischen drei verschiedenen Programmen gewechselt werden: Regenbogen-Farbwechsel, frei einstellbare Farbe und wechselnde Zufallsfarben.
-Das Gehäuse entstand an der CNC-Fräse.</description></item><item><title>Ritterburg aus Kirschbaum</title><link>https://eigenbaukombinat.de/ritterburg-aus-kirschbaum/</link><pubDate>Fri, 19 Sep 2014 13:37:09 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/ritterburg-aus-kirschbaum/</guid><description>Für meine Neffen gibt es zum nächsten Geburtstag Ritterburgen aus Kirschbaum. Jedes Set besteht aus je einem Eingangstor, zwei Türmen, sieben Mauerelementen und einem Treppenaufstieg. Alle Bauklötze können in den dazugehörigen, CNC-gefrästen Kisten aus Multiplex verstaut werden.Die Kirschbaumbohle wurde zersägt und gehobelt. Anschließend wurden die Konturen aufgezeichnet und mit der Bandsäge ausgesägt. Die Kanten wurden am Frästisch abgerundet. DIe Löcher für die Fenster wurden mit der Standbohrmaschine gebohrt und danach mit Stecheisen erweitert.</description></item><item><title>Ein Stift- und Schraubendreherhalter</title><link>https://eigenbaukombinat.de/ein-stift-und-schraubendreherhalter/</link><pubDate>Tue, 16 Sep 2014 13:32:32 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/ein-stift-und-schraubendreherhalter/</guid><description>Nachdem bei mir auf dem Schreibtisch immer viele verschiedene Schraubendreher möglichst griffbereit liegen sollen, hab ich kurzerhand einen kleinen Halter auf der CNC-Fräse improvisiert.Material ist 4mm Birke Multiplex, der Fräser hat 2mm Durchmesser. Die Größe des Halters liegt bei ca. 15cm x 10cm x 10cm. Die Löcher habe ich mit 9mm Durchmesser gewählt, weil übliche Bleistifte und Schraubendreher da gut reinpassen. Für Kugelschreiber sollte man aber eher 12-13mm große Löcher wählen.</description></item><item><title>Invasion der Lötfanten</title><link>https://eigenbaukombinat.de/invasion-der-loetfanten/</link><pubDate>Mon, 23 Jun 2014 11:03:26 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/invasion-der-loetfanten/</guid><description>Heute mal ein kurzer Baubericht für eine &amp;ldquo;Dritte Hand&amp;rdquo;, ein Hilfsmittel um beim Löten neben Lötzinn und Lötkolben meistens 2 zu verlötende Kabel in Position zu halten. Wir haben uns für die &amp;ldquo;Wäscheklammer&amp;rdquo;-Variante entschieden. Da die Klemmflächen handelsüblicher Wäscheklammern keine gute Form haben, um feine Kabel und dergleichen gut festzuhalten, wurde kurzerhand die CNC-Fräse bemüht, um spezielle Klammern und eine kleine Grundplatte auszufräsen.12mm Birke Multiplex hat genau die richtige Dicke und passt zu den Federn &amp;ldquo;normaler&amp;rdquo; Wäscheklammern.</description></item><item><title>Reparatur: Kurbel der Ständerbohrmaschine</title><link>https://eigenbaukombinat.de/reparatur-kurbel-der-staenderbohrmaschine/</link><pubDate>Thu, 19 Jun 2014 13:26:24 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/reparatur-kurbel-der-staenderbohrmaschine/</guid><description>Nachdem die Kurbel für die Höhenverstellung unserer CMI Ständerbohrmaschine immer mal wieder den Geist aufgibt und mittlerweile bereits zum großen Teil aus Sekundenkleber besteht, habe ich kurzerhand auf unserer CNC-Fräse ein Ersatzteil aus Holz gefräst.Hier die kaputte Kurbel (nochmal zusammengelegt) und darunter das zweiteilige Ersatzteil. Ich habe mich diesmal für einen Sterngriff entschieden. Die Welle ist auf einer Seite abgeflacht, das Ersatzteil daher entsprechend gefertigt:
-Hier für alle mit demselben Problem der Entwurf zum Herunterladen als DXF-Datei.</description></item><item><title>Visitenkarten aus Holz</title><link>https://eigenbaukombinat.de/visitenkarten-aus-holz/</link><pubDate>Wed, 04 Jun 2014 13:31:57 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/visitenkarten-aus-holz/</guid><description>Da wir im Eigenbaukombinat regelmäßig ungewöhnliche Projekte umsetzen, ging es diesmal darum Visitenkarten nicht aus Papier, sondern aus Holz zu fertigen.Ich hab mich für das in Europa verbreitete Standardformat von 85 x 55mm entschieden und kurzerhand ein paar Rohlinge auf der CNC-Fräse zugeschnitten. Die Ecken habe ich dabei mit einem Radius von 2mm abgerundet. Am günstigsten ist zwar Pappelsperrholz in 4mm, aber relativ dick.
-Schöner ist dann Flugzeugsperrholz in 1mm oder 2mm Dicke, welches leider rund 40 EUR/m² kostet.</description></item><item><title>Blick über den Tellerrand (47)</title><link>https://eigenbaukombinat.de/blick-ueber-den-tellerrand-47/</link><pubDate>Sun, 11 May 2014 16:57:42 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/blick-ueber-den-tellerrand-47/</guid><description> * [VIDEO: Wir bauen einen kleinen Schuppen (mehrere Teile)](https://www.youtube.com/watch?v=8sC_CDCS66Y) auf Englisch, prima als Anregung * [ARTIKEL: Eine Kiste mit Schnappverbindungen für die CNC-Fräse.](https://americanwoodworker.com/blogs/randyjohnson/archive/2013/01/01/cnc-spring-joint-box.aspx) * [ARTIKEL: Sprachsynthese online, ziemlich beeindruckend](https://www.acapela-group.com/voices/demo/)</description></item><item><title>Nachlese: 6. Grundkurs CNC-Fräsen</title><link>https://eigenbaukombinat.de/nachlese-6-grundkurs-cnc-fraesen/</link><pubDate>Fri, 04 Apr 2014 10:18:40 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/nachlese-6-grundkurs-cnc-fraesen/</guid><description>Diesmal haben wir im CNC-Kurs zusammen ein kleines Windlicht entworfen und gefräst. Nachdem die Einzelteile ausgefräst sind, geht es auch schon ans Zusammenbauen.Kurze Anprobe: Alles passt auf AnhiebBeim Zusammenbau ist unbedingt auf die richtige Anordung zu achten, damit das bunte Papier dann auch auf der Innenseite landet. Ich hab mich farblich diesmal für grün und gelb entschieden.
-Für&amp;rsquo;s Bekleben hab ich normalen Holzleim verwendet, der ja auch mit Papier funktioniert.</description></item><item><title>Nachlese: 5. Grundkurs CNC-Fräsen</title><link>https://eigenbaukombinat.de/nachlese-5-grundkurs-cnc-fraesen-2/</link><pubDate>Wed, 12 Mar 2014 14:43:34 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/nachlese-5-grundkurs-cnc-fraesen-2/</guid><description>Im fünften Grundkurs haben wir gemeinsam kleine Kisten konstruiert, die mit Fingerzinken und etwas Leim dann nur noch zusammengesteckt werden müssen. Dann dienen sie als Stiftehalter oder Kramkiste. Jeder Kursteilnehmer hat sogar eine individuelle Beschriftung angebracht.Wie üblich bei unseren Projekten findet ihr hier die DXF-Datei mit dem Bauplan zum Nachfräsen. Das verwendete Material war 4mm Pappelsperrholz, und die Aussparungen sind für einen 2mm Fräser gemacht. Hier der Verständlichkeit halber noch in der Anordnung, in der wir die Einzelteile konstruiert haben.</description></item><item><title>Kleine Lautsprecherständer für den Schreibtisch</title><link>https://eigenbaukombinat.de/kleine-lautsprecherstaender-fuer-den-schreibtisch/</link><pubDate>Mon, 24 Feb 2014 14:16:57 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/kleine-lautsprecherstaender-fuer-den-schreibtisch/</guid><description>Damit meine Aktivlautsprecher am PC endlich auf Ohrhöhe zum Stehen kommen, hab ich innerhalb von einer Stunde kleine Lautsprecherständer angefertigt.Die Bodenplatten haben Abmaße von 16x16cm in 12mm Birke Multiplex.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CNC on Eigenbau​kombinat</title>
+    <link>https://eigenbaukombinat.de/tags/cnc/</link>
+    <description>Recent content in CNC on Eigenbau​kombinat</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>kontakt@eigenbaukombinat.de (EBK Impressum)</managingEditor>
+    <webMaster>kontakt@eigenbaukombinat.de (EBK Impressum)</webMaster>
+    <lastBuildDate>Thu, 09 Mar 2017 19:10:11 +0000</lastBuildDate><atom:link href="https://eigenbaukombinat.de/tags/cnc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CNC-Treffen</title>
+      <link>https://eigenbaukombinat.de/cnc-treffen/</link>
+      <pubDate>Thu, 09 Mar 2017 19:10:11 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/cnc-treffen/</guid>
+      <description>**TERMIN**  jeden zweiten Mittwoch im Monat ab 20Uhr   **DAUER**  etwa 2 Stunden   **TEILNEHMER**  unbeschränkt   **KOSTEN**  kostenlos   **ORT**  Eigenbaukombinat   **BESCHREIBUNG**  Hier treffen wir uns zum Erfahrungsaustauch über&#39;s CNC-Fräsen. Es geht um Software wie LinuxCNC, QCad und Co. und auch Hardware, Materialien und Ideen, die man gemeinsam umsetzen möchte. [![](/wp-content/uploads/2014/07/IMG_0835-1024x682.jpg) ](/wp-content/uploads/2014/07/IMG_0835.jpg)    **ANMELDUNG**  nicht notwendig     </description>
+    </item>
+    
+    <item>
+      <title>Einstellbares Stimmungslicht</title>
+      <link>https://eigenbaukombinat.de/einstellbares-stimmungslicht/</link>
+      <pubDate>Thu, 29 Jan 2015 17:23:43 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/einstellbares-stimmungslicht/</guid>
+      <description>Für gemütliche Abende haben wir uns eine kleine Lampe gebaut, die je nach Stimmung eingestellt werden kann.Die Steuerung realisierten wir mit einem Arduino, an dem zwei Drehregler und ein Schalter, sowie ein paar WS2812 RGB LEDs angeschlossen wurden. Über die Drehregler können Parameter wie Helligkeit, Sättigung, Farbwechsel-Geschwindigkeit oder Lichtfarbe eingestellt werden. Mittels des Kippschalters kann zwischen drei verschiedenen Programmen gewechselt werden: Regenbogen-Farbwechsel, frei einstellbare Farbe und wechselnde Zufallsfarben.
+Das Gehäuse entstand an der CNC-Fräse.</description>
+    </item>
+    
+    <item>
+      <title>Ritterburg aus Kirschbaum</title>
+      <link>https://eigenbaukombinat.de/ritterburg-aus-kirschbaum/</link>
+      <pubDate>Fri, 19 Sep 2014 13:37:09 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/ritterburg-aus-kirschbaum/</guid>
+      <description>Für meine Neffen gibt es zum nächsten Geburtstag Ritterburgen aus Kirschbaum. Jedes Set besteht aus je einem Eingangstor, zwei Türmen, sieben Mauerelementen und einem Treppenaufstieg. Alle Bauklötze können in den dazugehörigen, CNC-gefrästen Kisten aus Multiplex verstaut werden.Die Kirschbaumbohle wurde zersägt und gehobelt. Anschließend wurden die Konturen aufgezeichnet und mit der Bandsäge ausgesägt. Die Kanten wurden am Frästisch abgerundet. DIe Löcher für die Fenster wurden mit der Standbohrmaschine gebohrt und danach mit Stecheisen erweitert.</description>
+    </item>
+    
+    <item>
+      <title>Ein Stift- und Schraubendreherhalter</title>
+      <link>https://eigenbaukombinat.de/ein-stift-und-schraubendreherhalter/</link>
+      <pubDate>Tue, 16 Sep 2014 13:32:32 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/ein-stift-und-schraubendreherhalter/</guid>
+      <description>Nachdem bei mir auf dem Schreibtisch immer viele verschiedene Schraubendreher möglichst griffbereit liegen sollen, hab ich kurzerhand einen kleinen Halter auf der CNC-Fräse improvisiert.Material ist 4mm Birke Multiplex, der Fräser hat 2mm Durchmesser. Die Größe des Halters liegt bei ca. 15cm x 10cm x 10cm. Die Löcher habe ich mit 9mm Durchmesser gewählt, weil übliche Bleistifte und Schraubendreher da gut reinpassen. Für Kugelschreiber sollte man aber eher 12-13mm große Löcher wählen.</description>
+    </item>
+    
+    <item>
+      <title>Invasion der Lötfanten</title>
+      <link>https://eigenbaukombinat.de/invasion-der-loetfanten/</link>
+      <pubDate>Mon, 23 Jun 2014 11:03:26 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/invasion-der-loetfanten/</guid>
+      <description>Heute mal ein kurzer Baubericht für eine &amp;ldquo;Dritte Hand&amp;rdquo;, ein Hilfsmittel um beim Löten neben Lötzinn und Lötkolben meistens 2 zu verlötende Kabel in Position zu halten. Wir haben uns für die &amp;ldquo;Wäscheklammer&amp;rdquo;-Variante entschieden. Da die Klemmflächen handelsüblicher Wäscheklammern keine gute Form haben, um feine Kabel und dergleichen gut festzuhalten, wurde kurzerhand die CNC-Fräse bemüht, um spezielle Klammern und eine kleine Grundplatte auszufräsen.12mm Birke Multiplex hat genau die richtige Dicke und passt zu den Federn &amp;ldquo;normaler&amp;rdquo; Wäscheklammern.</description>
+    </item>
+    
+    <item>
+      <title>Reparatur: Kurbel der Ständerbohrmaschine</title>
+      <link>https://eigenbaukombinat.de/reparatur-kurbel-der-staenderbohrmaschine/</link>
+      <pubDate>Thu, 19 Jun 2014 13:26:24 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/reparatur-kurbel-der-staenderbohrmaschine/</guid>
+      <description>Nachdem die Kurbel für die Höhenverstellung unserer CMI Ständerbohrmaschine immer mal wieder den Geist aufgibt und mittlerweile bereits zum großen Teil aus Sekundenkleber besteht, habe ich kurzerhand auf unserer CNC-Fräse ein Ersatzteil aus Holz gefräst.Hier die kaputte Kurbel (nochmal zusammengelegt) und darunter das zweiteilige Ersatzteil. Ich habe mich diesmal für einen Sterngriff entschieden. Die Welle ist auf einer Seite abgeflacht, das Ersatzteil daher entsprechend gefertigt:
+Hier für alle mit demselben Problem der Entwurf zum Herunterladen als DXF-Datei.</description>
+    </item>
+    
+    <item>
+      <title>Visitenkarten aus Holz</title>
+      <link>https://eigenbaukombinat.de/visitenkarten-aus-holz/</link>
+      <pubDate>Wed, 04 Jun 2014 13:31:57 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/visitenkarten-aus-holz/</guid>
+      <description>Da wir im Eigenbaukombinat regelmäßig ungewöhnliche Projekte umsetzen, ging es diesmal darum Visitenkarten nicht aus Papier, sondern aus Holz zu fertigen.Ich hab mich für das in Europa verbreitete Standardformat von 85 x 55mm entschieden und kurzerhand ein paar Rohlinge auf der CNC-Fräse zugeschnitten. Die Ecken habe ich dabei mit einem Radius von 2mm abgerundet. Am günstigsten ist zwar Pappelsperrholz in 4mm, aber relativ dick.
+Schöner ist dann Flugzeugsperrholz in 1mm oder 2mm Dicke, welches leider rund 40 EUR/m² kostet.</description>
+    </item>
+    
+    <item>
+      <title>Blick über den Tellerrand (47)</title>
+      <link>https://eigenbaukombinat.de/blick-ueber-den-tellerrand-47/</link>
+      <pubDate>Sun, 11 May 2014 16:57:42 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/blick-ueber-den-tellerrand-47/</guid>
+      <description> * [VIDEO: Wir bauen einen kleinen Schuppen (mehrere Teile)](https://www.youtube.com/watch?v=8sC_CDCS66Y) auf Englisch, prima als Anregung * [ARTIKEL: Eine Kiste mit Schnappverbindungen für die CNC-Fräse.](https://americanwoodworker.com/blogs/randyjohnson/archive/2013/01/01/cnc-spring-joint-box.aspx) * [ARTIKEL: Sprachsynthese online, ziemlich beeindruckend](https://www.acapela-group.com/voices/demo/)  </description>
+    </item>
+    
+    <item>
+      <title>Nachlese: 6. Grundkurs CNC-Fräsen</title>
+      <link>https://eigenbaukombinat.de/nachlese-6-grundkurs-cnc-fraesen/</link>
+      <pubDate>Fri, 04 Apr 2014 10:18:40 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/nachlese-6-grundkurs-cnc-fraesen/</guid>
+      <description>Diesmal haben wir im CNC-Kurs zusammen ein kleines Windlicht entworfen und gefräst. Nachdem die Einzelteile ausgefräst sind, geht es auch schon ans Zusammenbauen.Kurze Anprobe: Alles passt auf AnhiebBeim Zusammenbau ist unbedingt auf die richtige Anordung zu achten, damit das bunte Papier dann auch auf der Innenseite landet. Ich hab mich farblich diesmal für grün und gelb entschieden.
+
+Für&amp;rsquo;s Bekleben hab ich normalen Holzleim verwendet, der ja auch mit Papier funktioniert.</description>
+    </item>
+    
+    <item>
+      <title>Nachlese: 5. Grundkurs CNC-Fräsen</title>
+      <link>https://eigenbaukombinat.de/nachlese-5-grundkurs-cnc-fraesen-2/</link>
+      <pubDate>Wed, 12 Mar 2014 14:43:34 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/nachlese-5-grundkurs-cnc-fraesen-2/</guid>
+      <description>Im fünften Grundkurs haben wir gemeinsam kleine Kisten konstruiert, die mit Fingerzinken und etwas Leim dann nur noch zusammengesteckt werden müssen. Dann dienen sie als Stiftehalter oder Kramkiste. Jeder Kursteilnehmer hat sogar eine individuelle Beschriftung angebracht.Wie üblich bei unseren Projekten findet ihr hier die DXF-Datei mit dem Bauplan zum Nachfräsen. Das verwendete Material war 4mm Pappelsperrholz, und die Aussparungen sind für einen 2mm Fräser gemacht. Hier der Verständlichkeit halber noch in der Anordnung, in der wir die Einzelteile konstruiert haben.</description>
+    </item>
+    
+    <item>
+      <title>Kleine Lautsprecherständer für den Schreibtisch</title>
+      <link>https://eigenbaukombinat.de/kleine-lautsprecherstaender-fuer-den-schreibtisch/</link>
+      <pubDate>Mon, 24 Feb 2014 14:16:57 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/kleine-lautsprecherstaender-fuer-den-schreibtisch/</guid>
+      <description>Damit meine Aktivlautsprecher am PC endlich auf Ohrhöhe zum Stehen kommen, hab ich innerhalb von einer Stunde kleine Lautsprecherständer angefertigt.Die Bodenplatten haben Abmaße von 16x16cm in 12mm Birke Multiplex.
 Als Abstandshalter der beiden Platten habe ich 20mm Bucherundstäbe genommen, diese in 15cm lange Stücke gesägt, und dann um 6mm in die Bodenplatten eingelassen.Mit etwas Leim einfach sanft zusammendrücken:
-Nach kurzer Zeit waren sie dann schon fertig:</description></item><item><title>Blick über den Tellerrand (44)</title><link>https://eigenbaukombinat.de/blick-ueber-den-tellerrand-44/</link><pubDate>Mon, 20 Jan 2014 13:33:00 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/blick-ueber-den-tellerrand-44/</guid><description> * [ARTIKEL: Eine Analogkamera selbst gebaut.](https://kekado.zapto.org/kevin/open.html) * BILDER: Jede Menge Inspirationen für die CNC-Fräse: [(Teil 1)](https://www.pinterest.com/madercraft/cnc/) [(Teil 2)](https://www.pinterest.com/cgb50/slot-together/) * [ARTIKEL: Eine Software, um große Teile zusammengefaltet für den 3D-Drucker zu erzeugen.](https://n-e-r-v-o-u-s.com/blog/?cat=84,37,16,37)</description></item><item><title>Nachlese: 4. Grundkurs CNC-Fräsen</title><link>https://eigenbaukombinat.de/nachlese-4-grundkurs-cnc-fraesen/</link><pubDate>Fri, 13 Dec 2013 10:55:51 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/nachlese-4-grundkurs-cnc-fraesen/</guid><description>Es weihnachtet schon. Daher haben wir diesmal gemeinsam einen Weihnachtsbaumschmuck entworfen, gefräst und zusammengebaut. Da uns normaler 2D-Baumschmuck zu simpel war, haben wir uns einen einfachen 3D-Entwurf zum Zusammenstecken überlegt.Dazu haben wir zuerst die Baumkontur entworfen und diese dann kopiert. Die beiden Einzelteile wurden danach noch mit genau zueinander passenden Aussparungen in der Materialdicke (hier 4mm) versehen. Und damit der kleine Baum auch allein stehen kann, haben wir ihm noch einen passenden Fuß verpasst (DXF Datei hier).</description></item><item><title>Arcade-Controller mit MAME</title><link>https://eigenbaukombinat.de/arcade-controller-mit-mame/</link><pubDate>Tue, 03 Dec 2013 17:20:17 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/arcade-controller-mit-mame/</guid><description>Endlich nähern wir uns der Fertigstellung unseres Arcadecontrollers für MAME. Aufgrund der aktuell grassierenden &amp;ldquo;Raspberri-Pi-itis&amp;rdquo; ergab sich noch eine Planänderung: Der Controller wird als Standalone-Gerät aufgebaut, und der Spielerechner in Form eines Raspis direkt ins Gehäuse integriert. Doch dazu später mehr. ;)GEHÄUSE Nach ersten Überlegungen (Teil 1, Teil 2, &amp;hellip; ) und dem Bau von Prototypen
-erfolgte nochmals eine Anpassung der Anordnung der Knöpfe auf dem Controller. Beim Arcadeshop finden wir die erforderlichen Maße der verwendeten Knöpfe und hier für die Joysticks.</description></item><item><title>Nachlese: 3. Grundkurs CNC-Fräsen</title><link>https://eigenbaukombinat.de/nachlese-3-grundkurs-cnc-frasen/</link><pubDate>Thu, 14 Nov 2013 10:48:11 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/nachlese-3-grundkurs-cnc-frasen/</guid><description>Wer schon ganz gespannt drauf ist, was es diesmal gab: Den Protoyp eines Gewürzregals. Mehr nach dem Klick.Mit ein bisschen Tüftelei stand der Plan recht schnell, erfuhr dann aber nach und nach noch einige Verfeinerungen. Hier das Ergebnis als DXF-Datei:
+
+Nach kurzer Zeit waren sie dann schon fertig:</description>
+    </item>
+    
+    <item>
+      <title>Blick über den Tellerrand (44)</title>
+      <link>https://eigenbaukombinat.de/blick-ueber-den-tellerrand-44/</link>
+      <pubDate>Mon, 20 Jan 2014 13:33:00 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/blick-ueber-den-tellerrand-44/</guid>
+      <description> * [ARTIKEL: Eine Analogkamera selbst gebaut.](https://kekado.zapto.org/kevin/open.html) * BILDER: Jede Menge Inspirationen für die CNC-Fräse: [(Teil 1)](https://www.pinterest.com/madercraft/cnc/) [(Teil 2)](https://www.pinterest.com/cgb50/slot-together/) * [ARTIKEL: Eine Software, um große Teile zusammengefaltet für den 3D-Drucker zu erzeugen.](https://n-e-r-v-o-u-s.com/blog/?cat=84,37,16,37)  </description>
+    </item>
+    
+    <item>
+      <title>Nachlese: 4. Grundkurs CNC-Fräsen</title>
+      <link>https://eigenbaukombinat.de/nachlese-4-grundkurs-cnc-fraesen/</link>
+      <pubDate>Fri, 13 Dec 2013 10:55:51 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/nachlese-4-grundkurs-cnc-fraesen/</guid>
+      <description>Es weihnachtet schon. Daher haben wir diesmal gemeinsam einen Weihnachtsbaumschmuck entworfen, gefräst und zusammengebaut. Da uns normaler 2D-Baumschmuck zu simpel war, haben wir uns einen einfachen 3D-Entwurf zum Zusammenstecken überlegt.Dazu haben wir zuerst die Baumkontur entworfen und diese dann kopiert. Die beiden Einzelteile wurden danach noch mit genau zueinander passenden Aussparungen in der Materialdicke (hier 4mm) versehen. Und damit der kleine Baum auch allein stehen kann, haben wir ihm noch einen passenden Fuß verpasst (DXF Datei hier).</description>
+    </item>
+    
+    <item>
+      <title>Arcade-Controller mit MAME</title>
+      <link>https://eigenbaukombinat.de/arcade-controller-mit-mame/</link>
+      <pubDate>Tue, 03 Dec 2013 17:20:17 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/arcade-controller-mit-mame/</guid>
+      <description>Endlich nähern wir uns der Fertigstellung unseres Arcadecontrollers für MAME. Aufgrund der aktuell grassierenden &amp;ldquo;Raspberri-Pi-itis&amp;rdquo; ergab sich noch eine Planänderung: Der Controller wird als Standalone-Gerät aufgebaut, und der Spielerechner in Form eines Raspis direkt ins Gehäuse integriert. Doch dazu später mehr. ;)GEHÄUSE Nach ersten Überlegungen (Teil 1, Teil 2, &amp;hellip; ) und dem Bau von Prototypen
+erfolgte nochmals eine Anpassung der Anordnung der Knöpfe auf dem Controller. Beim Arcadeshop finden wir die erforderlichen Maße der verwendeten Knöpfe und hier für die Joysticks.</description>
+    </item>
+    
+    <item>
+      <title>Nachlese: 3. Grundkurs CNC-Fräsen</title>
+      <link>https://eigenbaukombinat.de/nachlese-3-grundkurs-cnc-frasen/</link>
+      <pubDate>Thu, 14 Nov 2013 10:48:11 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/nachlese-3-grundkurs-cnc-frasen/</guid>
+      <description>Wer schon ganz gespannt drauf ist, was es diesmal gab: Den Protoyp eines Gewürzregals. Mehr nach dem Klick.Mit ein bisschen Tüftelei stand der Plan recht schnell, erfuhr dann aber nach und nach noch einige Verfeinerungen. Hier das Ergebnis als DXF-Datei:
+
 Und hier dann das Ergebnis nach dem Fräsen und Zusammenbau:
-Wer möchte kann ja gern auf dieser Basis ein noch größeres bauen. ;)</description></item><item><title>Nachlese: 2. Grundkurs CNC-Fräsen</title><link>https://eigenbaukombinat.de/nachlese-2-grundkurs-cnc-frasen/</link><pubDate>Mon, 28 Oct 2013 22:02:27 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/nachlese-2-grundkurs-cnc-frasen/</guid><description>Damit die Motivation hoch bleibt und man auch hinterher ein Resultat in Händen hält, wähle ich ganz gern kleine und relativ leicht umsetzbare Projekte für meinen CNC-Kurs aus. Diesmal sollte es das Modell des Tetris-Regales sein, das wir bauen wollen.Wir haben uns dafür anfangs für das Außenmaß auf ein Vielfaches von 40mm festgelegt. Jetzt müssen die einzelnen Teile so dimensioniert werden, dass die jeweils anderen dann auch darin Platz finden können.</description></item><item><title>Nespresso Kapselhalter selbst gebaut</title><link>https://eigenbaukombinat.de/nespresso-kapselhalter-selbst-gebaut/</link><pubDate>Sun, 06 Oct 2013 17:15:13 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/nespresso-kapselhalter-selbst-gebaut/</guid><description>Schon vor ein paar Jahren hat eine Nespresso Kaffeemaschine bei mir Einzug gehalten. Für die Kapseln gibt es verschiedenste Halter zu kaufen. Bisher hatte ich immer einen Metallhalter der neben der Kaffeemaschine auf der Arbeitsplatte stand und regelmäßig umgefallen ist. Um Platz zu sparen wollte ich mir einen Wandhalter bauen.Das ist das Ergebnis der Mühen:
-Über die oberen Aussparungen können der Halter befüllt und auch Kapseln wieder entnommen werden.</description></item><item><title>T-Nutenplatte aus MDF für die CNC-Fräse</title><link>https://eigenbaukombinat.de/t-nutenplatte-aus-mdf-fur-die-cnc-frase/</link><pubDate>Sun, 01 Sep 2013 11:37:40 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/t-nutenplatte-aus-mdf-fur-die-cnc-frase/</guid><description>Da T-Nutenplatten aus Aluminium in der für unsere große Fräse benötigten Größe ziemlich teuer sind, improvisieren wir und bauen eine aus MDF.
+
+ Wer möchte kann ja gern auf dieser Basis ein noch größeres bauen. ;)</description>
+    </item>
+    
+    <item>
+      <title>Nachlese: 2. Grundkurs CNC-Fräsen</title>
+      <link>https://eigenbaukombinat.de/nachlese-2-grundkurs-cnc-frasen/</link>
+      <pubDate>Mon, 28 Oct 2013 22:02:27 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/nachlese-2-grundkurs-cnc-frasen/</guid>
+      <description>Damit die Motivation hoch bleibt und man auch hinterher ein Resultat in Händen hält, wähle ich ganz gern kleine und relativ leicht umsetzbare Projekte für meinen CNC-Kurs aus. Diesmal sollte es das Modell des Tetris-Regales sein, das wir bauen wollen.Wir haben uns dafür anfangs für das Außenmaß auf ein Vielfaches von 40mm festgelegt. Jetzt müssen die einzelnen Teile so dimensioniert werden, dass die jeweils anderen dann auch darin Platz finden können.</description>
+    </item>
+    
+    <item>
+      <title>Nespresso Kapselhalter selbst gebaut</title>
+      <link>https://eigenbaukombinat.de/nespresso-kapselhalter-selbst-gebaut/</link>
+      <pubDate>Sun, 06 Oct 2013 17:15:13 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/nespresso-kapselhalter-selbst-gebaut/</guid>
+      <description>Schon vor ein paar Jahren hat eine Nespresso Kaffeemaschine bei mir Einzug gehalten. Für die Kapseln gibt es verschiedenste Halter zu kaufen. Bisher hatte ich immer einen Metallhalter der neben der Kaffeemaschine auf der Arbeitsplatte stand und regelmäßig umgefallen ist. Um Platz zu sparen wollte ich mir einen Wandhalter bauen.Das ist das Ergebnis der Mühen:  
+Über die oberen Aussparungen können der Halter befüllt und auch Kapseln wieder entnommen werden.</description>
+    </item>
+    
+    <item>
+      <title>T-Nutenplatte aus MDF für die CNC-Fräse</title>
+      <link>https://eigenbaukombinat.de/t-nutenplatte-aus-mdf-fur-die-cnc-frase/</link>
+      <pubDate>Sun, 01 Sep 2013 11:37:40 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/t-nutenplatte-aus-mdf-fur-die-cnc-frase/</guid>
+      <description>Da T-Nutenplatten aus Aluminium in der für unsere große Fräse benötigten Größe ziemlich teuer sind, improvisieren wir und bauen eine aus MDF.
 Diese Version unserer T-Nutenplatte habe ich für M8 Schlossschrauben konzipiert, die kopfüber eingeschoben werden und dann von oben mit einer Flügelmutter die Spannpratzen auf dem Werkstück fixieren.KONSTRUKTION
-Der Kopf einer M8 Schlossschraube misst in der Regel 21mm im Durchmesser, der direkt darunterliegenge Vierkantschaft etwas weniger als 9mm. Um eine passende T-Nut zu erzeugen werde ich einfach zwei MDF-Bretter aufeinanderleimen (DXF-Datei).</description></item><item><title>Kamishibai selbst gebaut</title><link>https://eigenbaukombinat.de/kamishibai-selbst-gebaut/</link><pubDate>Wed, 28 Aug 2013 19:40:08 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/kamishibai-selbst-gebaut/</guid><description>Der Plan war ein Kamishibai („kami“ (紙, Papier) und „shibai“ (芝居, Schauspiel, Theater)) zu bauen, was so viel bedeutet wie &amp;ldquo;Papiertheater&amp;rdquo;. Damit sollen mit wechselnden Bildern, in meinem Fall DIN A3, kurze Geschichten für Kinder erzählt werden.
-Als Material hab ich mir Birke Multiplex 12mm Dicke ausgesucht, damit es stabil und sicher stehen kann, für die Rückwand bin ich bei 4 mm Dicke aber gleichem Material geblieben. Die Streben zwischen Rückwand und eigentlicher Theaterfront wurden mit einfachem Vierkantholz (10x15mm) gesteckt und verklebt.</description></item><item><title>Im Eigenbaukombinat gebastelte Enten gewinnen Entenschönheitswettbewerb beim Laternenfest 2013</title><link>https://eigenbaukombinat.de/im-eigenbaukombinat-gebastelte-enten-gewinnen-entenschonheitswettbewerb-beim-laternenfest-2013/</link><pubDate>Sat, 24 Aug 2013 18:47:28 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/im-eigenbaukombinat-gebastelte-enten-gewinnen-entenschonheitswettbewerb-beim-laternenfest-2013/</guid><description>In den letzten 4 Wochen sind im Eigenbaukombinat drei Enten für den Entenschönheitswettbewerb auf dem Laternenfest 2013 entstanden. (Mehr Infos dazu auf der Veranstalterseite).
-Beim Bau der Enten kamen viele unserer Maschinen (3D-Drucker, CNC-Fräse, Nähmaschinen, &amp;hellip;) zum Einsatz. Die Arbeit hat sich gelohnt! Steffi konnte sich mit ihrer Ente &amp;ldquo;Haentel&amp;rdquo; den ersten Platz sichern. Dicht dahinter ihre glitzernde und LED-beleuchtete Ente in der Kiste auf Platz 3. Matthias ist mit seiner Chrom-Ente auf Platz 19 gelandet.</description></item><item><title>Kleiner Fräsanschlag für die Tischoberfräse</title><link>https://eigenbaukombinat.de/kleiner-frasanschlag-fur-die-tischoberfrase/</link><pubDate>Tue, 20 Aug 2013 09:45:59 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/kleiner-frasanschlag-fur-die-tischoberfrase/</guid><description>Damit man die anfallenden Späne besser absaugen, den schnell rotierenden Fräser abdecken und das Werkstück leichter führen kann, habe ich einen kleinen, schnell improvisierten Fräsanschlag für unsere Tischoberfräse gebaut. In der Tischplatte hatte ich damals ja schon Langlöcher für die Befestigung vorgesehen, die einen Abstand von 44cm haben. Hier also der Entwurf als DXF-Datei.
-Als Material habe ich 9mm Birke Multiplex genommen, davon gab es noch Reste. Es sind eine große Grundplatte von 54x10cm sowie die zwei übereinandermontierten Absaugaufsätze von 10x8cm Größe.</description></item><item><title>Reparatur: Aktenvernichter IDEAL cross/cut 2201 B</title><link>https://eigenbaukombinat.de/reparatur-aktenvernichter-ideal-crosscut-2201-b/</link><pubDate>Sat, 10 Aug 2013 11:33:05 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/reparatur-aktenvernichter-ideal-crosscut-2201-b/</guid><description>Heute wurde der nächste &amp;ldquo;Patient&amp;rdquo; eingeliefert, ein Aktenvernichter, der nicht mehr vernichten mag. Erstdiagnose: Motor läuft, aber die Walzen drehen sich nicht. Vermutlich hat sich etwas verklemmt.Also munter ans Werk. Äußerlich lassen sich nur vereinzelte Papierreste ausmachen, also muss die Abdeckung herunter. Die ist mit vier Schrauben befestigt und entsprechend schnell gelöst.Von hier aus sieht alles unverdächtig aus.
-Aber die andere Seite verrät einen größeren, festsitzenden Papierstau, der sich mit etwas Kraft aber leicht entfernen lässt.</description></item><item><title>Schnelle Rampe für RC-Cars</title><link>https://eigenbaukombinat.de/schnelle-rampe-fur-rc-cars/</link><pubDate>Sun, 28 Jul 2013 19:52:31 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/schnelle-rampe-fur-rc-cars/</guid><description>In Vorbereitung auf das nächste Treffen der Parkplatzracer Halle am 11.August haben wir eine kleine Sprungschanze gebaut. Zunächst wurde aus 9mm Multiplex das Profil der Rampe auf der CNC gefräst, mit einem kleinen Ausschnitt aus der Unterseite zur Verstärkung mit einer Latte.
-Man nehme Holz in 70x60cm und fräse mit einem 3mm Fräser folgende Konturen aus (hier gibt&amp;rsquo;s die DXF-Datei):
-Hier sieht man, wie die Teile miteinander verbunden werden:</description></item><item><title>Ein Schild, mal wieder...</title><link>https://eigenbaukombinat.de/ein-schild-mal-wieder/</link><pubDate>Thu, 25 Jul 2013 19:06:03 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/ein-schild-mal-wieder/</guid><description>Nachdem wir beim Lindenblütenfest einen großen Schildermangel hatten, hab ich diesem heute erstmal etwas Linderung verschafft:[caption id=&amp;ldquo;attachment_3747&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;300&amp;rdquo;] Beim Fräsen. Hier ist unser neuer Absaugschuh in der Erprobung.[/caption]
+Der Kopf einer M8 Schlossschraube misst in der Regel 21mm im Durchmesser, der direkt darunterliegenge Vierkantschaft etwas weniger als 9mm. Um eine passende T-Nut zu erzeugen werde ich einfach zwei MDF-Bretter aufeinanderleimen (DXF-Datei).</description>
+    </item>
+    
+    <item>
+      <title>Kamishibai selbst gebaut</title>
+      <link>https://eigenbaukombinat.de/kamishibai-selbst-gebaut/</link>
+      <pubDate>Wed, 28 Aug 2013 19:40:08 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/kamishibai-selbst-gebaut/</guid>
+      <description>Der Plan war ein Kamishibai („kami“ (紙, Papier) und „shibai“ (芝居, Schauspiel, Theater)) zu bauen, was so viel bedeutet wie &amp;ldquo;Papiertheater&amp;rdquo;. Damit sollen mit wechselnden Bildern, in meinem Fall DIN A3, kurze Geschichten für Kinder erzählt werden.
+Als Material hab ich mir Birke Multiplex 12mm Dicke ausgesucht, damit es stabil und sicher stehen kann, für die Rückwand bin ich bei 4 mm Dicke aber gleichem Material geblieben. Die Streben zwischen Rückwand und eigentlicher Theaterfront wurden mit einfachem Vierkantholz (10x15mm) gesteckt und verklebt.</description>
+    </item>
+    
+    <item>
+      <title>Im Eigenbaukombinat gebastelte Enten gewinnen Entenschönheitswettbewerb beim Laternenfest 2013</title>
+      <link>https://eigenbaukombinat.de/im-eigenbaukombinat-gebastelte-enten-gewinnen-entenschonheitswettbewerb-beim-laternenfest-2013/</link>
+      <pubDate>Sat, 24 Aug 2013 18:47:28 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/im-eigenbaukombinat-gebastelte-enten-gewinnen-entenschonheitswettbewerb-beim-laternenfest-2013/</guid>
+      <description>In den letzten 4 Wochen sind im Eigenbaukombinat drei Enten für den Entenschönheitswettbewerb auf dem Laternenfest 2013 entstanden. (Mehr Infos dazu auf der Veranstalterseite).
+Beim Bau der Enten kamen viele unserer Maschinen (3D-Drucker, CNC-Fräse, Nähmaschinen, &amp;hellip;) zum Einsatz. Die Arbeit hat sich gelohnt! Steffi konnte sich mit ihrer Ente &amp;ldquo;Haentel&amp;rdquo; den ersten Platz sichern. Dicht dahinter ihre glitzernde und LED-beleuchtete Ente in der Kiste auf Platz 3. Matthias ist mit seiner Chrom-Ente auf Platz 19 gelandet.</description>
+    </item>
+    
+    <item>
+      <title>Kleiner Fräsanschlag für die Tischoberfräse</title>
+      <link>https://eigenbaukombinat.de/kleiner-frasanschlag-fur-die-tischoberfrase/</link>
+      <pubDate>Tue, 20 Aug 2013 09:45:59 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/kleiner-frasanschlag-fur-die-tischoberfrase/</guid>
+      <description>Damit man die anfallenden Späne besser absaugen, den schnell rotierenden Fräser abdecken und das Werkstück leichter führen kann, habe ich einen kleinen, schnell improvisierten Fräsanschlag für unsere Tischoberfräse gebaut. In der Tischplatte hatte ich damals ja schon Langlöcher für die Befestigung vorgesehen, die einen Abstand von 44cm haben. Hier also der Entwurf als DXF-Datei.
+
+Als Material habe ich 9mm Birke Multiplex genommen, davon gab es noch Reste. Es sind eine große Grundplatte von 54x10cm sowie die zwei übereinandermontierten Absaugaufsätze von 10x8cm Größe.</description>
+    </item>
+    
+    <item>
+      <title>Reparatur: Aktenvernichter IDEAL cross/cut 2201 B</title>
+      <link>https://eigenbaukombinat.de/reparatur-aktenvernichter-ideal-crosscut-2201-b/</link>
+      <pubDate>Sat, 10 Aug 2013 11:33:05 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/reparatur-aktenvernichter-ideal-crosscut-2201-b/</guid>
+      <description>Heute wurde der nächste &amp;ldquo;Patient&amp;rdquo; eingeliefert, ein Aktenvernichter, der nicht mehr vernichten mag. Erstdiagnose: Motor läuft, aber die Walzen drehen sich nicht. Vermutlich hat sich etwas verklemmt.Also munter ans Werk. Äußerlich lassen sich nur vereinzelte Papierreste ausmachen, also muss die Abdeckung herunter. Die ist mit vier Schrauben befestigt und entsprechend schnell gelöst.Von hier aus sieht alles unverdächtig aus.
+
+Aber die andere Seite verrät einen größeren, festsitzenden Papierstau, der sich mit etwas Kraft aber leicht entfernen lässt.</description>
+    </item>
+    
+    <item>
+      <title>Schnelle Rampe für RC-Cars</title>
+      <link>https://eigenbaukombinat.de/schnelle-rampe-fur-rc-cars/</link>
+      <pubDate>Sun, 28 Jul 2013 19:52:31 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/schnelle-rampe-fur-rc-cars/</guid>
+      <description>In Vorbereitung auf das nächste Treffen der Parkplatzracer Halle am 11.August haben wir eine kleine Sprungschanze gebaut. Zunächst wurde aus 9mm Multiplex das Profil der Rampe auf der CNC gefräst, mit einem kleinen Ausschnitt aus der Unterseite zur Verstärkung mit einer Latte.
+Man nehme Holz in 70x60cm und fräse mit einem 3mm Fräser folgende Konturen aus (hier gibt&amp;rsquo;s die DXF-Datei): 
+Hier sieht man, wie die Teile miteinander verbunden werden:</description>
+    </item>
+    
+    <item>
+      <title>Ein Schild, mal wieder...</title>
+      <link>https://eigenbaukombinat.de/ein-schild-mal-wieder/</link>
+      <pubDate>Thu, 25 Jul 2013 19:06:03 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/ein-schild-mal-wieder/</guid>
+      <description>Nachdem wir beim Lindenblütenfest einen großen Schildermangel hatten, hab ich diesem heute erstmal etwas Linderung verschafft:[caption id=&amp;ldquo;attachment_3747&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;300&amp;rdquo;] Beim Fräsen. Hier ist unser neuer Absaugschuh in der Erprobung.[/caption]
 [caption id=&amp;ldquo;attachment_3748&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;300&amp;rdquo;] 6mm Fräser, 3mm tief&amp;hellip; da fliegen die Späne![/caption]
 [caption id=&amp;ldquo;attachment_3740&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;300&amp;rdquo;] Schon fertig&amp;hellip; :)[/caption]
 Wie man unschwer am Zollstock erkennen kann, ist der Schriftzug ganze 37cm lang!
-Hier noch eine Detailaufnahme der einzelnen Buchstaben. Es handelt sich um ein braun lasiertes Fichtenbrett in etwa 48cm x 20cm, ein Reststück von einem anderen Projekt.</description></item><item><title>Eine kleine Spendenkiste</title><link>https://eigenbaukombinat.de/eine-kleine-spendenkiste/</link><pubDate>Fri, 12 Jul 2013 14:00:25 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/eine-kleine-spendenkiste/</guid><description>Nachdem unsere Verbrauchsmaterialkisten ein voller Erfolg sind, und wir gerade ein paar ansehnliche selbstgebaute Spendenboxen brauchten, haben wir kurzerhand den alten Entwurf zweckentfremdet und nur leicht modifiziert (hier die DXF-Datei zum Nachmessen und Nachbauen). Als Material haben wir wieder 4mm Pappelsperrholz verwendet, das abgepackt etwa 10 EUR pro qm² kostet. Der Materialbedarf für eine Kiste liegt aber nur bei rund 2 EUR.
-Und hier das Ergebnis fertig montiert und nach dem ersten Einsatz auf dem Lindenblütenfest:</description></item><item><title>Bastlerglas fräsen... Versuch Nr. 3, 4 und 5</title><link>https://eigenbaukombinat.de/bastlerglas-frasen-versuch-nr-3-4-und-5/</link><pubDate>Tue, 09 Jul 2013 10:03:10 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/bastlerglas-frasen-versuch-nr-3-4-und-5/</guid><description>Das gute Bastlerglas, ein Polystyrol und nicht Acryl, ist mitunter schwer zu fräsen.
+Hier noch eine Detailaufnahme der einzelnen Buchstaben. Es handelt sich um ein braun lasiertes Fichtenbrett in etwa 48cm x 20cm, ein Reststück von einem anderen Projekt.</description>
+    </item>
+    
+    <item>
+      <title>Eine kleine Spendenkiste</title>
+      <link>https://eigenbaukombinat.de/eine-kleine-spendenkiste/</link>
+      <pubDate>Fri, 12 Jul 2013 14:00:25 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/eine-kleine-spendenkiste/</guid>
+      <description>Nachdem unsere Verbrauchsmaterialkisten ein voller Erfolg sind, und wir gerade ein paar ansehnliche selbstgebaute Spendenboxen brauchten, haben wir kurzerhand den alten Entwurf zweckentfremdet und nur leicht modifiziert (hier die DXF-Datei zum Nachmessen und Nachbauen). Als Material haben wir wieder 4mm Pappelsperrholz verwendet, das abgepackt etwa 10 EUR pro qm² kostet. Der Materialbedarf für eine Kiste liegt aber nur bei rund 2 EUR.
+
+Und hier das Ergebnis fertig montiert und nach dem ersten Einsatz auf dem Lindenblütenfest:</description>
+    </item>
+    
+    <item>
+      <title>Bastlerglas fräsen... Versuch Nr. 3, 4 und 5</title>
+      <link>https://eigenbaukombinat.de/bastlerglas-frasen-versuch-nr-3-4-und-5/</link>
+      <pubDate>Tue, 09 Jul 2013 10:03:10 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/bastlerglas-frasen-versuch-nr-3-4-und-5/</guid>
+      <description>Das gute Bastlerglas, ein Polystyrol und nicht Acryl, ist mitunter schwer zu fräsen.
 Diesmal habe ich es mit folgenden Einstellungen versucht:
-* Vorschub 1000mm/min * Fräser: 2mm Einschneider * Frässpindeldrehzahl: 17000-21000 * Zustellung: 1mm pro Durchgang Anfangs lief es auch super. Der Fräser klang etwas bemüht, daher die Drehzahlerhöhung auf Stufe 4 (21000 U/min). In der letzten Schicht hat er dann aber Polystyrol mit dem darunterliegenden MDF-Opferholz gemischt, was sofort verklebte und den Fräser zusetzte.</description></item><item><title>Flyerständer selbst gebaut</title><link>https://eigenbaukombinat.de/flyerstander-selbst-gebaut/</link><pubDate>Fri, 05 Jul 2013 07:35:32 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/flyerstander-selbst-gebaut/</guid><description>Da wir ja auch ein paar Flyer für die Außendarstellung des Eigenbaukombinates angefertigt haben, brauchen wir natürlich auch noch einen passenden Flyerständer dazu. Das der nicht einfach gekauft wird, versteht sich ja von selbst. Wir haben ja unsere Ehre, und unsere große BZT CNC-Fräse. ;)Unsere Flyer haben das Standardmaß von 99x210mm (also genau eine gedrittelte A4-Seite). Also stehen die ungefähren Innenmaße schon einmal fest. Für ein bequemes Entnehmen machen wir die Ständer innen etwa 1cm breiter.</description></item><item><title>Spannpratzen selbstgemacht</title><link>https://eigenbaukombinat.de/spannpratzen-selbstgemacht/</link><pubDate>Thu, 04 Jul 2013 12:03:53 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/spannpratzen-selbstgemacht/</guid><description>Aufgrund der beständig steigenden Dichte an CNC-Fräsen bei uns im Kombinat, wächst auch der Bedarf an sogenannten &amp;ldquo;Spannpratzen&amp;rdquo;, die zur Werkstückfixierung eingesetzt werden, wenn man dieses nicht an den Frästisch schrauben will, oder gerade keinen Vakuumtisch in passender Größe vorrätig hat.Hier also der kleine Entwurf als DXF-Datei.
+ * Vorschub 1000mm/min * Fräser: 2mm Einschneider * Frässpindeldrehzahl: 17000-21000 * Zustellung: 1mm pro Durchgang  Anfangs lief es auch super. Der Fräser klang etwas bemüht, daher die Drehzahlerhöhung auf Stufe 4 (21000 U/min). In der letzten Schicht hat er dann aber Polystyrol mit dem darunterliegenden MDF-Opferholz gemischt, was sofort verklebte und den Fräser zusetzte.</description>
+    </item>
+    
+    <item>
+      <title>Flyerständer selbst gebaut </title>
+      <link>https://eigenbaukombinat.de/flyerstander-selbst-gebaut/</link>
+      <pubDate>Fri, 05 Jul 2013 07:35:32 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/flyerstander-selbst-gebaut/</guid>
+      <description>Da wir ja auch ein paar Flyer für die Außendarstellung des Eigenbaukombinates angefertigt haben, brauchen wir natürlich auch noch einen passenden Flyerständer dazu. Das der nicht einfach gekauft wird, versteht sich ja von selbst. Wir haben ja unsere Ehre, und unsere große BZT CNC-Fräse. ;)Unsere Flyer haben das Standardmaß von 99x210mm (also genau eine gedrittelte A4-Seite). Also stehen die ungefähren Innenmaße schon einmal fest. Für ein bequemes Entnehmen machen wir die Ständer innen etwa 1cm breiter.</description>
+    </item>
+    
+    <item>
+      <title>Spannpratzen selbstgemacht</title>
+      <link>https://eigenbaukombinat.de/spannpratzen-selbstgemacht/</link>
+      <pubDate>Thu, 04 Jul 2013 12:03:53 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/spannpratzen-selbstgemacht/</guid>
+      <description>Aufgrund der beständig steigenden Dichte an CNC-Fräsen bei uns im Kombinat, wächst auch der Bedarf an sogenannten &amp;ldquo;Spannpratzen&amp;rdquo;, die zur Werkstückfixierung eingesetzt werden, wenn man dieses nicht an den Frästisch schrauben will, oder gerade keinen Vakuumtisch in passender Größe vorrätig hat.Hier also der kleine Entwurf als DXF-Datei.
+
 Und hier das fertige Ergebnis:
-Und im Einsatz im Vergleich mit dem Vorgänger:</description></item><item><title>Eine CNC-Fräsabsaugung</title><link>https://eigenbaukombinat.de/eine-cnc-frasabsaugung/</link><pubDate>Sun, 30 Jun 2013 18:56:32 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/eine-cnc-frasabsaugung/</guid><description>Damit unsere große BZT-Fräse endlich auch den Dreck wegsaugen kann, den sie produziert, muss ein Absaugschuh her. Dafür habe ich folgenden Entwurf gefräst und zusammengebaut:
-Als Material nahm ich diesmal 6.5mm BMPX, das aufgedoppelt wurde. Innen drin habe ich in beiden Unterschalenhälften eine Tasche von 4mm Tiefe ausgenommen, die als interner Luftschacht vom Staubsaugerschlauch zur Spannzange/Spindel dient. Die Halterung für den Staubsaugeranschluss (dunkelblau rechts im obigen Bild) habe ich 4fach ausgefräst und dann übereinander verleimt.</description></item><item><title>Wellen, Sterne und ein Schiff...</title><link>https://eigenbaukombinat.de/wellen-sterne-und-ein-schiff/</link><pubDate>Sun, 16 Jun 2013 11:20:04 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/wellen-sterne-und-ein-schiff/</guid><description>Handgemalte Bilder in hölzerne Fensterbilder verwandeln - mit etwas Know-how und einer CNC Fräse kein Problem!
+
+Und im Einsatz im Vergleich mit dem Vorgänger:</description>
+    </item>
+    
+    <item>
+      <title>Eine CNC-Fräsabsaugung</title>
+      <link>https://eigenbaukombinat.de/eine-cnc-frasabsaugung/</link>
+      <pubDate>Sun, 30 Jun 2013 18:56:32 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/eine-cnc-frasabsaugung/</guid>
+      <description>Damit unsere große BZT-Fräse endlich auch den Dreck wegsaugen kann, den sie produziert, muss ein Absaugschuh her. Dafür habe ich folgenden Entwurf gefräst und zusammengebaut: 
+Als Material nahm ich diesmal 6.5mm BMPX, das aufgedoppelt wurde. Innen drin habe ich in beiden Unterschalenhälften eine Tasche von 4mm Tiefe ausgenommen, die als interner Luftschacht vom Staubsaugerschlauch zur Spannzange/Spindel dient. Die Halterung für den Staubsaugeranschluss (dunkelblau rechts im obigen Bild) habe ich 4fach ausgefräst und dann übereinander verleimt.</description>
+    </item>
+    
+    <item>
+      <title>Wellen, Sterne und ein Schiff...</title>
+      <link>https://eigenbaukombinat.de/wellen-sterne-und-ein-schiff/</link>
+      <pubDate>Sun, 16 Jun 2013 11:20:04 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/wellen-sterne-und-ein-schiff/</guid>
+      <description>Handgemalte Bilder in hölzerne Fensterbilder verwandeln - mit etwas Know-how und einer CNC Fräse kein Problem!
 Ausgehend von Lydias Skizze auf Papier habe ich das Bild digitalisiert, mit Gimp etwas nachbearbeitet und gesäubert, und anschließend mit Inkscape vektorisiert, damit man es fräsen kann.
-Aus der Vektorskizze kann man dann die Pfade für die CNC-Fräse erstellen. Damit das ganze Bild noch etwas an Tiefe gewinnt, haben wir neben durchgefräsen Konturen auch halbdurchgefräste Flächen eingeplant.</description></item><item><title>Eine Kiste für die Verbrauchsmaterialkasse</title><link>https://eigenbaukombinat.de/eine-kiste-fur-die-verbrauchsmaterialkasse/</link><pubDate>Thu, 06 Jun 2013 18:31:28 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/eine-kiste-fur-die-verbrauchsmaterialkasse/</guid><description>Da wir das Verbrauchsmaterial wie Schleifscheiben, Leim etc. lieber zentral und in großen Mengen einkaufen, damit der Preis fällt und die Qualität immer stimmt, gibt jedes unserer Mitglieder nach getaner Arbeit einen jeweils passenden Betrag in die Verbrauchskasse. Davon können dann neue Fräser, Staubsaugerbeutel &amp;amp; Co. nachgekauft werden.
-Damit das Geld nicht in der Gegend herumkullert, bauen wir uns, natürlich selber, kleine Kisten zum Sammeln der Geldbeträge.Wie ja jeder weiss, der selber Projekte bearbeitet: Erst die Version 5 näher sich dann langsam einem vorzeigbaren Zustand an.</description></item><item><title>CD-Lampe</title><link>https://eigenbaukombinat.de/cd-lampe/</link><pubDate>Sun, 19 May 2013 09:54:52 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/cd-lampe/</guid><description>Ein paar alte CDs, Gewindestangen und Multiplexholz bilden zusammen mit anderen Kleinigkeiten diese schöne Nachttischlampe. Und das auch noch für wenig Geld.
+Aus der Vektorskizze kann man dann die Pfade für die CNC-Fräse erstellen. Damit das ganze Bild noch etwas an Tiefe gewinnt, haben wir neben durchgefräsen Konturen auch halbdurchgefräste Flächen eingeplant.</description>
+    </item>
+    
+    <item>
+      <title>Eine Kiste für die Verbrauchsmaterialkasse</title>
+      <link>https://eigenbaukombinat.de/eine-kiste-fur-die-verbrauchsmaterialkasse/</link>
+      <pubDate>Thu, 06 Jun 2013 18:31:28 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/eine-kiste-fur-die-verbrauchsmaterialkasse/</guid>
+      <description>Da wir das Verbrauchsmaterial wie Schleifscheiben, Leim etc. lieber zentral und in großen Mengen einkaufen, damit der Preis fällt und die Qualität immer stimmt, gibt jedes unserer Mitglieder nach getaner Arbeit einen jeweils passenden Betrag in die Verbrauchskasse. Davon können dann neue Fräser, Staubsaugerbeutel &amp;amp; Co. nachgekauft werden.
+Damit das Geld nicht in der Gegend herumkullert, bauen wir uns, natürlich selber, kleine Kisten zum Sammeln der Geldbeträge.Wie ja jeder weiss, der selber Projekte bearbeitet: Erst die Version 5 näher sich dann langsam einem vorzeigbaren Zustand an.</description>
+    </item>
+    
+    <item>
+      <title>CD-Lampe</title>
+      <link>https://eigenbaukombinat.de/cd-lampe/</link>
+      <pubDate>Sun, 19 May 2013 09:54:52 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/cd-lampe/</guid>
+      <description>Ein paar alte CDs, Gewindestangen und Multiplexholz bilden zusammen mit anderen Kleinigkeiten diese schöne Nachttischlampe. Und das auch noch für wenig Geld.
+
 &amp;hellip;und der Nachbau ist gar nicht schwierig:
-**1.)** Zuerst besorgt man sich alle Materialien wie unten angegeben. Anschließend fräst man mit Hilfe der CNC Fräse die Holzscheiben für den Sockel und den Deckel aus. Man braucht 4 Scheiben mit einem 36mm Loch in der Mitte Loch, 3 Scheiben mit einem 29mm Loch und vier Scheiben ohne zentrales Loch als Boden und Deckel.</description></item><item><title>Blick über den Tellerrand (22)</title><link>https://eigenbaukombinat.de/blick-uber-den-tellerrand-22/</link><pubDate>Mon, 29 Apr 2013 15:11:06 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/blick-uber-den-tellerrand-22/</guid><description> * [BILDER: Verschiedene Selbstbau CNC-Fräsen im Überblick](https://blog.ponoko.com/2011/07/15/pricing-guide-to-diy-cnc-mill-and-router-kits/) * [PDF: Verschiedene &amp;quot;digitale&amp;quot; Holzverbindungen, insbesondere CNC-geeignet (SEHR INTERESSANT!)](https://www.flexiblestream.org/Digital-Wood-Joints-001.php) * [BAUBERICHT: Rollschrank mit Stauraum für die Bohrmaschine](https://www.woodworking.de/cgi-bin/holzbearbeitungsmaschinen/webbbs_config.pl/page/1/md/read/id/95789/sbj/projektvorstellung-rollschrank-viele-bilder/)</description></item><item><title>Gehäuse für das TB6560 3V2 Red Board</title><link>https://eigenbaukombinat.de/gehause-fur-das-redboard-tb6560-3v2/</link><pubDate>Sat, 20 Apr 2013 14:36:55 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/gehause-fur-das-redboard-tb6560-3v2/</guid><description>Für den Fräscontroller TB6560 3V2 Red Board bauen wir uns zum Staubschutz ein passendes Gehäuse, natürlich auf der schon vorhandenen Fräse. ;)Es muss mal wieder Pappelsperrholz in 4mm Stärke herhalten, da billig und leicht zu fräsen. Die Abmessungen des Boards betragen etwa 152mm x 132mm. Zur Sicherheit geben wir in jede Richtung noch 1mm hinzu. Die Kiste ist dann mittels QCad-Skript schnell erzeugt. Einzig die Anpassungen wegen der Anschlüsse sowie die Positionierung der Bohrlöcher braucht nochmal etwas Zeit.</description></item><item><title>Nachlese: Osterschmuck CNC-gefräst</title><link>https://eigenbaukombinat.de/nachlese-osterschmuck-cnc-gefrast/</link><pubDate>Wed, 03 Apr 2013 13:14:30 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/nachlese-osterschmuck-cnc-gefrast/</guid><description>Neben selbstgemachten Ostereientwürfen (abfotografiert und vektorisiert) haben wir auf unserer CNC-Fräse auch schon vorhandene Vorlagen ausgefräst. Außerdem hat die Dekupiersäge mal wieder ein paar neue Freunde gefunden.
-Die Fräse steht allen Mitgliedern zur Verfügung. Demnächst gibt es auch wieder einen Einführungskurs CNC-Fräsen für Mitglieder und Noch-nicht-Mitglieder. ;)
-Gäste können natürlich auch gern zu unseren Öffnungszeiten in der Werkstatt vorbeischauen.</description></item><item><title>Kleine Aufbewahrungskisten</title><link>https://eigenbaukombinat.de/kleine-aufbewahrungskisten/</link><pubDate>Sat, 30 Mar 2013 01:14:23 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/kleine-aufbewahrungskisten/</guid><description>Vor langer Zeit habe ich einmal ein Script für QCad 2 geschrieben, welches mir, anhand zu übergebender Parameter, automatisch kleine Kisten mit Fingerzinkenverbindungen in beliebiger Größe erzeugt.**UPDATE 2018: **Da QCad2 nun mittlerweile veraltet ist, habe ich das Script in Python neu geschrieben und auf unseren Github-Account hochgeladen. Hier ist der Link: /github.com/Eigenbaukombinat/kistenmacher
-Diese Skizze muss ich dann mit Cut2D nur noch für die CNC-Fräse vorbereiten und auf geht&amp;rsquo;s. Ich habe das Script mal wieder ausgegraben und mit folgenden Daten gefüttert:</description></item><item><title>Bauplatten Constructor</title><link>https://eigenbaukombinat.de/bauplatten-constructor/</link><pubDate>Sat, 30 Mar 2013 01:03:29 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/bauplatten-constructor/</guid><description>Für das Baukastensystem &amp;ldquo;Constructor&amp;rdquo; hat man leider nie die richtigen Platten parat, oder es gibt sie in diversen Größen gar nicht. Daher: Schieblehre her, ein Teil ausgemessen, Plan gezeichnet und losgefräst!(DXF-Datei)
+**1.)** Zuerst besorgt man sich alle Materialien wie unten angegeben. Anschließend fräst man mit Hilfe der CNC Fräse die Holzscheiben für den Sockel und den Deckel aus. Man braucht 4 Scheiben mit einem 36mm Loch in der Mitte Loch, 3 Scheiben mit einem 29mm Loch und vier Scheiben ohne zentrales Loch als Boden und Deckel.</description>
+    </item>
+    
+    <item>
+      <title>Blick über den Tellerrand (22)</title>
+      <link>https://eigenbaukombinat.de/blick-uber-den-tellerrand-22/</link>
+      <pubDate>Mon, 29 Apr 2013 15:11:06 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/blick-uber-den-tellerrand-22/</guid>
+      <description> * [BILDER: Verschiedene Selbstbau CNC-Fräsen im Überblick](https://blog.ponoko.com/2011/07/15/pricing-guide-to-diy-cnc-mill-and-router-kits/) * [PDF: Verschiedene &amp;quot;digitale&amp;quot; Holzverbindungen, insbesondere CNC-geeignet (SEHR INTERESSANT!)](https://www.flexiblestream.org/Digital-Wood-Joints-001.php) * [BAUBERICHT: Rollschrank mit Stauraum für die Bohrmaschine](https://www.woodworking.de/cgi-bin/holzbearbeitungsmaschinen/webbbs_config.pl/page/1/md/read/id/95789/sbj/projektvorstellung-rollschrank-viele-bilder/)  </description>
+    </item>
+    
+    <item>
+      <title>Gehäuse für das TB6560 3V2 Red Board </title>
+      <link>https://eigenbaukombinat.de/gehause-fur-das-redboard-tb6560-3v2/</link>
+      <pubDate>Sat, 20 Apr 2013 14:36:55 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/gehause-fur-das-redboard-tb6560-3v2/</guid>
+      <description>Für den Fräscontroller TB6560 3V2 Red Board bauen wir uns zum Staubschutz ein passendes Gehäuse, natürlich auf der schon vorhandenen Fräse. ;)Es muss mal wieder Pappelsperrholz in 4mm Stärke herhalten, da billig und leicht zu fräsen. Die Abmessungen des Boards betragen etwa 152mm x 132mm. Zur Sicherheit geben wir in jede Richtung noch 1mm hinzu. Die Kiste ist dann mittels QCad-Skript schnell erzeugt. Einzig die Anpassungen wegen der Anschlüsse sowie die Positionierung der Bohrlöcher braucht nochmal etwas Zeit.</description>
+    </item>
+    
+    <item>
+      <title>Nachlese: Osterschmuck CNC-gefräst</title>
+      <link>https://eigenbaukombinat.de/nachlese-osterschmuck-cnc-gefrast/</link>
+      <pubDate>Wed, 03 Apr 2013 13:14:30 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/nachlese-osterschmuck-cnc-gefrast/</guid>
+      <description>Neben selbstgemachten Ostereientwürfen (abfotografiert und vektorisiert) haben wir auf unserer CNC-Fräse auch schon vorhandene Vorlagen ausgefräst. Außerdem hat die Dekupiersäge mal wieder ein paar neue Freunde gefunden.
+                     Die Fräse steht allen Mitgliedern zur Verfügung. Demnächst gibt es auch wieder einen Einführungskurs CNC-Fräsen für Mitglieder und Noch-nicht-Mitglieder. ;)
+Gäste können natürlich auch gern zu unseren Öffnungszeiten in der Werkstatt vorbeischauen.</description>
+    </item>
+    
+    <item>
+      <title>Kleine Aufbewahrungskisten</title>
+      <link>https://eigenbaukombinat.de/kleine-aufbewahrungskisten/</link>
+      <pubDate>Sat, 30 Mar 2013 01:14:23 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/kleine-aufbewahrungskisten/</guid>
+      <description>Vor langer Zeit habe ich einmal ein Script für QCad 2 geschrieben, welches mir, anhand zu übergebender Parameter, automatisch kleine Kisten mit Fingerzinkenverbindungen in beliebiger Größe erzeugt.**UPDATE 2018: **Da QCad2 nun mittlerweile veraltet ist, habe ich das Script in Python neu geschrieben und auf unseren Github-Account hochgeladen. Hier ist der Link: /github.com/Eigenbaukombinat/kistenmacher
+Diese Skizze muss ich dann mit Cut2D nur noch für die CNC-Fräse vorbereiten und auf geht&amp;rsquo;s. Ich habe das Script mal wieder ausgegraben und mit folgenden Daten gefüttert:</description>
+    </item>
+    
+    <item>
+      <title>Bauplatten Constructor</title>
+      <link>https://eigenbaukombinat.de/bauplatten-constructor/</link>
+      <pubDate>Sat, 30 Mar 2013 01:03:29 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/bauplatten-constructor/</guid>
+      <description>Für das Baukastensystem &amp;ldquo;Constructor&amp;rdquo; hat man leider nie die richtigen Platten parat, oder es gibt sie in diversen Größen gar nicht. Daher: Schieblehre her, ein Teil ausgemessen, Plan gezeichnet und losgefräst!(DXF-Datei)
 Folgende Größen sind dabei herausgekommen: 12x2, 12x1, 6x6, 5x3, 4x4, 6x4, 8x2 und 8x1.
-Die Löcher haben 11mm Durchmesser, einen Abstand zueinander von 30mm und jeweils 15mm vom Lochmittelpunkt zur Randkante. Hier der fertige gefräste Bogen in 6.5mm Birke Multiplex.</description></item><item><title>Logos in Acrylglas fräsen</title><link>https://eigenbaukombinat.de/logos-in-acrylglas-frasen/</link><pubDate>Tue, 12 Mar 2013 13:00:17 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/logos-in-acrylglas-frasen/</guid><description>Um beleuchtete Acrylschilder selber herstellen zu können, haben wir uns gestern an das Fräsen von Acrylglas auf der CNC-Fräse gewagt. Wir haben einen Gravurstichel (60°, 0.5mm) eingespannt und dann das EBK-Logo in 4x4cm Größe gefräst. Technische Randbedingungen: 1800mm/min Verfahrgeschwindigkeit, Kress Frässpindel auf Stufe 4. Da die Ellipsen im Logo keine regulären Kreise sind, haben wir noch von G61 (exact stop) auf G64 umgeschaltet, damit der Fräser nicht zu lange an einer Stelle steht, da die Ellipsenelemente im von Cut2D erzeugten GCode aus einzelnen Linien bestehen.</description></item><item><title>Motorbefestigung (Motormount) für X525 Quadcopter aus der CNC Fräse</title><link>https://eigenbaukombinat.de/motorbefestigung-motormount-fur-x525-quadcopter-aus-der-cnc-frase/</link><pubDate>Thu, 14 Feb 2013 20:13:39 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/motorbefestigung-motormount-fur-x525-quadcopter-aus-der-cnc-frase/</guid><description>Leider war eine der Motorbefestigungen meines X525 Quadcopter Rahmens bei einer unsanften Landung gebrochen. Ersatzteile kann man nur aus China bestellen, was leider 3-8 Wochen dauert, oder in Deutschland zu absolut überhöhten Preisen kaufen.
+Die Löcher haben 11mm Durchmesser, einen Abstand zueinander von 30mm und jeweils 15mm vom Lochmittelpunkt zur Randkante. Hier der fertige gefräste Bogen in 6.5mm Birke Multiplex.</description>
+    </item>
+    
+    <item>
+      <title>Logos in Acrylglas fräsen</title>
+      <link>https://eigenbaukombinat.de/logos-in-acrylglas-frasen/</link>
+      <pubDate>Tue, 12 Mar 2013 13:00:17 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/logos-in-acrylglas-frasen/</guid>
+      <description>Um beleuchtete Acrylschilder selber herstellen zu können, haben wir uns gestern an das Fräsen von Acrylglas auf der CNC-Fräse gewagt. Wir haben einen Gravurstichel (60°, 0.5mm) eingespannt und dann das EBK-Logo in 4x4cm Größe gefräst. Technische Randbedingungen: 1800mm/min Verfahrgeschwindigkeit, Kress Frässpindel auf Stufe 4. Da die Ellipsen im Logo keine regulären Kreise sind, haben wir noch von G61 (exact stop) auf G64 umgeschaltet, damit der Fräser nicht zu lange an einer Stelle steht, da die Ellipsenelemente im von Cut2D erzeugten GCode aus einzelnen Linien bestehen.</description>
+    </item>
+    
+    <item>
+      <title>Motorbefestigung (Motormount) für X525 Quadcopter aus der CNC Fräse</title>
+      <link>https://eigenbaukombinat.de/motorbefestigung-motormount-fur-x525-quadcopter-aus-der-cnc-frase/</link>
+      <pubDate>Thu, 14 Feb 2013 20:13:39 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/motorbefestigung-motormount-fur-x525-quadcopter-aus-der-cnc-frase/</guid>
+      <description>Leider war eine der Motorbefestigungen meines X525 Quadcopter Rahmens bei einer unsanften Landung gebrochen. Ersatzteile kann man nur aus China bestellen, was leider 3-8 Wochen dauert, oder in Deutschland zu absolut überhöhten Preisen kaufen.
 [caption id=&amp;ldquo;attachment_1185&amp;rdquo; align=&amp;ldquo;aligncenter&amp;rdquo; width=&amp;ldquo;300&amp;rdquo;] Die gebrochene Motorbefestigung.[/caption]
 Also musste schnell Abhilfe geschaffen werden, damit ich am Wochenende wieder fliegen kann.Die Lösung: 4mm Flugzeugsperrholz, Robertos CNC Geschick und ca. 1 Stunde Aufwand.
-Damit die Konstruktion schnell geht (und weil mir die originalen Halter nicht gefallen) haben wir die Form ein wenig abgeändert und vereinfacht.</description></item><item><title> Murmel-Balancier-Labyrinth</title><link>https://eigenbaukombinat.de/murmel-balancier-labyrinth/</link><pubDate>Sun, 02 Dec 2012 02:33:25 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/murmel-balancier-labyrinth/</guid><description>Ein beliebtes und tolles Spielzeug: Ein Murmel-Balancier-Labyrinth. Die Aufgabe ist es die Kugel von einem Ende zum anderen zu balancieren, ohne dass sie herunterfällt. Um den Schwierigkeitsgrad zu erhöhen kann man schrittweise immer größere Kugeln verwenden. Bei der aktuellen Bahn hab ich mich von einer existierenden Versionen inspirieren lassen, aber man kann den Bahnverlauf ja völlig frei gestalten.
-Aktuell habe ich noch eine Version mit ineinander verwobenen Kreisen in der Planung, aber dazu später mehr.</description></item><item><title>Solitär (Brettspiel)</title><link>https://eigenbaukombinat.de/solitar-brettspiel/</link><pubDate>Sun, 02 Dec 2012 02:27:30 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/solitar-brettspiel/</guid><description>Es gibt viele verschiedene Varianten des Brettspieles Solitär (siehe Wikipedia). Die bekannteste ist die des englischen Standardbrettes als Kreuz mit 33 Feldern.Aber auch die anderen Varianten wie Diamant und Pyramide haben ihren Reiz.Deshalb habe ich verschiedene Bretter angefertigt, jeweils aus 12mm Birke Multiplex CNC-gefräst, anschließend farbig gebeizt und mit Hartwachsöl behandelt.
-Die Löcher und Außenbahnen wurden mit einem 8mm Radienfräser gefertigt. Aus dem Spiel entfernte Kugeln kann man auf dem Rand ablegen.</description></item><item><title>Puppenmöbel - Eine Schubladenstudie</title><link>https://eigenbaukombinat.de/puppenmobel-eine-schubladenstudie/</link><pubDate>Sat, 02 Jun 2012 01:35:36 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/puppenmobel-eine-schubladenstudie/</guid><description>Puppenmöbel sind ja immer sehr interessant, weil man die Design- und Entwurfsfreiheiten wie bei richtigen Möbeln hat, aber nicht den Materialeinsatz zu scheuen braucht.
+Damit die Konstruktion schnell geht (und weil mir die originalen Halter nicht gefallen) haben wir die Form ein wenig abgeändert und vereinfacht.</description>
+    </item>
+    
+    <item>
+      <title> Murmel-Balancier-Labyrinth</title>
+      <link>https://eigenbaukombinat.de/murmel-balancier-labyrinth/</link>
+      <pubDate>Sun, 02 Dec 2012 02:33:25 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/murmel-balancier-labyrinth/</guid>
+      <description>Ein beliebtes und tolles Spielzeug: Ein Murmel-Balancier-Labyrinth. Die Aufgabe ist es die Kugel von einem Ende zum anderen zu balancieren, ohne dass sie herunterfällt. Um den Schwierigkeitsgrad zu erhöhen kann man schrittweise immer größere Kugeln verwenden. Bei der aktuellen Bahn hab ich mich von einer existierenden Versionen inspirieren lassen, aber man kann den Bahnverlauf ja völlig frei gestalten.
+Aktuell habe ich noch eine Version mit ineinander verwobenen Kreisen in der Planung, aber dazu später mehr.</description>
+    </item>
+    
+    <item>
+      <title>Solitär (Brettspiel)</title>
+      <link>https://eigenbaukombinat.de/solitar-brettspiel/</link>
+      <pubDate>Sun, 02 Dec 2012 02:27:30 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/solitar-brettspiel/</guid>
+      <description>Es gibt viele verschiedene Varianten des Brettspieles Solitär (siehe Wikipedia). Die bekannteste ist die des englischen Standardbrettes als Kreuz mit 33 Feldern.Aber auch die anderen Varianten wie Diamant und Pyramide haben ihren Reiz.Deshalb habe ich verschiedene Bretter angefertigt, jeweils aus 12mm Birke Multiplex CNC-gefräst, anschließend farbig gebeizt und mit Hartwachsöl behandelt.
+Die Löcher und Außenbahnen wurden mit einem 8mm Radienfräser gefertigt. Aus dem Spiel entfernte Kugeln kann man auf dem Rand ablegen.</description>
+    </item>
+    
+    <item>
+      <title>Puppenmöbel - Eine Schubladenstudie</title>
+      <link>https://eigenbaukombinat.de/puppenmobel-eine-schubladenstudie/</link>
+      <pubDate>Sat, 02 Jun 2012 01:35:36 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/puppenmobel-eine-schubladenstudie/</guid>
+      <description>Puppenmöbel sind ja immer sehr interessant, weil man die Design- und Entwurfsfreiheiten wie bei richtigen Möbeln hat, aber nicht den Materialeinsatz zu scheuen braucht.
 Aus dem Grund habe ich testweise eine kleine Schublade aus 5 Einzelteilen konstruiert, die einfach zusammengeklebt werden kann. Der passende Schrank dazu, sowie weitere Schubladen, fehlen noch.Einfache Teile lassen sich sehr leicht als Bausatz zum Zusammenstecken realisieren.
-Material: 4mm Pappelsperrholz, Fräser 2mm. Man sieht auch gut die Aussparungen in den Ecken, da der runde Fräser ja keine eckigen Ecken schneiden kann.</description></item><item><title>Fraktale Geometrie: Die Gosper-Kurve</title><link>https://eigenbaukombinat.de/fraktale-geometrie-die-gosper-kurve/</link><pubDate>Wed, 02 May 2012 01:38:26 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/fraktale-geometrie-die-gosper-kurve/</guid><description>Die Gosper-Kurve ist ein sehr hübsches Fraktal &amp;hellip;
+Material: 4mm Pappelsperrholz, Fräser 2mm. Man sieht auch gut die Aussparungen in den Ecken, da der runde Fräser ja keine eckigen Ecken schneiden kann.</description>
+    </item>
+    
+    <item>
+      <title>Fraktale Geometrie: Die Gosper-Kurve</title>
+      <link>https://eigenbaukombinat.de/fraktale-geometrie-die-gosper-kurve/</link>
+      <pubDate>Wed, 02 May 2012 01:38:26 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/fraktale-geometrie-die-gosper-kurve/</guid>
+      <description>Die Gosper-Kurve ist ein sehr hübsches Fraktal &amp;hellip;
 &amp;hellip; aus dem man auch prima Puzzleteile machen kann (manche verwenden diese sogar als Untersetzer für Getränke, habe ich gehört). Eine passende Aufbewahrung mit geeigneter Innenform steht noch aus.
-Material: 2mm Flugzeugsperrholz, ich glaub mit einem 2mm Fräser gefräst. Bedingt durch den Fräserradius gibt es trotz sorgfältiger Puzzelei noch ein paar kleine Lücken.</description></item><item><title>3D-Kugellabyrinth</title><link>https://eigenbaukombinat.de/3d-kugellabyrinth/</link><pubDate>Fri, 02 Mar 2012 15:12:26 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/3d-kugellabyrinth/</guid><description>Dieses Labyrinth hat zwei Öffnungen für eine 15mm Holzkugel: Die eine zum Einwerfen der Kugel, die andere zum Entnehmen. Jetzt besteht die Aufgabe darin, die Kugel nach Einwurf von der einen Seite des Labyrinthes auf die andere Seite zu bringen.Insgesamt hat dieser 3^3^3 Würfel also 27 Kammern und nur einen Weg der zum Ziel führt (sowie diverse Irrwege und Sackgassen). Das Gemeine ist, dass man schnell die Orientierung verliert wo oben und unten ist, und man nicht sehen kann, durch welche Durchgänge die Kugel passt, und durch welche nicht.</description></item></channel></rss>
+             Material: 2mm Flugzeugsperrholz, ich glaub mit einem 2mm Fräser gefräst. Bedingt durch den Fräserradius gibt es trotz sorgfältiger Puzzelei noch ein paar kleine Lücken.</description>
+    </item>
+    
+    <item>
+      <title>3D-Kugellabyrinth</title>
+      <link>https://eigenbaukombinat.de/3d-kugellabyrinth/</link>
+      <pubDate>Fri, 02 Mar 2012 15:12:26 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/3d-kugellabyrinth/</guid>
+      <description>Dieses Labyrinth hat zwei Öffnungen für eine 15mm Holzkugel: Die eine zum Einwerfen der Kugel, die andere zum Entnehmen. Jetzt besteht die Aufgabe darin, die Kugel nach Einwurf von der einen Seite des Labyrinthes auf die andere Seite zu bringen.Insgesamt hat dieser 3^3^3 Würfel also 27 Kammern und nur einen Weg der zum Ziel führt (sowie diverse Irrwege und Sackgassen). Das Gemeine ist, dass man schnell die Orientierung verliert wo oben und unten ist, und man nicht sehen kann, durch welche Durchgänge die Kugel passt, und durch welche nicht.</description>
+    </item>
+    
+  </channel>
+</rss>

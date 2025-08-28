@@ -1,1 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>CNC-Fräse on Eigenbau​kombinat</title><link>https://eigenbaukombinat.de/categories/cnc-fr%C3%A4se/</link><description>Recent content in CNC-Fräse on Eigenbau​kombinat</description><generator>Hugo -- gohugo.io</generator><managingEditor>kontakt@eigenbaukombinat.de (EBK Impressum)</managingEditor><webMaster>kontakt@eigenbaukombinat.de (EBK Impressum)</webMaster><lastBuildDate>Mon, 03 Aug 2020 08:24:59 +0000</lastBuildDate><atom:link href="https://eigenbaukombinat.de/categories/cnc-fr%C3%A4se/index.xml" rel="self" type="application/rss+xml"/><item><title>Neue Spannpratzen für die CNC-Fräse</title><link>https://eigenbaukombinat.de/neue-spannpratzen-fuer-die-cnc-fraese/</link><pubDate>Mon, 03 Aug 2020 08:24:59 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/neue-spannpratzen-fuer-die-cnc-fraese/</guid><description>&lt;p>Unsere Holz-CNC-Fräse hat jetzt neue selbst entwickelte Spannpratzen zum fixieren des Werkstücks bekommen. Der Vorteil dieser Neuentwicklung ist, dass die Spannpratze nur noch aus einer Baugruppe besteht und mit wenig Kraft festgezogen werden kann. Die Kunststoffteile wurden einfach mit unserem Prusa MK2S 3D-Drucker gedruckt und die Schrauben und Muttern sind Normteile, die in jedem Baumarkt erhältlich sind. Daher lassen sich die Spannpratzen einfach und günstig herstellen und reparieren.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CNC-Fräse on Eigenbau​kombinat</title>
+    <link>https://eigenbaukombinat.de/categories/cnc-fr%C3%A4se/</link>
+    <description>Recent content in CNC-Fräse on Eigenbau​kombinat</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>kontakt@eigenbaukombinat.de (EBK Impressum)</managingEditor>
+    <webMaster>kontakt@eigenbaukombinat.de (EBK Impressum)</webMaster>
+    <lastBuildDate>Mon, 03 Aug 2020 08:24:59 +0000</lastBuildDate><atom:link href="https://eigenbaukombinat.de/categories/cnc-fr%C3%A4se/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neue Spannpratzen für die CNC-Fräse</title>
+      <link>https://eigenbaukombinat.de/neue-spannpratzen-fuer-die-cnc-fraese/</link>
+      <pubDate>Mon, 03 Aug 2020 08:24:59 +0000</pubDate>
+      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
+      <guid>https://eigenbaukombinat.de/neue-spannpratzen-fuer-die-cnc-fraese/</guid>
+      <description>&lt;p&gt;Unsere Holz-CNC-Fräse hat jetzt neue selbst entwickelte Spannpratzen zum fixieren des Werkstücks bekommen. Der Vorteil dieser Neuentwicklung ist, dass die Spannpratze nur noch aus einer Baugruppe besteht und mit wenig Kraft festgezogen werden kann. Die Kunststoffteile wurden einfach mit unserem Prusa MK2S 3D-Drucker gedruckt und die Schrauben und Muttern sind Normteile,  die in jedem Baumarkt erhältlich sind. Daher lassen sich die Spannpratzen einfach und günstig herstellen und reparieren.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
