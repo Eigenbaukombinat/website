@@ -1,22 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>FSFE on Eigenbau​kombinat</title>
-    <link>https://eigenbaukombinat.de/tags/fsfe/</link>
-    <description>Recent content in FSFE on Eigenbau​kombinat</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>kontakt@eigenbaukombinat.de (EBK Impressum)</managingEditor>
-    <webMaster>kontakt@eigenbaukombinat.de (EBK Impressum)</webMaster>
-    <lastBuildDate>Tue, 28 Nov 2017 17:28:35 +0000</lastBuildDate><atom:link href="https://eigenbaukombinat.de/tags/fsfe/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Vortrag: Public money, public code</title>
-      <link>https://eigenbaukombinat.de/public-money-public-code/</link>
-      <pubDate>Tue, 28 Nov 2017 17:28:35 +0000</pubDate>
-      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
-      <guid>https://eigenbaukombinat.de/public-money-public-code/</guid>
-      <description>Am 7.12 ab 19:00 Uhr besucht uns Erik Albers von der Free Software Foundation Europe und stellt die Initiative &amp;ldquo;Public money, public code&amp;rdquo; im Rahmen eines Vortrages vor.
-Staat und Verwaltung haben im Rahmen der Digitalisierung ihrer Aufgaben einen stetig wachsenden Bedarf an Daten und Anwendungsprogrammen zur Verarbeitung dieser Daten. Auch stellt die Bereitstellung von Diensten für die Bürger und Unternehmen die öffentlichen Stellen vor ganz neuen Heraus- und Anforderung. Der Vortrag und die sich vielleicht danach entspinnende Diskussion wird sich darum drehen, wie diese (softwareseitigen) Probleme nachhaltig gelöst werden könnten.</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>FSFE on Eigenbau​kombinat</title><link>https://eigenbaukombinat.de/tags/fsfe/</link><description>Recent content in FSFE on Eigenbau​kombinat</description><generator>Hugo -- gohugo.io</generator><managingEditor>kontakt@eigenbaukombinat.de (EBK Impressum)</managingEditor><webMaster>kontakt@eigenbaukombinat.de (EBK Impressum)</webMaster><lastBuildDate>Tue, 28 Nov 2017 17:28:35 +0000</lastBuildDate><atom:link href="https://eigenbaukombinat.de/tags/fsfe/index.xml" rel="self" type="application/rss+xml"/><item><title>Vortrag: Public money, public code</title><link>https://eigenbaukombinat.de/public-money-public-code/</link><pubDate>Tue, 28 Nov 2017 17:28:35 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/public-money-public-code/</guid><description>Am 7.12 ab 19:00 Uhr besucht uns Erik Albers von der Free Software Foundation Europe und stellt die Initiative &amp;ldquo;Public money, public code&amp;rdquo; im Rahmen eines Vortrages vor.
+Staat und Verwaltung haben im Rahmen der Digitalisierung ihrer Aufgaben einen stetig wachsenden Bedarf an Daten und Anwendungsprogrammen zur Verarbeitung dieser Daten. Auch stellt die Bereitstellung von Diensten für die Bürger und Unternehmen die öffentlichen Stellen vor ganz neuen Heraus- und Anforderung. Der Vortrag und die sich vielleicht danach entspinnende Diskussion wird sich darum drehen, wie diese (softwareseitigen) Probleme nachhaltig gelöst werden könnten.</description></item></channel></rss>

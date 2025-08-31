@@ -1,230 +1,34 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Laufende Projekte on Eigenbau​kombinat</title>
-    <link>https://eigenbaukombinat.de/categories/laufende-projekte/</link>
-    <description>Recent content in Laufende Projekte on Eigenbau​kombinat</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>kontakt@eigenbaukombinat.de (EBK Impressum)</managingEditor>
-    <webMaster>kontakt@eigenbaukombinat.de (EBK Impressum)</webMaster>
-    <lastBuildDate>Mon, 04 May 2020 16:10:12 +0000</lastBuildDate><atom:link href="https://eigenbaukombinat.de/categories/laufende-projekte/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Starten im &#39;Jarten</title>
-      <link>https://eigenbaukombinat.de/starten-im-jarten/</link>
-      <pubDate>Mon, 04 May 2020 16:10:12 +0000</pubDate>
-      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
-      <guid>https://eigenbaukombinat.de/starten-im-jarten/</guid>
-      <description>Der Winter hat seine Spuren hinterlassen, nun ist es an der Zeit unserem Garten wieder zu neuer Schönheit zu verhelfen. Anbei eine erste Bestandsaufnahme, für alle, die ihn schon vermissen.
-                             Folgende Ideen wandern gerade im Kopf herum:
- die grüne, vermoderte Sitzbank wieder mit neuem Holz versehen den Komposter entleeren (Frühbeet?</description>
-    </item>
-    
-    <item>
-      <title>Koch- und Kennenlernabend im Mai: Kraut und Kräuter</title>
-      <link>https://eigenbaukombinat.de/koch-und-kennenlernabend-im-mai-kraut-und-kraeuter/</link>
-      <pubDate>Sun, 12 May 2019 13:00:28 +0000</pubDate>
-      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
-      <guid>https://eigenbaukombinat.de/koch-und-kennenlernabend-im-mai-kraut-und-kraeuter/</guid>
-      <description>Auch im Mai wollen wir wieder gemeinsam kochen und dabei ins Gespräch kommen. Diesmal geht es am Freitag, 17.05.2019, an die Kochtöpfe. Start wie immer gegen 19h.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Laufende Projekte on Eigenbau​kombinat</title><link>https://eigenbaukombinat.de/categories/laufende-projekte/</link><description>Recent content in Laufende Projekte on Eigenbau​kombinat</description><generator>Hugo -- gohugo.io</generator><managingEditor>kontakt@eigenbaukombinat.de (EBK Impressum)</managingEditor><webMaster>kontakt@eigenbaukombinat.de (EBK Impressum)</webMaster><lastBuildDate>Mon, 04 May 2020 16:10:12 +0000</lastBuildDate><atom:link href="https://eigenbaukombinat.de/categories/laufende-projekte/index.xml" rel="self" type="application/rss+xml"/><item><title>Starten im 'Jarten</title><link>https://eigenbaukombinat.de/starten-im-jarten/</link><pubDate>Mon, 04 May 2020 16:10:12 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/starten-im-jarten/</guid><description>Der Winter hat seine Spuren hinterlassen, nun ist es an der Zeit unserem Garten wieder zu neuer Schönheit zu verhelfen. Anbei eine erste Bestandsaufnahme, für alle, die ihn schon vermissen.
+Folgende Ideen wandern gerade im Kopf herum:
+die grüne, vermoderte Sitzbank wieder mit neuem Holz versehen den Komposter entleeren (Frühbeet?</description></item><item><title>Koch- und Kennenlernabend im Mai: Kraut und Kräuter</title><link>https://eigenbaukombinat.de/koch-und-kennenlernabend-im-mai-kraut-und-kraeuter/</link><pubDate>Sun, 12 May 2019 13:00:28 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/koch-und-kennenlernabend-im-mai-kraut-und-kraeuter/</guid><description>Auch im Mai wollen wir wieder gemeinsam kochen und dabei ins Gespräch kommen. Diesmal geht es am Freitag, 17.05.2019, an die Kochtöpfe. Start wie immer gegen 19h.
 Update II: Entfällt leider komplett
 Update: Wegen geringer Rückmeldung werden wir uns nur der Krautsuppe widmen. Ob dadurch Außerirdische mit einem seltsamen Dialekt und lustiger Mütze angelockt werden, wird sich wohl noch zeigen müssen.
-Diesmal wollen wir uns mit Krautsuppe, Kartoffeln mit Senfsoße und Salat + Nachtisch aus Kräutern beschäftigen.</description>
-    </item>
-    
-    <item>
-      <title>Feinstaubwerte zum Jahreswechsel 2018/2019</title>
-      <link>https://eigenbaukombinat.de/feinstaubwerte-zum-jahreswechsel-2018-2019/</link>
-      <pubDate>Sun, 06 Jan 2019 16:24:18 +0000</pubDate>
-      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
-      <guid>https://eigenbaukombinat.de/feinstaubwerte-zum-jahreswechsel-2018-2019/</guid>
-      <description>Wie jedes Jahr ist der starke Anstieg der Feinstaubwerte besonders zum Jahreswechsel zu sehen. Der Feuerwerksqualm welcher größtenteils aus Feinstaub der Größe PM10 (Particulate Matter, Staubteilchen mit einem Durchmesser von ca. 10µm) besteht tritt hier besonders hervor. Um so kleiner die Feinstaubpartikel sind um so größer ist die Gesundheitsgefährdung insbesondere in Ballungszentren.
-Da auch das Eigenbaukombinat Halle e.V. wie auch viele Mitglieder einen Feinstaubsensor Nova PM Sensor SDS011 verwenden und sich am OpenData/Citizen Science-Projekt Luftdaten.</description>
-    </item>
-    
-    <item>
-      <title>Recycling: Jeans -&gt; Sporttasche</title>
-      <link>https://eigenbaukombinat.de/recycling-jeans-sporttasche/</link>
-      <pubDate>Mon, 27 Jul 2015 09:58:43 +0000</pubDate>
-      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
-      <guid>https://eigenbaukombinat.de/recycling-jeans-sporttasche/</guid>
-      <description>Meine Tochter braucht eine neue Sporttasche für die Schule. Nachdem eine Shoppingtour keinen Erfolg brachte, wollte ich es selbst versuchen.
+Diesmal wollen wir uns mit Krautsuppe, Kartoffeln mit Senfsoße und Salat + Nachtisch aus Kräutern beschäftigen.</description></item><item><title>Feinstaubwerte zum Jahreswechsel 2018/2019</title><link>https://eigenbaukombinat.de/feinstaubwerte-zum-jahreswechsel-2018-2019/</link><pubDate>Sun, 06 Jan 2019 16:24:18 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/feinstaubwerte-zum-jahreswechsel-2018-2019/</guid><description>Wie jedes Jahr ist der starke Anstieg der Feinstaubwerte besonders zum Jahreswechsel zu sehen. Der Feuerwerksqualm welcher größtenteils aus Feinstaub der Größe PM10 (Particulate Matter, Staubteilchen mit einem Durchmesser von ca. 10µm) besteht tritt hier besonders hervor. Um so kleiner die Feinstaubpartikel sind um so größer ist die Gesundheitsgefährdung insbesondere in Ballungszentren.
+Da auch das Eigenbaukombinat Halle e.V. wie auch viele Mitglieder einen Feinstaubsensor Nova PM Sensor SDS011 verwenden und sich am OpenData/Citizen Science-Projekt Luftdaten.</description></item><item><title>Recycling: Jeans -> Sporttasche</title><link>https://eigenbaukombinat.de/recycling-jeans-sporttasche/</link><pubDate>Mon, 27 Jul 2015 09:58:43 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/recycling-jeans-sporttasche/</guid><description>Meine Tochter braucht eine neue Sporttasche für die Schule. Nachdem eine Shoppingtour keinen Erfolg brachte, wollte ich es selbst versuchen.
 Dazu habe ich meine alte schwarze Jeans ausgewaidet:
-
-Die breiten Beinhinterseiten sollen die Seiten der Tasche werden, die schmaleren Vorderseiten werden die Unter- und Oberseite. Alle Teile werden auf die richtigen Maße zugeschnitten. Die Gesamtgröße der Tasche ist (HBT): 20 cm x 36 cm x 13 cm. Die Zuschnitte sind also: einmal 13x36, zweimal 20x37 und für die Öffnung oben zwei Streifen mit 7.</description>
-    </item>
-    
-    <item>
-      <title>Schnappschüsse (4)</title>
-      <link>https://eigenbaukombinat.de/schnappschuesse-4/</link>
-      <pubDate>Tue, 26 May 2015 09:20:06 +0000</pubDate>
-      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
-      <guid>https://eigenbaukombinat.de/schnappschuesse-4/</guid>
-      <description>Nach längerer Pause meldet sich mal wieder die Rubrik &amp;ldquo;Schnappschüsse&amp;rdquo; zurück. Heute unter anderem eine Philips Videopac G7000 (&amp;ldquo;Odyssey²&amp;rdquo;), alten Stühlen und kreativer Resteverwertung!                                     </description>
-    </item>
-    
-    <item>
-      <title>Leimholzplatten selber herstellen</title>
-      <link>https://eigenbaukombinat.de/leimholzplatten-selber-herstellen/</link>
-      <pubDate>Mon, 14 Oct 2013 07:41:29 +0000</pubDate>
-      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
-      <guid>https://eigenbaukombinat.de/leimholzplatten-selber-herstellen/</guid>
-      <description>&amp;hellip; oder wie verleime ich Bretter zu einer großen Platte. Wenn man aus einzelnen Leisten oder Brettern mal eine größere Platte fertigen möchte, geht das relativ einfach mit der PLANO Verleimpresse. Dazu alle Kanten kurz mit dem Hobel abrichten, mit ordentlich Leim belegen und ab in die Presse damit: 
-Dann die Sterngriffe gut anziehen: 
-Dadurch werden die einzelnen Bretter von allen Seiten fest zusammengedrückt. 
-Nur Leim, der rausquillt, hält.</description>
-    </item>
-    
-    <item>
-      <title>Aufbau eines Tamiya TT-02 RC-Modellautos</title>
-      <link>https://eigenbaukombinat.de/aufbau-eines-tamiya-tt-02-rc-modellautos/</link>
-      <pubDate>Tue, 24 Sep 2013 12:56:11 +0000</pubDate>
-      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
-      <guid>https://eigenbaukombinat.de/aufbau-eines-tamiya-tt-02-rc-modellautos/</guid>
-      <description>Zur Verstärkung unseres Eigenbaukombinat Racing Teams musste ein neues RC-Auto her. Nachdem sich der Tamiya TT-01 mit ingesamt drei Exemplaren hier recht gut etabliert hatte, wollten wir nun dessen Nachfolger, den TT-02, zu unserem Fuhrpark hinzufügen. Der Bausatz zum TT-02 wird in ca. zwei Dutzend Tüten voll Schrauben, Plastik- und Metallteilen geliefert. Alle Kunststoffteile müssen aus den Spritzgussbögen herausgetrennt werden und die Haltepunkte mit Seitenschneider und Feile versäubert werden.
-Da wir nur einen Bausatz für das Chassis gekauft haben, benötigen wir noch die Reifen, die Elektronik und den Motor sowie einen Akku.</description>
-    </item>
-    
-    <item>
-      <title>Wir bauen aus - das Eigenbaukombinat bald auf 230m²</title>
-      <link>https://eigenbaukombinat.de/wir-bauen-aus-das-eigenbaukombinat-bald-auf-230m2/</link>
-      <pubDate>Thu, 15 Aug 2013 05:42:51 +0000</pubDate>
-      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
-      <guid>https://eigenbaukombinat.de/wir-bauen-aus-das-eigenbaukombinat-bald-auf-230m2/</guid>
-      <description>In den letzten 7 Monaten seit der Eröffnung Ende Januar haben wir ein steiles Wachstum an den Tag gelegt. Ca. 40 Mitglieder hat das Eigenbaukombinat inzwischen. Verschiedenste neue Interessen und Gewerke bereichern unser Portfolio: Dunkelkammer, Modellbau, Metallverarbeitung, Nähen, Handarbeiten&amp;hellip;
-Um diesem Wachstum gerecht zu werden und allen Mitgliedern vernünftige Arbeitsbedingungen bieten zu können haben wir beschlossen zu expandieren! Direkt neben unseren bisherigen Räumlichkeiten konnten wir 100 m² zusätzliche Fläche, verteilt auf drei Räume, anmieten.</description>
-    </item>
-    
-    <item>
-      <title>Eine CNC-Fräsabsaugung</title>
-      <link>https://eigenbaukombinat.de/eine-cnc-frasabsaugung/</link>
-      <pubDate>Sun, 30 Jun 2013 18:56:32 +0000</pubDate>
-      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
-      <guid>https://eigenbaukombinat.de/eine-cnc-frasabsaugung/</guid>
-      <description>Damit unsere große BZT-Fräse endlich auch den Dreck wegsaugen kann, den sie produziert, muss ein Absaugschuh her. Dafür habe ich folgenden Entwurf gefräst und zusammengebaut: 
-Als Material nahm ich diesmal 6.5mm BMPX, das aufgedoppelt wurde. Innen drin habe ich in beiden Unterschalenhälften eine Tasche von 4mm Tiefe ausgenommen, die als interner Luftschacht vom Staubsaugerschlauch zur Spannzange/Spindel dient. Die Halterung für den Staubsaugeranschluss (dunkelblau rechts im obigen Bild) habe ich 4fach ausgefräst und dann übereinander verleimt.</description>
-    </item>
-    
-    <item>
-      <title>Holzlieferung (1)</title>
-      <link>https://eigenbaukombinat.de/holzlieferung-die-erste/</link>
-      <pubDate>Tue, 18 Jun 2013 06:20:32 +0000</pubDate>
-      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
-      <guid>https://eigenbaukombinat.de/holzlieferung-die-erste/</guid>
-      <description>Gestern früh 10Uhr kam unserer erste große Holzbestellung an. Insgesamt mussten 800kg Platten, Bretter, Bohlen und Balken zersägt und ins Lager getragen werden. Das Highlight war eine 5m x 2,5m große 3-Schicht Lärchenplatte in 18mm.
-Durch den gemeinsamen Einkauf im Holz-Großhandel lässt sich gegenüber dem Einkauf im Baumarkt eine Menge Geld sparen. Mitglieder die bei der nächsten Holzbestellung etwas mitbestellten wollen melden sich bitte beim Vorstand.
-                     </description>
-    </item>
-    
-    <item>
-      <title>Schnappschüsse (3)</title>
-      <link>https://eigenbaukombinat.de/schnappschusse-3/</link>
-      <pubDate>Sat, 08 Jun 2013 17:26:54 +0000</pubDate>
-      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
-      <guid>https://eigenbaukombinat.de/schnappschusse-3/</guid>
-      <description>Mal wieder haben sich ein paar Schnappschüsse und Projekte angesammelt, für die es wohl keinen eigenen Beitrag geben wird, die wir Euch aber trotzdem nicht vorenthalten wollen.
-                                             </description>
-    </item>
-    
-    <item>
-      <title>Analoge Fotoentwicklung im EBK - unsere neue Dunkelkammer</title>
-      <link>https://eigenbaukombinat.de/analoge-fotoentwicklung-im-ebk-unsere-neue-dunkelkammer/</link>
-      <pubDate>Thu, 30 May 2013 18:53:07 +0000</pubDate>
-      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
-      <guid>https://eigenbaukombinat.de/analoge-fotoentwicklung-im-ebk-unsere-neue-dunkelkammer/</guid>
-      <description>Ab sofort steht unseren Mitgliedern ein neues Highlight zur Verfügung: Eine Dunkelkammer zur Analogfilmentwicklung.
+Die breiten Beinhinterseiten sollen die Seiten der Tasche werden, die schmaleren Vorderseiten werden die Unter- und Oberseite. Alle Teile werden auf die richtigen Maße zugeschnitten. Die Gesamtgröße der Tasche ist (HBT): 20 cm x 36 cm x 13 cm. Die Zuschnitte sind also: einmal 13x36, zweimal 20x37 und für die Öffnung oben zwei Streifen mit 7.</description></item><item><title>Schnappschüsse (4)</title><link>https://eigenbaukombinat.de/schnappschuesse-4/</link><pubDate>Tue, 26 May 2015 09:20:06 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/schnappschuesse-4/</guid><description>Nach längerer Pause meldet sich mal wieder die Rubrik &amp;ldquo;Schnappschüsse&amp;rdquo; zurück. Heute unter anderem eine Philips Videopac G7000 (&amp;ldquo;Odyssey²&amp;rdquo;), alten Stühlen und kreativer Resteverwertung!</description></item><item><title>Leimholzplatten selber herstellen</title><link>https://eigenbaukombinat.de/leimholzplatten-selber-herstellen/</link><pubDate>Mon, 14 Oct 2013 07:41:29 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/leimholzplatten-selber-herstellen/</guid><description>&amp;hellip; oder wie verleime ich Bretter zu einer großen Platte. Wenn man aus einzelnen Leisten oder Brettern mal eine größere Platte fertigen möchte, geht das relativ einfach mit der PLANO Verleimpresse. Dazu alle Kanten kurz mit dem Hobel abrichten, mit ordentlich Leim belegen und ab in die Presse damit:
+Dann die Sterngriffe gut anziehen:
+Dadurch werden die einzelnen Bretter von allen Seiten fest zusammengedrückt.
+Nur Leim, der rausquillt, hält.</description></item><item><title>Aufbau eines Tamiya TT-02 RC-Modellautos</title><link>https://eigenbaukombinat.de/aufbau-eines-tamiya-tt-02-rc-modellautos/</link><pubDate>Tue, 24 Sep 2013 12:56:11 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/aufbau-eines-tamiya-tt-02-rc-modellautos/</guid><description>Zur Verstärkung unseres Eigenbaukombinat Racing Teams musste ein neues RC-Auto her. Nachdem sich der Tamiya TT-01 mit ingesamt drei Exemplaren hier recht gut etabliert hatte, wollten wir nun dessen Nachfolger, den TT-02, zu unserem Fuhrpark hinzufügen. Der Bausatz zum TT-02 wird in ca. zwei Dutzend Tüten voll Schrauben, Plastik- und Metallteilen geliefert. Alle Kunststoffteile müssen aus den Spritzgussbögen herausgetrennt werden und die Haltepunkte mit Seitenschneider und Feile versäubert werden.
+Da wir nur einen Bausatz für das Chassis gekauft haben, benötigen wir noch die Reifen, die Elektronik und den Motor sowie einen Akku.</description></item><item><title>Wir bauen aus - das Eigenbaukombinat bald auf 230m²</title><link>https://eigenbaukombinat.de/wir-bauen-aus-das-eigenbaukombinat-bald-auf-230m2/</link><pubDate>Thu, 15 Aug 2013 05:42:51 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/wir-bauen-aus-das-eigenbaukombinat-bald-auf-230m2/</guid><description>In den letzten 7 Monaten seit der Eröffnung Ende Januar haben wir ein steiles Wachstum an den Tag gelegt. Ca. 40 Mitglieder hat das Eigenbaukombinat inzwischen. Verschiedenste neue Interessen und Gewerke bereichern unser Portfolio: Dunkelkammer, Modellbau, Metallverarbeitung, Nähen, Handarbeiten&amp;hellip;
+Um diesem Wachstum gerecht zu werden und allen Mitgliedern vernünftige Arbeitsbedingungen bieten zu können haben wir beschlossen zu expandieren! Direkt neben unseren bisherigen Räumlichkeiten konnten wir 100 m² zusätzliche Fläche, verteilt auf drei Räume, anmieten.</description></item><item><title>Eine CNC-Fräsabsaugung</title><link>https://eigenbaukombinat.de/eine-cnc-frasabsaugung/</link><pubDate>Sun, 30 Jun 2013 18:56:32 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/eine-cnc-frasabsaugung/</guid><description>Damit unsere große BZT-Fräse endlich auch den Dreck wegsaugen kann, den sie produziert, muss ein Absaugschuh her. Dafür habe ich folgenden Entwurf gefräst und zusammengebaut:
+Als Material nahm ich diesmal 6.5mm BMPX, das aufgedoppelt wurde. Innen drin habe ich in beiden Unterschalenhälften eine Tasche von 4mm Tiefe ausgenommen, die als interner Luftschacht vom Staubsaugerschlauch zur Spannzange/Spindel dient. Die Halterung für den Staubsaugeranschluss (dunkelblau rechts im obigen Bild) habe ich 4fach ausgefräst und dann übereinander verleimt.</description></item><item><title>Holzlieferung (1)</title><link>https://eigenbaukombinat.de/holzlieferung-die-erste/</link><pubDate>Tue, 18 Jun 2013 06:20:32 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/holzlieferung-die-erste/</guid><description>Gestern früh 10Uhr kam unserer erste große Holzbestellung an. Insgesamt mussten 800kg Platten, Bretter, Bohlen und Balken zersägt und ins Lager getragen werden. Das Highlight war eine 5m x 2,5m große 3-Schicht Lärchenplatte in 18mm.
+Durch den gemeinsamen Einkauf im Holz-Großhandel lässt sich gegenüber dem Einkauf im Baumarkt eine Menge Geld sparen. Mitglieder die bei der nächsten Holzbestellung etwas mitbestellten wollen melden sich bitte beim Vorstand.</description></item><item><title>Schnappschüsse (3)</title><link>https://eigenbaukombinat.de/schnappschusse-3/</link><pubDate>Sat, 08 Jun 2013 17:26:54 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/schnappschusse-3/</guid><description>Mal wieder haben sich ein paar Schnappschüsse und Projekte angesammelt, für die es wohl keinen eigenen Beitrag geben wird, die wir Euch aber trotzdem nicht vorenthalten wollen.</description></item><item><title>Analoge Fotoentwicklung im EBK - unsere neue Dunkelkammer</title><link>https://eigenbaukombinat.de/analoge-fotoentwicklung-im-ebk-unsere-neue-dunkelkammer/</link><pubDate>Thu, 30 May 2013 18:53:07 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/analoge-fotoentwicklung-im-ebk-unsere-neue-dunkelkammer/</guid><description>Ab sofort steht unseren Mitgliedern ein neues Highlight zur Verfügung: Eine Dunkelkammer zur Analogfilmentwicklung.
 An Equipment ist alles für den Negativ- und den Positivprozess in Schwarz /Weiß vorhanden.
 Für den Positivprozess sind insgesamt 4 Vergrößerer vorhanden. (Durst M601, Durst M301, sowie zwei weitere) Darüberhinaus ist natürlich auch das benötigte Zubehör vorhanden: Entwicklerschalen, Zangen, Dunkelkammerlampen in rot und gelb, zwei Trockenpressen, Zeitmesser, diverse Objektive für die Vergrößerer, &amp;hellip;
-Für den Negativprozess sind JOBO- und Rondinax Dosen vorhanden.</description>
-    </item>
-    
-    <item>
-      <title>TROFAST-Regale für die Werkstatt (Update)</title>
-      <link>https://eigenbaukombinat.de/trofast-regale-fur-die-werkstatt/</link>
-      <pubDate>Thu, 18 Apr 2013 12:25:51 +0000</pubDate>
-      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
-      <guid>https://eigenbaukombinat.de/trofast-regale-fur-die-werkstatt/</guid>
-      <description>ZUGESCHAUT UND MITGEBAUT
+Für den Negativprozess sind JOBO- und Rondinax Dosen vorhanden.</description></item><item><title>TROFAST-Regale für die Werkstatt (Update)</title><link>https://eigenbaukombinat.de/trofast-regale-fur-die-werkstatt/</link><pubDate>Thu, 18 Apr 2013 12:25:51 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/trofast-regale-fur-die-werkstatt/</guid><description>ZUGESCHAUT UND MITGEBAUT
 In unserer Werkstatt hat sich bereits eine beträchtliche Anzahl an Trofastkisten zur Aufbewahrung von Maschinen und Material eingefunden. Daher wollen wir in den nächsten Tagen nochmal sechs zugehörige Regale zur Aufbewahrung in ca. 180cm Höhe bauen. (UPDATE Zuschnitt und Fräsen der Nuten sind erledigt.)
-Als Material haben wir uns für OSB in 18mm entschieden, der Klassiker in Werkstätten. Fichte Leimholz wäre auch möglich gewesen, aber da sind die günstigen Platten leider selten sehr gerade.</description>
-    </item>
-    
-    <item>
-      <title>Aufbewahrung für Bohrer</title>
-      <link>https://eigenbaukombinat.de/aufbewahrung-fur-bohrer/</link>
-      <pubDate>Wed, 17 Apr 2013 07:53:48 +0000</pubDate>
-      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
-      <guid>https://eigenbaukombinat.de/aufbewahrung-fur-bohrer/</guid>
-      <description>Zur Aufbewahrung unserer Bohrer wurde die folgende Aufbewahrungsplatte gebaut. Der Vorteil zu herkömmlichen Bohrersortimentkästen besteht darin, dass mehrere Bohrer der gleichen Größe übersichtlich in einer Reihe hintereinander angeordnet und verstaut werden können. Die Maße der Aufbewahrungsplatte entspricht den Regalböden der IKEA Trofastregale.
-         </description>
-    </item>
-    
-    <item>
-      <title>Schnappschüsse (1)</title>
-      <link>https://eigenbaukombinat.de/schnappschusse-1/</link>
-      <pubDate>Thu, 28 Feb 2013 22:49:14 +0000</pubDate>
-      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
-      <guid>https://eigenbaukombinat.de/schnappschusse-1/</guid>
-      <description>Hier ein paar Schnappschüsse aus aktuellen Projekten.
-                         </description>
-    </item>
-    
-    <item>
-      <title>EHHA Rev. A - Vorverstärker/Kopfhörerverstärker - Teil I</title>
-      <link>https://eigenbaukombinat.de/ehha-rev-a-vorverstarkerkopfhorerverstarker-teil-i/</link>
-      <pubDate>Wed, 27 Feb 2013 14:43:00 +0000</pubDate>
-      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
-      <guid>https://eigenbaukombinat.de/ehha-rev-a-vorverstarkerkopfhorerverstarker-teil-i/</guid>
-      <description>An dieser Stelle möchte ich mein aktuelles Langzeitprojekt vorstellen:
+Als Material haben wir uns für OSB in 18mm entschieden, der Klassiker in Werkstätten. Fichte Leimholz wäre auch möglich gewesen, aber da sind die günstigen Platten leider selten sehr gerade.</description></item><item><title>Aufbewahrung für Bohrer</title><link>https://eigenbaukombinat.de/aufbewahrung-fur-bohrer/</link><pubDate>Wed, 17 Apr 2013 07:53:48 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/aufbewahrung-fur-bohrer/</guid><description>Zur Aufbewahrung unserer Bohrer wurde die folgende Aufbewahrungsplatte gebaut. Der Vorteil zu herkömmlichen Bohrersortimentkästen besteht darin, dass mehrere Bohrer der gleichen Größe übersichtlich in einer Reihe hintereinander angeordnet und verstaut werden können. Die Maße der Aufbewahrungsplatte entspricht den Regalböden der IKEA Trofastregale.</description></item><item><title>Schnappschüsse (1)</title><link>https://eigenbaukombinat.de/schnappschusse-1/</link><pubDate>Thu, 28 Feb 2013 22:49:14 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/schnappschusse-1/</guid><description>Hier ein paar Schnappschüsse aus aktuellen Projekten.</description></item><item><title>EHHA Rev. A - Vorverstärker/Kopfhörerverstärker - Teil I</title><link>https://eigenbaukombinat.de/ehha-rev-a-vorverstarkerkopfhorerverstarker-teil-i/</link><pubDate>Wed, 27 Feb 2013 14:43:00 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/ehha-rev-a-vorverstarkerkopfhorerverstarker-teil-i/</guid><description>An dieser Stelle möchte ich mein aktuelles Langzeitprojekt vorstellen:
 Einen neuen Vorverstärker für meine Anlage am Schreibtisch, der gleichzeitig auch als Kopfhörerverstärker dient (bzw. ist es eigentlich andersrum ;-) )
 Als vor einiger Zeit Alex Cavalli eine Neuauflage seines beliebten EHHA Kopfhörerverstärkers ankündigte, war ich sofort angefixt - ich habe bereits drei seiner Designs aufgebaut und jedes Mal viel Spaß gehabt.
 Aber beginnen wir von vorn..
-1. Der Verstärker selbst:</description>
-    </item>
-    
-    <item>
-      <title>Pennypusher /Münzschieber - Teil 1: Idee und Prototyp</title>
-      <link>https://eigenbaukombinat.de/pennypusher-munzschieber-teil-1-idee-und-prototyp/</link>
-      <pubDate>Sun, 10 Feb 2013 14:08:30 +0000</pubDate>
-      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
-      <guid>https://eigenbaukombinat.de/pennypusher-munzschieber-teil-1-idee-und-prototyp/</guid>
-      <description>Ziel des Projektes ist es einen Pennypusher (auch bekannt als Coin Pusher oder Münzschieber) zu bauen. Die Dokumentation wird sich über mehrere Beiträge aufteilen. In diesem soll das Projekt erläutert werden.
+1. Der Verstärker selbst:</description></item><item><title>Pennypusher /Münzschieber - Teil 1: Idee und Prototyp</title><link>https://eigenbaukombinat.de/pennypusher-munzschieber-teil-1-idee-und-prototyp/</link><pubDate>Sun, 10 Feb 2013 14:08:30 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/pennypusher-munzschieber-teil-1-idee-und-prototyp/</guid><description>Ziel des Projektes ist es einen Pennypusher (auch bekannt als Coin Pusher oder Münzschieber) zu bauen. Die Dokumentation wird sich über mehrere Beiträge aufteilen. In diesem soll das Projekt erläutert werden.
 Für die, die sich unter einem Pennypusher nichts vorstellen können, hier ein kleiner link: https://vimeo.com/29833767
 Das Projekt teilt sich in drei Teile:
 1. Die Holzarbeiten
-Das Gehäuse und auch die beweglichen Teile sollen aus Multiplex und MDF Holz gefertigt werden.</description>
-    </item>
-    
-    <item>
-      <title>Arcade Cabinet mit MAME (2)</title>
-      <link>https://eigenbaukombinat.de/arcade-cabinet-mit-mame-2/</link>
-      <pubDate>Sat, 09 Feb 2013 15:11:09 +0000</pubDate>
-      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
-      <guid>https://eigenbaukombinat.de/arcade-cabinet-mit-mame-2/</guid>
-      <description>So, jetzt wird es etwas konkreter. Wir werden eine Couchtischversion bauen für insgesamt 4 Spieler. Zur Ideen-Anregung: BILD BILD BILD BILD
+Das Gehäuse und auch die beweglichen Teile sollen aus Multiplex und MDF Holz gefertigt werden.</description></item><item><title>Arcade Cabinet mit MAME (2)</title><link>https://eigenbaukombinat.de/arcade-cabinet-mit-mame-2/</link><pubDate>Sat, 09 Feb 2013 15:11:09 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/arcade-cabinet-mit-mame-2/</guid><description>So, jetzt wird es etwas konkreter. Wir werden eine Couchtischversion bauen für insgesamt 4 Spieler. Zur Ideen-Anregung: BILD BILD BILD BILD
 Wir beginnen mit der Konsole für die ersten zwei Spieler. Als Farbe für die Knöpfe habe ich erstmal blau und rot im Auge wie oben, oder auch nach Spielern getrennt, mal sehen. Start- und Münzeinwurfknöpfe werden weiß, die Joysticks hingegen schwarz.
-Wenn die Knöpfe da sind gibt es davon ein paar Fotos und vielleicht schon den ersten Entwurf für die Konsole.</description>
-    </item>
-    
-    <item>
-      <title>Plattensäge</title>
-      <link>https://eigenbaukombinat.de/plattensage/</link>
-      <pubDate>Sun, 02 Dec 2012 00:35:43 +0000</pubDate>
-      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
-      <guid>https://eigenbaukombinat.de/plattensage/</guid>
-      <description>Wir bauen uns eine Plattenaufteilsäge, damit Zuschnitte schnell erledigt sind. Im Baumarkt stehen immer diese tollen Monster, wir brauchen eine kleinere und praktikable für unser EBK.
+Wenn die Knöpfe da sind gibt es davon ein paar Fotos und vielleicht schon den ersten Entwurf für die Konsole.</description></item><item><title>Plattensäge</title><link>https://eigenbaukombinat.de/plattensage/</link><pubDate>Sun, 02 Dec 2012 00:35:43 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/plattensage/</guid><description>Wir bauen uns eine Plattenaufteilsäge, damit Zuschnitte schnell erledigt sind. Im Baumarkt stehen immer diese tollen Monster, wir brauchen eine kleinere und praktikable für unser EBK.
 Prototyp V1: Schnittbreite knapp unter 60cm. Wir verwenden eine 80cm Festool Führungsschiene&amp;hellip; Skizze und Fotos folgen.
-Es gibt zwei Hintergrundplatten, die über Anschlagleisten miteinander verbunden werden. Auf die untere Anschlagleiste wird das Holz (dunkelbraun) aufgelegt. Die Führungsschiene (grün) wird wegen der höheren Stabilität auf eine Holzschiene (weiß) geschraubt (M6 Muttern in der Führungsschiene, Schrauben von unten).</description>
-    </item>
-    
-    <item>
-      <title>Prototyp eines Standardkastens</title>
-      <link>https://eigenbaukombinat.de/prototyp-eines-standardkastens/</link>
-      <pubDate>Thu, 22 Nov 2012 22:19:04 +0000</pubDate>
-      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
-      <guid>https://eigenbaukombinat.de/prototyp-eines-standardkastens/</guid>
-      <description>Ich möchte eine einfache Plattform erstellen, auf deren Basis ich Bücherregale, Kleiderschränke und die Unterkonstruktion meines geplanten Schreibtisches bauen kann. Zunächst sollte ein Prototyp entstehen, insbesondere um die Stabilität der Konstruktion zu überprüfen.
-Zunächst wurde die Spezifikation festgelegt. Ein Standardkasten hat eine Höhe von 60 cm und eine Breite von 40 cm. Er besteht mit Ausnahme der Rückwand aus 18 mm dickem Fichte Leimholz; die Rückwand ist eine 3 mm dicke Hartfaserplatte (alternativ: Dünn-MDF).</description>
-    </item>
-    
-  </channel>
-</rss>
+Es gibt zwei Hintergrundplatten, die über Anschlagleisten miteinander verbunden werden. Auf die untere Anschlagleiste wird das Holz (dunkelbraun) aufgelegt. Die Führungsschiene (grün) wird wegen der höheren Stabilität auf eine Holzschiene (weiß) geschraubt (M6 Muttern in der Führungsschiene, Schrauben von unten).</description></item><item><title>Prototyp eines Standardkastens</title><link>https://eigenbaukombinat.de/prototyp-eines-standardkastens/</link><pubDate>Thu, 22 Nov 2012 22:19:04 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/prototyp-eines-standardkastens/</guid><description>Ich möchte eine einfache Plattform erstellen, auf deren Basis ich Bücherregale, Kleiderschränke und die Unterkonstruktion meines geplanten Schreibtisches bauen kann. Zunächst sollte ein Prototyp entstehen, insbesondere um die Stabilität der Konstruktion zu überprüfen.
+Zunächst wurde die Spezifikation festgelegt. Ein Standardkasten hat eine Höhe von 60 cm und eine Breite von 40 cm. Er besteht mit Ausnahme der Rückwand aus 18 mm dickem Fichte Leimholz; die Rückwand ist eine 3 mm dicke Hartfaserplatte (alternativ: Dünn-MDF).</description></item></channel></rss>

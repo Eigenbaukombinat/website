@@ -1,23 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Arduino on Eigenbau​kombinat</title>
-    <link>https://eigenbaukombinat.de/tags/arduino/</link>
-    <description>Recent content in Arduino on Eigenbau​kombinat</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>kontakt@eigenbaukombinat.de (EBK Impressum)</managingEditor>
-    <webMaster>kontakt@eigenbaukombinat.de (EBK Impressum)</webMaster>
-    <lastBuildDate>Tue, 08 Oct 2019 22:06:59 +0000</lastBuildDate><atom:link href="https://eigenbaukombinat.de/tags/arduino/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Temperaturmessung mit Arduino</title>
-      <link>https://eigenbaukombinat.de/temperaturmessung-mit-arduino/</link>
-      <pubDate>Tue, 08 Oct 2019 22:06:59 +0000</pubDate>
-      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
-      <guid>https://eigenbaukombinat.de/temperaturmessung-mit-arduino/</guid>
-      <description>Während des Brennens von Keramik möchten wir gern einen Überblick über die Temperatur im Raum über die Zeit haben. Daher habe ich zusammen mit Cornelius kurzerhand einen Arduino dafür genutzt.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Arduino on Eigenbau​kombinat</title><link>https://eigenbaukombinat.de/tags/arduino/</link><description>Recent content in Arduino on Eigenbau​kombinat</description><generator>Hugo -- gohugo.io</generator><managingEditor>kontakt@eigenbaukombinat.de (EBK Impressum)</managingEditor><webMaster>kontakt@eigenbaukombinat.de (EBK Impressum)</webMaster><lastBuildDate>Tue, 08 Oct 2019 22:06:59 +0000</lastBuildDate><atom:link href="https://eigenbaukombinat.de/tags/arduino/index.xml" rel="self" type="application/rss+xml"/><item><title>Temperaturmessung mit Arduino</title><link>https://eigenbaukombinat.de/temperaturmessung-mit-arduino/</link><pubDate>Tue, 08 Oct 2019 22:06:59 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/temperaturmessung-mit-arduino/</guid><description>Während des Brennens von Keramik möchten wir gern einen Überblick über die Temperatur im Raum über die Zeit haben. Daher habe ich zusammen mit Cornelius kurzerhand einen Arduino dafür genutzt.
 Folgende Teile werden für den Spaß benötigt:
- Arduino Uno (ein Nano würde wohl auch gehen) einen AM2302 Temperatursensor auf Platine mit 3-Pin-Anschluss ZS-042 Echtzeituhr mit CR2032 Pufferbatterie MicroSD-Board ein 4-Ziffer-LED Display TM1637 für die Anzeige vor Ort  Prinzipiell misst auch die Echtzeituhr die Temperatur, um eine genaue Zeiterfassung zu ermöglichen, ich wollte aber auch die Luftfeuchte mit erfassen.</description>
-    </item>
-    
-  </channel>
-</rss>
+Arduino Uno (ein Nano würde wohl auch gehen) einen AM2302 Temperatursensor auf Platine mit 3-Pin-Anschluss ZS-042 Echtzeituhr mit CR2032 Pufferbatterie MicroSD-Board ein 4-Ziffer-LED Display TM1637 für die Anzeige vor Ort Prinzipiell misst auch die Echtzeituhr die Temperatur, um eine genaue Zeiterfassung zu ermöglichen, ich wollte aber auch die Luftfeuchte mit erfassen.</description></item></channel></rss>

@@ -1,22 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>hackspace on Eigenbau​kombinat</title>
-    <link>https://eigenbaukombinat.de/en/tags/hackspace/</link>
-    <description>Recent content in hackspace on Eigenbau​kombinat</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>kontakt@eigenbaukombinat.de (EBK Impressum)</managingEditor>
-    <webMaster>kontakt@eigenbaukombinat.de (EBK Impressum)</webMaster>
-    <lastBuildDate>Fri, 07 Jan 2022 13:37:15 +0100</lastBuildDate><atom:link href="https://eigenbaukombinat.de/en/tags/hackspace/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>remote chaos in Eigenbaukombinat</title>
-      <link>https://eigenbaukombinat.de/en/remote-chaos-im-eigenbaukombinat/</link>
-      <pubDate>Fri, 07 Jan 2022 13:37:15 +0100</pubDate>
-      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
-      <guid>https://eigenbaukombinat.de/en/remote-chaos-im-eigenbaukombinat/</guid>
-      <description>before approx. 2 years, between christmas and new year 2019, a larger crowd from the surrounding area of the Eigenbaukombinat and Chaostreff halle with all kinds of stickers, technology, and stage nequipment on the way into the Messe leipzig to design a large assembly with stage, bar and workshops together with many other hackers from the chaoszone.
-as in 2020, the &amp;ldquo;chaos communication congress,&amp;rdquo; the annual conference of the chaos computer club was cancelled again in 2021 due to coronary conditions.</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>hackspace on Eigenbau​kombinat</title><link>https://eigenbaukombinat.de/en/tags/hackspace/</link><description>Recent content in hackspace on Eigenbau​kombinat</description><generator>Hugo -- gohugo.io</generator><managingEditor>kontakt@eigenbaukombinat.de (EBK Impressum)</managingEditor><webMaster>kontakt@eigenbaukombinat.de (EBK Impressum)</webMaster><lastBuildDate>Fri, 07 Jan 2022 13:37:15 +0100</lastBuildDate><atom:link href="https://eigenbaukombinat.de/en/tags/hackspace/index.xml" rel="self" type="application/rss+xml"/><item><title>remote chaos in Eigenbaukombinat</title><link>https://eigenbaukombinat.de/en/remote-chaos-im-eigenbaukombinat/</link><pubDate>Fri, 07 Jan 2022 13:37:15 +0100</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/en/remote-chaos-im-eigenbaukombinat/</guid><description>before approx. 2 years, between christmas and new year 2019, a larger crowd from the surrounding area of the Eigenbaukombinat and Chaostreff halle with all kinds of stickers, technology, and stage nequipment on the way into the Messe leipzig to design a large assembly with stage, bar and workshops together with many other hackers from the chaoszone.
+as in 2020, the &amp;ldquo;chaos communication congress,&amp;rdquo; the annual conference of the chaos computer club was cancelled again in 2021 due to coronary conditions.</description></item></channel></rss>

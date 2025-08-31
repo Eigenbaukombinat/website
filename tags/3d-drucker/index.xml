@@ -1,146 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>3D-Drucker on Eigenbau​kombinat</title>
-    <link>https://eigenbaukombinat.de/tags/3d-drucker/</link>
-    <description>Recent content in 3D-Drucker on Eigenbau​kombinat</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>kontakt@eigenbaukombinat.de (EBK Impressum)</managingEditor>
-    <webMaster>kontakt@eigenbaukombinat.de (EBK Impressum)</webMaster>
-    <lastBuildDate>Sun, 20 Oct 2019 11:54:14 +0000</lastBuildDate><atom:link href="https://eigenbaukombinat.de/tags/3d-drucker/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Schnappschüsse (7)</title>
-      <link>https://eigenbaukombinat.de/schnappschuesse-7/</link>
-      <pubDate>Sun, 20 Oct 2019 11:54:14 +0000</pubDate>
-      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
-      <guid>https://eigenbaukombinat.de/schnappschuesse-7/</guid>
-      <description>Ein facettierter Ring aus dem 3D-Drucker, ein 3D-Scanner und eine gedrechselte Schale.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>3D-Drucker on Eigenbau​kombinat</title><link>https://eigenbaukombinat.de/tags/3d-drucker/</link><description>Recent content in 3D-Drucker on Eigenbau​kombinat</description><generator>Hugo -- gohugo.io</generator><managingEditor>kontakt@eigenbaukombinat.de (EBK Impressum)</managingEditor><webMaster>kontakt@eigenbaukombinat.de (EBK Impressum)</webMaster><lastBuildDate>Sun, 20 Oct 2019 11:54:14 +0000</lastBuildDate><atom:link href="https://eigenbaukombinat.de/tags/3d-drucker/index.xml" rel="self" type="application/rss+xml"/><item><title>Schnappschüsse (7)</title><link>https://eigenbaukombinat.de/schnappschuesse-7/</link><pubDate>Sun, 20 Oct 2019 11:54:14 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/schnappschuesse-7/</guid><description>Ein facettierter Ring aus dem 3D-Drucker, ein 3D-Scanner und eine gedrechselte Schale.
 Ein facettierter Ring Nachdem Florian zuletzt einen schönen Artikel über das Thema Holzverbindung veröffentlicht hat, fand ich diesen wunderschönen Ring als Vorlage bei Thingiverse, leider nur in einer Größe. Daher habe ich ihn in Cura skaliert auf 21, 22, 23, 25, und 27mm Außenmaß gedruckt. Verwendet wurde ein rotes, halbtransparentes PET-G-Material bei 240°C.
-         3D-Scanner Hier ein Bausatz vom OpenScan-3D-Scanner.</description>
-    </item>
-    
-    <item>
-      <title>Duschkopfhalter für Saugnapfhaken</title>
-      <link>https://eigenbaukombinat.de/duschkopfhalter-fuer-saugnapfhaken/</link>
-      <pubDate>Thu, 28 Feb 2019 10:49:22 +0000</pubDate>
-      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
-      <guid>https://eigenbaukombinat.de/duschkopfhalter-fuer-saugnapfhaken/</guid>
-      <description>Problem: Fliesen in der Dusche, die ich - weil Mietwohnung - nicht anbohren darf und möchte.
+3D-Scanner Hier ein Bausatz vom OpenScan-3D-Scanner.</description></item><item><title>Duschkopfhalter für Saugnapfhaken</title><link>https://eigenbaukombinat.de/duschkopfhalter-fuer-saugnapfhaken/</link><pubDate>Thu, 28 Feb 2019 10:49:22 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/duschkopfhalter-fuer-saugnapfhaken/</guid><description>Problem: Fliesen in der Dusche, die ich - weil Mietwohnung - nicht anbohren darf und möchte.
 Lösung: Saugnapfhaken aus dem großen schwedischen Möbelhaus mit 3-D-gedrucktem Adapter.
 So hab ichs gemacht:
- Saugnapfhaken ausgemessen, Duschkopfansatzstück ausgemessen, mit Hilfe von tinkercad ein 3D-Modell von beidem erstellt, einen Klotz gebaut, Haken und Ansatzstück &amp;ldquo;ausgeschnitten&amp;rdquo; und gedruckt.        3D-Modell
-Dauer für den Druck war ca. eine Stunde und das Modellieren richtet sich nach euren Skills.</description>
-    </item>
-    
-    <item>
-      <title>Es weihnachtet sehr!</title>
-      <link>https://eigenbaukombinat.de/es-weihnachtet-sehr/</link>
-      <pubDate>Wed, 15 Nov 2017 00:41:07 +0000</pubDate>
-      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
-      <guid>https://eigenbaukombinat.de/es-weihnachtet-sehr/</guid>
-      <description>Gerade frisch aus dem DDDrucker gefallen: der erste EBK-Keksausstecher der Welt!
-Wer probieren möchte, kommt einfach zum Koch- und Kennenlernabend am Freitag, da werden wir das Förmchen ausgiebig testen :)</description>
-    </item>
-    
-    <item>
-      <title>Akkupack-Halterung am Tablet-PC</title>
-      <link>https://eigenbaukombinat.de/akkupack-halterung-am-tablet-pc/</link>
-      <pubDate>Wed, 22 Jul 2015 10:27:51 +0000</pubDate>
-      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
-      <guid>https://eigenbaukombinat.de/akkupack-halterung-am-tablet-pc/</guid>
-      <description>Für die Datenerfassung in der Natur, Orientierung im Gelände mit GPS und Dokumentationsfotos nutze ich einen 8&amp;quot;-Tablet-PC. Gerade bei angeschaltetem GPS-Empfänger reicht die Laufzeit des internen Akkus für einen Arbeitstag nicht aus. Da dieser auch nicht auswechselbar ist, musste ein Akkupack her. Nur gibt es kein Zeitfenster zum Laden des Tablets zwischendurch. Also musste das Akkupack irgendwie am Tablet befestigt werden. Die einfachste Möglichkeit: An beide Geräte Klettband kleben, schied wegen des Risikos, dass die Garantie erlischt, aus.</description>
-    </item>
-    
-    <item>
-      <title>Reparatur: Ersatzteil für Dahle 508 Papierschneidemaschine</title>
-      <link>https://eigenbaukombinat.de/reparatur-ersatzteil-fuer-dahle-508-papierschneidemaschine/</link>
-      <pubDate>Fri, 10 Jul 2015 19:17:53 +0000</pubDate>
-      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
-      <guid>https://eigenbaukombinat.de/reparatur-ersatzteil-fuer-dahle-508-papierschneidemaschine/</guid>
-      <description>Da mir bei meiner Dahle A3-Papierschneidemaschine der kleine rote Schieber, der die Führungsstange arretiert, verloren gegangen ist, hab ich kurzerhand in Sketchup einen neuen gezeichnet und dann auf dem 3D-Drucker ausgedruckt.
+Saugnapfhaken ausgemessen, Duschkopfansatzstück ausgemessen, mit Hilfe von tinkercad ein 3D-Modell von beidem erstellt, einen Klotz gebaut, Haken und Ansatzstück &amp;ldquo;ausgeschnitten&amp;rdquo; und gedruckt. 3D-Modell
+Dauer für den Druck war ca. eine Stunde und das Modellieren richtet sich nach euren Skills.</description></item><item><title>Es weihnachtet sehr!</title><link>https://eigenbaukombinat.de/es-weihnachtet-sehr/</link><pubDate>Wed, 15 Nov 2017 00:41:07 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/es-weihnachtet-sehr/</guid><description>Gerade frisch aus dem DDDrucker gefallen: der erste EBK-Keksausstecher der Welt!
+Wer probieren möchte, kommt einfach zum Koch- und Kennenlernabend am Freitag, da werden wir das Förmchen ausgiebig testen :)</description></item><item><title>Akkupack-Halterung am Tablet-PC</title><link>https://eigenbaukombinat.de/akkupack-halterung-am-tablet-pc/</link><pubDate>Wed, 22 Jul 2015 10:27:51 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/akkupack-halterung-am-tablet-pc/</guid><description>Für die Datenerfassung in der Natur, Orientierung im Gelände mit GPS und Dokumentationsfotos nutze ich einen 8&amp;quot;-Tablet-PC. Gerade bei angeschaltetem GPS-Empfänger reicht die Laufzeit des internen Akkus für einen Arbeitstag nicht aus. Da dieser auch nicht auswechselbar ist, musste ein Akkupack her. Nur gibt es kein Zeitfenster zum Laden des Tablets zwischendurch. Also musste das Akkupack irgendwie am Tablet befestigt werden. Die einfachste Möglichkeit: An beide Geräte Klettband kleben, schied wegen des Risikos, dass die Garantie erlischt, aus.</description></item><item><title>Reparatur: Ersatzteil für Dahle 508 Papierschneidemaschine</title><link>https://eigenbaukombinat.de/reparatur-ersatzteil-fuer-dahle-508-papierschneidemaschine/</link><pubDate>Fri, 10 Jul 2015 19:17:53 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/reparatur-ersatzteil-fuer-dahle-508-papierschneidemaschine/</guid><description>Da mir bei meiner Dahle A3-Papierschneidemaschine der kleine rote Schieber, der die Führungsstange arretiert, verloren gegangen ist, hab ich kurzerhand in Sketchup einen neuen gezeichnet und dann auf dem 3D-Drucker ausgedruckt.
 Hier &amp;ldquo;sieht&amp;rdquo; man das fehlende Teil. ;)
-
-Die Konstruktion ging nach kurzem Messen recht schnell in Sketchup, ein Klotz von 18x24mm, mit kleinen, keilförmigen Vertiefungen an den Seiten. Der Export erfolgte dann als Collada DAE, was man direkt im Cura-Slicer laden kann.</description>
-    </item>
-    
-    <item>
-      <title>Schnappschüsse (4)</title>
-      <link>https://eigenbaukombinat.de/schnappschuesse-4/</link>
-      <pubDate>Tue, 26 May 2015 09:20:06 +0000</pubDate>
-      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
-      <guid>https://eigenbaukombinat.de/schnappschuesse-4/</guid>
-      <description>Nach längerer Pause meldet sich mal wieder die Rubrik &amp;ldquo;Schnappschüsse&amp;rdquo; zurück. Heute unter anderem eine Philips Videopac G7000 (&amp;ldquo;Odyssey²&amp;rdquo;), alten Stühlen und kreativer Resteverwertung!                                     </description>
-    </item>
-    
-    <item>
-      <title>3D-Druck trifft Plätzchenbäckerei</title>
-      <link>https://eigenbaukombinat.de/3d-druck-trifft-plaetzchenbaeckerei/</link>
-      <pubDate>Tue, 04 Nov 2014 12:52:02 +0000</pubDate>
-      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
-      <guid>https://eigenbaukombinat.de/3d-druck-trifft-plaetzchenbaeckerei/</guid>
-      <description>Heute habe auch ich endlich verstanden wozu man 3D-Drucker wirklich braucht und nutzen kann. Warum nur Ersatzteile und Bastelzubehör drucken wenn man auch Plätzchenausstecher haben kann! ;)Kurzerhand haben wir ein tolles Modell auf Thingiverse gesucht, den Drucker angeschmissen und schon konnte es los gehen. Etwa eine Stunde später hielt ich meinen ersten selbstgedruckten Ausstecher in der Hand. Jetzt fehlte nur noch der richtige Teig für die ersten eigenen &amp;ldquo;Batman-Plätzchen&amp;rdquo;, dann konnte es auch schon losgehen!</description>
-    </item>
-    
-    <item>
-      <title>Blick über den Tellerrand (44)</title>
-      <link>https://eigenbaukombinat.de/blick-ueber-den-tellerrand-44/</link>
-      <pubDate>Mon, 20 Jan 2014 13:33:00 +0000</pubDate>
-      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
-      <guid>https://eigenbaukombinat.de/blick-ueber-den-tellerrand-44/</guid>
-      <description> * [ARTIKEL: Eine Analogkamera selbst gebaut.](https://kekado.zapto.org/kevin/open.html) * BILDER: Jede Menge Inspirationen für die CNC-Fräse: [(Teil 1)](https://www.pinterest.com/madercraft/cnc/) [(Teil 2)](https://www.pinterest.com/cgb50/slot-together/) * [ARTIKEL: Eine Software, um große Teile zusammengefaltet für den 3D-Drucker zu erzeugen.](https://n-e-r-v-o-u-s.com/blog/?cat=84,37,16,37)  </description>
-    </item>
-    
-    <item>
-      <title>Im Eigenbaukombinat gebastelte Enten gewinnen Entenschönheitswettbewerb beim Laternenfest 2013</title>
-      <link>https://eigenbaukombinat.de/im-eigenbaukombinat-gebastelte-enten-gewinnen-entenschonheitswettbewerb-beim-laternenfest-2013/</link>
-      <pubDate>Sat, 24 Aug 2013 18:47:28 +0000</pubDate>
-      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
-      <guid>https://eigenbaukombinat.de/im-eigenbaukombinat-gebastelte-enten-gewinnen-entenschonheitswettbewerb-beim-laternenfest-2013/</guid>
-      <description>In den letzten 4 Wochen sind im Eigenbaukombinat drei Enten für den Entenschönheitswettbewerb auf dem Laternenfest 2013 entstanden. (Mehr Infos dazu auf der Veranstalterseite).
-Beim Bau der Enten kamen viele unserer Maschinen (3D-Drucker, CNC-Fräse, Nähmaschinen, &amp;hellip;) zum Einsatz. Die Arbeit hat sich gelohnt! Steffi konnte sich mit ihrer Ente &amp;ldquo;Haentel&amp;rdquo; den ersten Platz sichern. Dicht dahinter ihre glitzernde und LED-beleuchtete Ente in der Kiste auf Platz 3. Matthias ist mit seiner Chrom-Ente auf Platz 19 gelandet.</description>
-    </item>
-    
-    <item>
-      <title>Nachlese: Zweiter Grundkurs 3D Drucken</title>
-      <link>https://eigenbaukombinat.de/nachlese-zweiter-grundkurs-3d-drucken/</link>
-      <pubDate>Mon, 24 Jun 2013 14:24:46 +0000</pubDate>
-      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
-      <guid>https://eigenbaukombinat.de/nachlese-zweiter-grundkurs-3d-drucken/</guid>
-      <description>Am 2.6.2013 war es soweit, der zweite Grundkurs 3D-Drucken stand im Kalender, diesmal mit 5 Teilnehmern. Darunter zwei Vereinsmitglieder des Eigenbaukombinats sowie drei externe Interessenten, die lange Anfahrten auf sich genommen haben. Andrea ist extra aus Magdeburg nach Halle gekommen. Ulrich und Frank haben sogar den weiten Weg aus dem Spreewald auf sich genommen, um am Kurs teilzunehmen.
-
-Und dann gab es noch einen sechsten Besucher: Hartmut. Hartmut ist das Maskottchen der Technikschule clever inside - ein Hackerspace/Mitmachwerkstatt/Offene Werkstatt in Lübbenau.</description>
-    </item>
-    
-    <item>
-      <title>Die Watterott-Wanderkiste auf Durchreise im Eigenbaukombinat</title>
-      <link>https://eigenbaukombinat.de/die-watterott-wanderkiste-auf-durchreise-im-eigenbaukombinat/</link>
-      <pubDate>Sat, 01 Jun 2013 09:58:40 +0000</pubDate>
-      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
-      <guid>https://eigenbaukombinat.de/die-watterott-wanderkiste-auf-durchreise-im-eigenbaukombinat/</guid>
-      <description>Diese Woche hatten wir eine große orangene Kiste zu Besuch im Eigenbaukombinat: Die Wanderkiste des Elektronikversenders Watterott electronic. Die Idee hinter der Kiste ist einfach: Die Kiste wird von einem Fablab/Makerspace zum Nächsten gesendet. Jeder nimmt sich das heraus, was er brauchen kann, und füllt die Kiste im Gegenzug mit Teilen, die er nicht mehr braucht. Zwischendurch wird die Kiste immer wieder mit Kundenretouren und Gimmicks von Watterott angereichert.
-Nähere Informationen zur Idee: https://www.</description>
-    </item>
-    
-    <item>
-      <title>Sinnloses aus dem 3D-Drucker</title>
-      <link>https://eigenbaukombinat.de/sinnloses-aus-dem-3d-drucker/</link>
-      <pubDate>Tue, 21 May 2013 06:49:38 +0000</pubDate>
-      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
-      <guid>https://eigenbaukombinat.de/sinnloses-aus-dem-3d-drucker/</guid>
-      <description>Da in unserem letzten Post über das Ersatzteil für den Stabmixer versehentlich der Eindruck entstand, 3D Drucker würden für sinnvolle Sachen verwendet werden wollen wir das doch heute gleich mal widerlegen. ;-)
-Ich habe mal ein paar der Drucke die wir in letzter Zeit zu Demonstrationszwecken gedruckt haben auf die Hohlkehle im Fotostudio geworfen - seht selbst was dabei herausgekommen ist.
-                                         </description>
-    </item>
-    
-    <item>
-      <title>Ersatzteil für den Mixer Tevion MD 12209 - der 3D Drucker im Einsatz</title>
-      <link>https://eigenbaukombinat.de/ersatzteil-fur-den-mixer-tevion-md-12209-der-3d-drucker-im-einsatz/</link>
-      <pubDate>Sun, 05 May 2013 01:30:56 +0000</pubDate>
-      <author>kontakt@eigenbaukombinat.de (EBK Impressum)</author>
-      <guid>https://eigenbaukombinat.de/ersatzteil-fur-den-mixer-tevion-md-12209-der-3d-drucker-im-einsatz/</guid>
-      <description>Christian ist vor ein paar Tagen mit einem defekten Stabmixer Tevion MD12209 in unserer Werkstatt aufgeschlagen. Wie so oft war nur ein kleines Teil kaputt, leider war es weder zu reparieren noch über den Hersteller als Ersatzteil zu beziehen. Die Garantie war natürlich auch schon abgelaufen.
-Das kaputte Teil war eine zerdrückte Wellenkupplung, (Auf dem Foto in weiß) die die Motorwelle mit dem Motor verbindet. Ohne das Teil ist der Mixer leider nicht nutzbar.</description>
-    </item>
-    
-  </channel>
-</rss>
+Die Konstruktion ging nach kurzem Messen recht schnell in Sketchup, ein Klotz von 18x24mm, mit kleinen, keilförmigen Vertiefungen an den Seiten. Der Export erfolgte dann als Collada DAE, was man direkt im Cura-Slicer laden kann.</description></item><item><title>Schnappschüsse (4)</title><link>https://eigenbaukombinat.de/schnappschuesse-4/</link><pubDate>Tue, 26 May 2015 09:20:06 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/schnappschuesse-4/</guid><description>Nach längerer Pause meldet sich mal wieder die Rubrik &amp;ldquo;Schnappschüsse&amp;rdquo; zurück. Heute unter anderem eine Philips Videopac G7000 (&amp;ldquo;Odyssey²&amp;rdquo;), alten Stühlen und kreativer Resteverwertung!</description></item><item><title>3D-Druck trifft Plätzchenbäckerei</title><link>https://eigenbaukombinat.de/3d-druck-trifft-plaetzchenbaeckerei/</link><pubDate>Tue, 04 Nov 2014 12:52:02 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/3d-druck-trifft-plaetzchenbaeckerei/</guid><description>Heute habe auch ich endlich verstanden wozu man 3D-Drucker wirklich braucht und nutzen kann. Warum nur Ersatzteile und Bastelzubehör drucken wenn man auch Plätzchenausstecher haben kann! ;)Kurzerhand haben wir ein tolles Modell auf Thingiverse gesucht, den Drucker angeschmissen und schon konnte es los gehen. Etwa eine Stunde später hielt ich meinen ersten selbstgedruckten Ausstecher in der Hand. Jetzt fehlte nur noch der richtige Teig für die ersten eigenen &amp;ldquo;Batman-Plätzchen&amp;rdquo;, dann konnte es auch schon losgehen!</description></item><item><title>Blick über den Tellerrand (44)</title><link>https://eigenbaukombinat.de/blick-ueber-den-tellerrand-44/</link><pubDate>Mon, 20 Jan 2014 13:33:00 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/blick-ueber-den-tellerrand-44/</guid><description> * [ARTIKEL: Eine Analogkamera selbst gebaut.](https://kekado.zapto.org/kevin/open.html) * BILDER: Jede Menge Inspirationen für die CNC-Fräse: [(Teil 1)](https://www.pinterest.com/madercraft/cnc/) [(Teil 2)](https://www.pinterest.com/cgb50/slot-together/) * [ARTIKEL: Eine Software, um große Teile zusammengefaltet für den 3D-Drucker zu erzeugen.](https://n-e-r-v-o-u-s.com/blog/?cat=84,37,16,37)</description></item><item><title>Im Eigenbaukombinat gebastelte Enten gewinnen Entenschönheitswettbewerb beim Laternenfest 2013</title><link>https://eigenbaukombinat.de/im-eigenbaukombinat-gebastelte-enten-gewinnen-entenschonheitswettbewerb-beim-laternenfest-2013/</link><pubDate>Sat, 24 Aug 2013 18:47:28 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/im-eigenbaukombinat-gebastelte-enten-gewinnen-entenschonheitswettbewerb-beim-laternenfest-2013/</guid><description>In den letzten 4 Wochen sind im Eigenbaukombinat drei Enten für den Entenschönheitswettbewerb auf dem Laternenfest 2013 entstanden. (Mehr Infos dazu auf der Veranstalterseite).
+Beim Bau der Enten kamen viele unserer Maschinen (3D-Drucker, CNC-Fräse, Nähmaschinen, &amp;hellip;) zum Einsatz. Die Arbeit hat sich gelohnt! Steffi konnte sich mit ihrer Ente &amp;ldquo;Haentel&amp;rdquo; den ersten Platz sichern. Dicht dahinter ihre glitzernde und LED-beleuchtete Ente in der Kiste auf Platz 3. Matthias ist mit seiner Chrom-Ente auf Platz 19 gelandet.</description></item><item><title>Nachlese: Zweiter Grundkurs 3D Drucken</title><link>https://eigenbaukombinat.de/nachlese-zweiter-grundkurs-3d-drucken/</link><pubDate>Mon, 24 Jun 2013 14:24:46 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/nachlese-zweiter-grundkurs-3d-drucken/</guid><description>Am 2.6.2013 war es soweit, der zweite Grundkurs 3D-Drucken stand im Kalender, diesmal mit 5 Teilnehmern. Darunter zwei Vereinsmitglieder des Eigenbaukombinats sowie drei externe Interessenten, die lange Anfahrten auf sich genommen haben. Andrea ist extra aus Magdeburg nach Halle gekommen. Ulrich und Frank haben sogar den weiten Weg aus dem Spreewald auf sich genommen, um am Kurs teilzunehmen.
+Und dann gab es noch einen sechsten Besucher: Hartmut. Hartmut ist das Maskottchen der Technikschule clever inside - ein Hackerspace/Mitmachwerkstatt/Offene Werkstatt in Lübbenau.</description></item><item><title>Die Watterott-Wanderkiste auf Durchreise im Eigenbaukombinat</title><link>https://eigenbaukombinat.de/die-watterott-wanderkiste-auf-durchreise-im-eigenbaukombinat/</link><pubDate>Sat, 01 Jun 2013 09:58:40 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/die-watterott-wanderkiste-auf-durchreise-im-eigenbaukombinat/</guid><description>Diese Woche hatten wir eine große orangene Kiste zu Besuch im Eigenbaukombinat: Die Wanderkiste des Elektronikversenders Watterott electronic. Die Idee hinter der Kiste ist einfach: Die Kiste wird von einem Fablab/Makerspace zum Nächsten gesendet. Jeder nimmt sich das heraus, was er brauchen kann, und füllt die Kiste im Gegenzug mit Teilen, die er nicht mehr braucht. Zwischendurch wird die Kiste immer wieder mit Kundenretouren und Gimmicks von Watterott angereichert.
+Nähere Informationen zur Idee: https://www.</description></item><item><title>Sinnloses aus dem 3D-Drucker</title><link>https://eigenbaukombinat.de/sinnloses-aus-dem-3d-drucker/</link><pubDate>Tue, 21 May 2013 06:49:38 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/sinnloses-aus-dem-3d-drucker/</guid><description>Da in unserem letzten Post über das Ersatzteil für den Stabmixer versehentlich der Eindruck entstand, 3D Drucker würden für sinnvolle Sachen verwendet werden wollen wir das doch heute gleich mal widerlegen. ;-)
+Ich habe mal ein paar der Drucke die wir in letzter Zeit zu Demonstrationszwecken gedruckt haben auf die Hohlkehle im Fotostudio geworfen - seht selbst was dabei herausgekommen ist.</description></item><item><title>Ersatzteil für den Mixer Tevion MD 12209 - der 3D Drucker im Einsatz</title><link>https://eigenbaukombinat.de/ersatzteil-fur-den-mixer-tevion-md-12209-der-3d-drucker-im-einsatz/</link><pubDate>Sun, 05 May 2013 01:30:56 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/ersatzteil-fur-den-mixer-tevion-md-12209-der-3d-drucker-im-einsatz/</guid><description>Christian ist vor ein paar Tagen mit einem defekten Stabmixer Tevion MD12209 in unserer Werkstatt aufgeschlagen. Wie so oft war nur ein kleines Teil kaputt, leider war es weder zu reparieren noch über den Hersteller als Ersatzteil zu beziehen. Die Garantie war natürlich auch schon abgelaufen.
+Das kaputte Teil war eine zerdrückte Wellenkupplung, (Auf dem Foto in weiß) die die Motorwelle mit dem Motor verbindet. Ohne das Teil ist der Mixer leider nicht nutzbar.</description></item></channel></rss>
